@@ -1,0 +1,39 @@
+﻿File,Column,Type,Unit,Description
+McL_seed-traits.csv,Species,character,NA,Species name using updated Jepson Names (only includes subspecies/varieties when there are no other accessions of the same species)
+McL_seed-traits.csv,new.code,character,NA,"6 letter species code (first three letters of genus, first three letters of the species); does not include subspecies"
+McL_seed-traits.csv,family,character,NA,species taxonomic family following Jepson eflora
+McL_seed-traits.csv,group,categorical,NA,forb or grass
+McL_seed-traits.csv,nat.inv,categorical,NA,native or non-native
+McL_seed-traits.csv,FunGroup,categorical,NA,"native forb, non-native forb, non-native grass"
+McL_seed-traits.csv,appendage.type,categorical,NA,"categories: flat, elongated, nutrient-containing, no appendage, balloon structure; when more than one appendage was present, we chose the dominant appendage (i.e., if a seed has both hairs and an awn, we went with awn)"
+McL_seed-traits.csv,appendage,categorical,NA,"more detailed appendage category (pappus, hairs, hooks, elaiosome, wing)"
+McL_seed-traits.csv,disp.cat.all,categorical,NA,"dispersal category, includes human dispersal (see Lososová et al 2023)"
+McL_seed-traits.csv,disp.cat.nat,categorical,NA,"dispersal category, does not include human dispersal (see Lososová et al 2023)"
+McL_seed-traits.csv,site,categorical,NA,"concatenated site; key: SS = obtained through S&S seeds, MCL-ML = collected by ML at McLLaughlin, MCL-EE = collected by EE at McLaughlin, SFREC = collected at SFREC, UCD = grown from wild collected seed in uc greenhouse, HED = obtained from hedgerow farms, CBG = obtained from the California Botanic Garden, DW = collected by DW in Anza Borrego, CP = Carrizo Plain, MD = Mojave Desert, SD = Sonoran Desert, GRIN = USDA GRIN, SAC = Collected in Sacramento"
+McL_seed-traits.csv,new.mass,numerical,mg,mass of 100 seeds in mg with persistent appendages only (pappi and other non-persistent appendages removed)
+McL_seed-traits.csv,morph.mass.mg,numerical,mg,mass of the 100 dispersal units in mg (includes appendages)
+McL_seed-traits.csv,chem.mass.mg,numerical,mg,mass of 100 seeds in mg (does not include appendages except in asters where the fruit coat (achene) would be too difficult to remove
+McL_seed-traits.csv,set.time.mpsec,numerical,m/s,settling time (falling speed) in meters per second
+McL_seed-traits.csv,prop.C,numerical,mg/mg,proportion carbon in no less than 5 seeds (no appendages)
+McL_seed-traits.csv,prop.N,numerical,mg/mg,proportion nitrogen in no less than 5 seeds (no appendages)
+McL_seed-traits.csv,height.cm,numerical,cm,"plant height, used as a proxy for seed release height and used to categorize dispersal categories, comes either from individual datasets (McLaughlin, Carrizo, Jasper Ridge etc) or from literature"
+McL_seed-traits.csv,shape,numerical,NA,"unitless number describing the shape of the seed, includes persistent appendages, varies from 0 (round) to 0.2 (needle like)"
+McL_seed-traits.csv,size.mm,numerical,mm,"Length in mm of the longest seed axis, includes persistent appendages only"
+McL_seed-traits.csv,coat.perm.perc,numerical,mg/mg*100,Seed coat permeability percentage: (mass of soaked seeds - mass of dry seeds)/mass of dry seed
+McL_seed-traits.csv,coat.thick,numerical,mm,seed coat thickness (mm)
+McL_seed-traits.csv,fruit.thick,numerical,mm,fruit coat thickness (mm)
+McL_seed-traits.csv,both.thick,numerical,mm,fruit + seed coat thickness - this might be the most reliable as it was consistently difficult to measure the true seed coat in achenes
+McL_seed-traits.csv,coat.thick.per.width,numerical,ratio,both.thick/seed width
+McL_seed-traits.csv,wing.loading,numerical,mg/mm2,morph.mass.mg/area.mm2; indicates how mass is spread out over the seed; lower values indicate higher potential for wind dispersal
+McL_seed-traits.csv,ldd.all,ordinal,NA,"dispersal category numeric, includes human dispersal (see Lososová et al 2023)"
+McL_seed-traits.csv,ldd.natural,ordinal,NA,"dispersal category numeric, does not include human dispersal (see Lososová et al 2023)"
+McL-community-PA-data_annuals_2019.csv,Species_Name,character,NA,Species name
+McL-community-PA-data_annuals_2019.csv,ID,numerical,NA,Plot ID
+McL-community-PA-data_annuals_2019.csv,2000:2019,numerical,NA,"Year of census; 0 = species absent, 1 = species present"
+HMM-meta-mcl.csv,Species_Name,character,NA,species name
+HMM-meta-mcl.csv,n.plots,numerical,NA,number of plots species was found in across the entire time series
+HMM-meta-mcl.csv,mean.years,numerical,NA,mean number of years species was found in
+HMM-meta-mcl.csv,min.years,numerical,NA,minimum number of years species was found
+HMM-meta-mcl.csv,max.years,numerical,NA,maximum number of years species was found in
+HMM-meta-mcl.csv,FunGroup,categorical,NA,functional group (Exotic Forb; Exotic Grass; Native Forb)
+HMM-meta-mcl.csv,new.code,character,NA,Species code (first three letters of genus + first three letters of species)

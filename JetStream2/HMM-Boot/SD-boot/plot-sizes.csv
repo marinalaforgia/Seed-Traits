@@ -1,0 +1,1610 @@
+Year,plot.habitat.replicate,habitat,seedlings,AllSppSPM2,calculated.plot.size,actual.plot.size,notes
+1983,1-open-east,open,93,1860,0.05,0.05,
+1983,1-open-west,open,34,680,0.05,0.05,
+1983,2-open-east,open,183,3660,0.05,0.05,
+1983,2-open-west,open,114,2280,0.05,0.05,
+1983,4-open-east,open,266,5320,0.05,0.05,
+1983,4-open-west,open,98,1960,0.05,0.05,
+1983,5-open-east,open,34,680,0.05,0.05,
+1983,5-open-west,open,53,1060,0.05,0.05,
+1983,6-open-east,open,9,180,0.05,0.05,
+1983,6-open-west,open,47,940,0.05,0.05,
+1983,9-open-east,open,42,840,0.05,0.05,
+1983,9-open-west,open,48,960,0.05,0.05,
+1984,1-open-east,open,230,4600,0.05,0.05,
+1984,1-open-west,open,356,7120,0.05,0.05,
+1984,2-open-east,open,498,9940,0.05,0.05,
+1984,2-open-west,open,432,8640,0.05,0.05,
+1984,4-open-east,open,529,10580,0.05,0.05,
+1984,4-open-west,open,541,10820,0.05,0.05,
+1984,6-open-east,open,296,5920,0.05,0.05,
+1984,6-open-west,open,453,9060,0.05,0.05,
+1984,9-open-east,open,47,900,0.052,0.05,assumed this was 0.05
+1984,9-open-west,open,61,1200,0.051,0.05,assumed this was 0.05
+1985,1-open-east,open,81,1620,0.05,0.05,
+1985,1-open-west,open,39,780,0.05,0.05,
+1985,2-open-east,open,83,1640,0.051,0.05,assumed this was 0.05
+1985,2-open-west,open,71,1420,0.05,0.05,
+1985,4-open-east,open,99,1980,0.05,0.05,
+1985,4-open-west,open,118,2360,0.05,0.05,
+1985,6-open-east,open,41,820,0.05,0.05,
+1985,6-open-west,open,18,360,0.05,0.05,
+1985,9-open-east,open,34,680,0.05,0.05,
+1985,9-open-west,open,35,700,0.05,0.05,
+1986,1-open-east,open,79,1580,0.05,0.05,
+1986,1-open-west,open,67,1320,0.051,0.05,assumed this was 0.05
+1986,2-open-east,open,72,1440,0.05,0.05,
+1986,2-open-west,open,67,1320,0.051,0.05,assumed this was 0.05
+1986,4-open-east,open,69,1380,0.05,0.05,
+1986,4-open-west,open,195,3900,0.05,0.05,
+1986,6-open-east,open,41,820,0.05,0.05,
+1986,6-open-west,open,80,1600,0.05,0.05,
+1986,9-open-east,open,43,860,0.05,0.05,
+1986,9-open-west,open,32,640,0.05,0.05,
+1987,1-open-east,open,81,1620,0.05,0.05,
+1987,1-open-west,open,122,2400,0.051,0.05,assumed this was 0.05
+1987,2-open-east,open,101,2020,0.05,0.05,
+1987,2-open-west,open,162,3140,0.052,0.05,assumed this was 0.05
+1987,4-open-east,open,29,580,0.05,0.05,
+1987,4-open-west,open,103,2060,0.05,0.05,
+1987,5-open-east,open,126,2520,0.05,0.05,
+1987,5-open-west,open,166,3300,0.05,0.05,
+1987,6-open-east,open,153,3060,0.05,0.05,
+1987,6-open-west,open,104,2060,0.05,0.05,
+1987,9-open-east,open,25,500,0.05,0.05,
+1987,9-open-west,open,41,820,0.05,0.05,
+1988,1-open-east,open,180,3580,0.05,0.05,
+1988,1-open-west,open,100,2000,0.05,0.05,
+1988,2-open-east,open,224,4380,0.051,0.05,assumed this was 0.05
+1988,2-open-west,open,371,7220,0.051,0.05,assumed this was 0.05
+1988,4-open-east,open,174,3480,0.05,0.05,
+1988,4-open-west,open,385,7700,0.05,0.05,
+1988,5-open-east,open,347,6940,0.05,0.05,
+1988,5-open-west,open,383,7660,0.05,0.05,
+1988,6-open-east,open,107,2140,0.05,0.05,
+1988,6-open-west,open,76,1520,0.05,0.05,
+1988,9-open-east,open,26,520,0.05,0.05,
+1988,9-open-west,open,141,2820,0.05,0.05,
+1989,1-open-east,open,71,1420,0.05,0.05,
+1989,1-open-west,open,89,1780,0.05,0.05,
+1989,2-open-east,open,66,1320,0.05,0.05,
+1989,2-open-west,open,100,2000,0.05,0.05,
+1989,4-open-east,open,30,600,0.05,0.05,
+1989,4-open-west,open,68,1360,0.05,0.05,
+1989,5-open-east,open,88,1760,0.05,0.05,
+1989,5-open-west,open,100,1980,0.051,0.05,assumed this was 0.05
+1989,6-open-east,open,87,1740,0.05,0.05,
+1989,6-open-west,open,75,1500,0.05,0.05,
+1989,9-open-east,open,16,320,0.05,0.05,
+1989,9-open-west,open,63,1260,0.05,0.05,
+1990,1-open-east,open,2,40,0.05,0.05,
+1990,1-open-west,open,7,140,0.05,0.05,
+1990,2-open-east,open,3,60,0.05,0.05,
+1990,2-open-west,open,5,100,0.05,0.05,
+1990,4-open-east,open,1,20,0.05,0.05,
+1990,4-open-west,open,8,160,0.05,0.05,
+1990,5-open-east,open,2,40,0.05,0.05,
+1990,5-open-west,open,6,120,0.05,0.05,
+1990,6-open-east,open,10,200,0.05,0.05,
+1990,6-open-west,open,7,140,0.05,0.05,
+1990,9-open-east,open,13,NA,NA,,
+1990,9-open-west,open,1,NA,NA,,
+1991,0-open-south,open,2,20,0.1,0.1,
+1991,0-shrub-north,shrub,3,NA,NA,,
+1991,1-open-east,open,74,1480,0.05,0.05,
+1991,1-open-west,open,17,340,0.05,0.05,
+1991,114-open-north,open,1,10,0.1,0.1,
+1991,114-open-south,open,8,80,0.1,0.1,
+1991,114-shrub-north,shrub,5,100,0.05,0.05,
+1991,114-shrub-south,shrub,38,760,0.05,0.05,
+1991,12-open-north,open,5,50,0.1,0.1,
+1991,12-open-south,open,10,100,0.1,0.1,
+1991,12-shrub-north,shrub,6,120,0.05,0.05,
+1991,12-shrub-south,shrub,27,540,0.05,0.05,
+1991,120-open-north,open,2,NA,NA,,
+1991,120-shrub-north,shrub,9,180,0.05,0.05,
+1991,120-shrub-south,shrub,16,320,0.05,0.05,
+1991,137-open-north,open,1,NA,NA,,
+1991,137-open-south,open,7,70,0.1,0.1,
+1991,137-shrub-north,shrub,17,340,0.05,0.05,
+1991,137-shrub-south,shrub,33,660,0.05,0.05,
+1991,150-open-north,open,13,130,0.1,0.1,
+1991,150-open-south,open,4,40,0.1,0.1,
+1991,150-shrub-north,shrub,12,240,0.05,0.05,
+1991,150-shrub-south,shrub,1,NA,NA,,
+1991,180-open-south,open,3,30,0.1,0.1,
+1991,180-shrub-north,shrub,3,40,0.075,,
+1991,180-shrub-south,shrub,10,160,0.062,,
+1991,2-open-east,open,33,660,0.05,0.05,
+1991,2-open-west,open,22,400,0.055,0.05,assumed this was 0.05
+1991,3-open-north,open,2,NA,NA,,
+1991,3-open-south,open,6,NA,NA,,
+1991,3-shrub-north,shrub,6,NA,NA,,
+1991,3-shrub-south,shrub,5,NA,NA,,
+1991,4-open-east,open,7,140,0.05,0.05,
+1991,4-open-west,open,5,100,0.05,0.05,
+1991,49-shrub-north,shrub,3,60,0.05,0.05,
+1991,49-shrub-south,shrub,8,NA,NA,,
+1991,5-open-east,open,32,640,0.05,0.05,
+1991,5-open-west,open,19,380,0.05,0.05,
+1991,6-open-east,open,3,60,0.05,0.05,
+1991,6-open-west,open,1,20,0.05,0.05,
+1991,60-open-north,open,3,NA,NA,,
+1991,60-open-south,open,5,NA,NA,,
+1991,60-shrub-north,shrub,15,NA,NA,,
+1991,60-shrub-south,shrub,4,NA,NA,,
+1991,9-open-east,open,22,NA,NA,,
+1991,9-open-west,open,6,NA,NA,,
+1991,90-open-north,open,4,NA,NA,,
+1991,90-open-south,open,2,NA,NA,,
+1991,90-shrub-north,shrub,7,140,0.05,0.05,
+1991,90-shrub-south,shrub,5,100,0.05,0.05,
+1992,0-open-north,open,2,20,0.1,0.1,
+1992,0-open-south,open,11,110,0.1,0.1,
+1992,0-shrub-north,shrub,17,340,0.05,0.05,
+1992,1-open-east,open,226,4520,0.05,0.05,
+1992,1-open-west,open,17,340,0.05,0.05,
+1992,114-open-north,open,4,40,0.1,0.1,
+1992,114-open-south,open,6,50,0.12,0.1,assumed this was 0.1
+1992,114-shrub-north,shrub,15,300,0.05,0.05,
+1992,114-shrub-south,shrub,34,680,0.05,0.05,
+1992,12-open-north,open,19,180,0.106,0.1,assumed this was 0.1
+1992,12-open-south,open,167,1670,0.1,0.1,
+1992,12-shrub-north,shrub,7,140,0.05,0.05,
+1992,12-shrub-south,shrub,20,400,0.05,0.05,
+1992,120-open-north,open,8,80,0.1,0.1,
+1992,120-open-south,open,11,110,0.1,0.1,
+1992,120-shrub-north,shrub,11,220,0.05,0.05,
+1992,120-shrub-south,shrub,2,40,0.05,0.05,
+1992,137-open-north,open,3,30,0.1,0.1,
+1992,137-open-south,open,109,1090,0.1,0.1,
+1992,137-shrub-north,shrub,27,540,0.05,0.05,
+1992,137-shrub-south,shrub,30,600,0.05,0.05,
+1992,150-open-north,open,111,1090,0.102,0.1,assumed this was 0.1
+1992,150-open-south,open,70,700,0.1,0.1,
+1992,150-shrub-north,shrub,21,420,0.05,0.05,
+1992,150-shrub-south,shrub,6,120,0.05,0.05,
+1992,180-open-north,open,30,290,0.103,0.1,assumed this was 0.1
+1992,180-open-south,open,80,770,0.104,0.1,assumed this was 0.1
+1992,180-shrub-north,shrub,31,460,0.067,,
+1992,180-shrub-south,shrub,13,140,0.093,,
+1992,2-open-east,open,68,1360,0.05,0.05,
+1992,2-open-west,open,232,4640,0.05,0.05,
+1992,3-open-north,open,16,160,0.1,0.1,
+1992,3-open-south,open,87,870,0.1,0.1,
+1992,3-shrub-north,shrub,27,540,0.05,0.05,
+1992,3-shrub-south,shrub,6,120,0.05,0.05,
+1992,4-open-east,open,48,960,0.05,0.05,
+1992,4-open-west,open,23,460,0.05,0.05,
+1992,49-open-north,open,22,210,0.105,0.1,assumed this was 0.1
+1992,49-open-south,open,28,280,0.1,0.1,
+1992,49-shrub-north,shrub,18,340,0.053,0.05,assumed this was 0.05
+1992,49-shrub-south,shrub,11,200,0.055,0.05,assumed this was 0.05
+1992,5-open-east,open,32,640,0.05,0.05,
+1992,5-open-west,open,25,500,0.05,0.05,
+1992,6-open-east,open,45,900,0.05,0.05,
+1992,6-open-west,open,46,920,0.05,0.05,
+1992,60-open-north,open,146,1460,0.1,0.1,
+1992,60-open-south,open,55,550,0.1,0.1,
+1992,60-shrub-north,shrub,120,2400,0.05,0.05,
+1992,60-shrub-south,shrub,54,1060,0.051,0.05,assumed this was 0.05
+1992,9-open-east,open,35,NA,NA,,
+1992,9-open-west,open,22,NA,NA,,
+1992,90-open-north,open,34,340,0.1,0.1,
+1992,90-open-south,open,20,200,0.1,0.1,
+1992,90-shrub-north,shrub,82,1640,0.05,0.05,
+1992,90-shrub-south,shrub,26,480,0.054,0.05,assumed this was 0.05
+1993,1-open-east,open,384,3840,0.1,0.1,
+1993,2-open-east,open,308,3080,0.1,0.1,
+1993,2-open-west,open,395,3950,0.1,0.1,
+1993,4-open-east,open,95,950,0.1,0.1,
+1993,4-open-west,open,304,3040,0.1,0.1,
+1993,5-open-east,open,143,1430,0.1,0.1,
+1993,5-open-west,open,155,1550,0.1,0.1,
+1993,6-open-east,open,86,860,0.1,0.1,
+1993,6-open-west,open,87,870,0.1,0.1,
+1993,9-open-east,open,149,1490,0.1,0.1,
+1993,9-open-west,open,118,1180,0.1,0.1,
+1994,1-open-east,open,113,NA,NA,,
+1994,1-open-west,open,68,540,0.126,0.1,assumed this was 0.1
+1994,2-open-east,open,138,NA,NA,,
+1994,2-open-west,open,103,990,0.104,0.1,assumed this was 0.1
+1994,4-open-east,open,79,780,0.101,0.1,assumed this was 0.1
+1994,4-open-west,open,71,710,0.1,0.1,
+1994,5-open-east,open,110,NA,NA,,
+1994,5-open-west,open,134,NA,NA,,
+1994,6-open-east,open,164,1520,0.108,0.1,assumed this was 0.1
+1994,6-open-west,open,157,1160,0.135,0.1,assumed this was 0.1
+1994,9-open-east,open,77,NA,NA,,
+1994,9-open-west,open,54,NA,NA,,
+1995,0-open-north,open,94,940,0.1,0.1,
+1996,0-open-north,open,59,580,0.102,0.1,assumed this was 0.1
+1997,0-open-north,open,6,60,0.1,0.1,
+1998,0-open-north,open,30,300,0.1,0.1,
+1995,0-open-south,open,180,1800,0.1,0.1,
+1996,0-open-south,open,20,200,0.1,0.1,
+1998,0-open-south,open,50,500,0.1,0.1,
+1995,0-shrub-north,shrub,134,2660,0.05,0.05,
+1996,0-shrub-north,shrub,9,180,0.05,0.05,
+1995,0-shrub-south,shrub,36,700,0.051,0.05,assumed this was 0.05
+1996,0-shrub-south,shrub,101,2020,0.05,0.05,
+1998,0-shrub-south,shrub,81,1620,0.05,0.05,
+1995,1-open-east,open,116,1160,0.1,0.1,
+1996,1-open-east,open,13,130,0.1,0.1,
+1995,1-open-west,open,102,910,0.112,0.1,assumed this was 0.1
+1996,1-open-west,open,112,1090,0.103,0.1,assumed this was 0.1
+1997,1-open-west,open,3,30,0.1,0.1,
+1995,1-shrub-east,shrub,384,3230,0.119,0.1,assumed this was 0.1
+1996,1-shrub-east,shrub,49,470,0.104,0.1,assumed this was 0.1
+1997,1-shrub-east,shrub,19,140,0.136,0.1,assumed this was 0.1
+1995,1-shrub-west,shrub,141,1340,0.105,0.1,assumed this was 0.1
+1996,1-shrub-west,shrub,103,910,0.113,0.1,assumed this was 0.1
+1997,1-shrub-west,shrub,18,180,0.1,0.1,
+1995,114-open-north,open,105,1050,0.1,0.1,
+1997,114-open-north,open,11,110,0.1,0.1,
+1998,114-open-north,open,27,270,0.1,0.1,
+1995,114-open-south,open,157,1540,0.102,0.1,assumed this was 0.1
+1996,114-open-south,open,313,3060,0.102,0.1,assumed this was 0.1
+1997,114-open-south,open,58,570,0.102,0.1,assumed this was 0.1
+1998,114-open-south,open,27,260,0.104,0.1,assumed this was 0.1
+1995,114-shrub-north,shrub,115,2280,0.05,0.05,
+1997,114-shrub-north,shrub,26,520,0.05,0.05,
+1998,114-shrub-north,shrub,44,880,0.05,0.05,
+1995,114-shrub-south,shrub,184,3680,0.05,0.05,
+1997,114-shrub-south,shrub,35,480,0.073,0.05,assumed this was 0.05
+1998,114-shrub-south,shrub,50,960,0.052,0.05,assumed this was 0.05
+1995,12-open-north,open,382,3820,0.1,0.1,
+1996,12-open-north,open,266,2690,0.099,0.1,assumed this was 0.1
+1997,12-open-north,open,73,730,0.1,0.1,
+1995,12-open-south,open,254,2490,0.102,0.1,assumed this was 0.1
+1996,12-open-south,open,288,2730,0.105,0.1,assumed this was 0.1
+1997,12-open-south,open,102,1010,0.101,0.1,assumed this was 0.1
+1998,12-open-south,open,233,2320,0.1,0.1,
+1995,12-shrub-north,shrub,186,3600,0.052,0.05,assumed this was 0.05
+1996,12-shrub-north,shrub,130,1940,0.067,0.05,assumed this was 0.05
+1997,12-shrub-north,shrub,25,460,0.054,0.05,assumed this was 0.05
+1998,12-shrub-north,shrub,110,2160,0.051,0.05,assumed this was 0.05
+1996,12-shrub-south,shrub,348,6960,0.05,0.05,
+1997,12-shrub-south,shrub,60,1140,0.053,0.05,assumed this was 0.05
+1998,12-shrub-south,shrub,92,1840,0.05,0.05,
+1995,120-open-north,open,81,810,0.1,0.1,
+1996,120-open-north,open,59,590,0.1,0.1,
+1997,120-open-north,open,1,10,0.1,0.1,
+1998,120-open-north,open,14,130,0.108,0.1,assumed this was 0.1
+1995,120-open-south,open,273,2730,0.1,0.1,
+1996,120-open-south,open,209,2090,0.1,0.1,
+1997,120-open-south,open,18,180,0.1,0.1,
+1998,120-open-south,open,29,280,0.104,0.1,assumed this was 0.1
+1995,120-shrub-north,shrub,122,2400,0.051,0.05,assumed this was 0.05
+1996,120-shrub-north,shrub,8,160,0.05,0.05,
+1998,120-shrub-north,shrub,53,1020,0.052,0.05,assumed this was 0.05
+1995,120-shrub-south,shrub,146,2900,0.05,0.05,
+1996,120-shrub-south,shrub,218,4340,0.05,0.05,
+1997,120-shrub-south,shrub,37,720,0.051,0.05,assumed this was 0.05
+1998,120-shrub-south,shrub,72,1420,0.051,0.05,assumed this was 0.05
+1995,137-open-north,open,102,1020,0.1,0.1,
+1996,137-open-north,open,146,1460,0.1,0.1,
+1997,137-open-north,open,2,20,0.1,0.1,
+1998,137-open-north,open,13,130,0.1,0.1,
+1995,137-open-south,open,126,1260,0.1,0.1,
+1996,137-open-south,open,512,5100,0.1,0.1,
+1997,137-open-south,open,17,170,0.1,0.1,
+1998,137-open-south,open,37,370,0.1,0.1,
+1995,137-shrub-north,shrub,22,440,0.05,0.05,
+1998,137-shrub-north,shrub,23,440,0.052,0.05,assumed this was 0.05
+1995,137-shrub-south,shrub,195,3900,0.05,0.05,
+1997,137-shrub-south,shrub,26,520,0.05,0.05,
+1998,137-shrub-south,shrub,51,1000,0.051,0.05,assumed this was 0.05
+1995,150-open-north,open,332,3310,0.1,0.1,
+1996,150-open-north,open,161,1600,0.101,0.1,assumed this was 0.1
+1997,150-open-north,open,73,720,0.101,0.1,assumed this was 0.1
+1998,150-open-north,open,41,410,0.1,0.1,
+1995,150-open-south,open,363,3610,0.101,0.1,assumed this was 0.1
+1996,150-open-south,open,177,1760,0.101,0.1,assumed this was 0.1
+1997,150-open-south,open,25,250,0.1,0.1,
+1998,150-open-south,open,133,1330,0.1,0.1,
+1995,150-shrub-north,shrub,59,1160,0.051,0.05,assumed this was 0.05
+1996,150-shrub-north,shrub,30,600,0.05,0.05,
+1997,150-shrub-north,shrub,12,220,0.055,0.05,assumed this was 0.05
+1998,150-shrub-north,shrub,43,860,0.05,0.05,
+1995,150-shrub-south,shrub,111,2220,0.05,0.05,
+1996,150-shrub-south,shrub,89,1760,0.051,0.05,assumed this was 0.05
+1998,150-shrub-south,shrub,38,760,0.05,0.05,
+1995,180-open-north,open,187,1870,0.1,0.1,
+1996,180-open-north,open,639,6390,0.1,0.1,
+1997,180-open-north,open,112,1120,0.1,0.1,
+1998,180-open-north,open,41,410,0.1,0.1,
+1995,180-open-south,open,305,3050,0.1,0.1,
+1996,180-open-south,open,112,1120,0.1,0.1,
+1997,180-open-south,open,48,480,0.1,0.1,
+1998,180-open-south,open,51,510,0.1,0.1,
+1995,180-shrub-north,shrub,108,1380,0.078,,no idea what this plot should be between 1995-1998
+1996,180-shrub-north,shrub,70,800,0.088,,no idea what this plot should be between 1995-1998
+1997,180-shrub-north,shrub,33,360,0.092,,no idea what this plot should be between 1995-1998
+1998,180-shrub-north,shrub,86,1600,0.054,,no idea what this plot should be between 1995-1998
+1995,180-shrub-south,shrub,194,2960,0.066,0.05,assumed this was 0.05
+1996,180-shrub-south,shrub,4,80,0.05,0.05,
+1998,180-shrub-south,shrub,60,860,0.07,0.05,assumed this was 0.05
+1995,2-open-east,open,252,2440,0.103,0.1,assumed this was 0.1
+1996,2-open-east,open,117,1090,0.107,0.1,assumed this was 0.1
+1997,2-open-east,open,12,120,0.1,0.1,
+1995,2-open-west,open,159,1450,0.11,0.1,assumed this was 0.1
+1996,2-open-west,open,32,290,0.11,0.1,assumed this was 0.1
+1997,2-open-west,open,6,60,0.1,0.1,
+1995,2-shrub-east,shrub,102,1000,0.102,0.1,assumed this was 0.1
+1996,2-shrub-east,shrub,52,530,0.098,0.1,assumed this was 0.1
+1997,2-shrub-east,shrub,40,390,0.103,0.1,assumed this was 0.1
+1995,2-shrub-west,shrub,247,2460,0.1,0.1,
+1996,2-shrub-west,shrub,16,160,0.1,0.1,
+1997,2-shrub-west,shrub,15,150,0.1,0.1,
+1995,237-open-north,open,127,1260,0.101,0.1,assumed this was 0.1
+1996,237-open-north,open,299,2940,0.102,0.1,assumed this was 0.1
+1997,237-open-north,open,97,970,0.1,0.1,
+1998,237-open-north,open,15,150,0.1,0.1,
+1995,237-open-south,open,171,1700,0.101,0.1,assumed this was 0.1
+1996,237-open-south,open,140,1400,0.1,0.1,
+1997,237-open-south,open,67,670,0.1,0.1,
+1998,237-open-south,open,42,420,0.1,0.1,
+1995,237-shrub-north,shrub,38,760,0.05,0.05,
+1996,237-shrub-north,shrub,64,1280,0.05,0.05,
+1998,237-shrub-north,shrub,31,620,0.05,0.05,
+1995,237-shrub-south,shrub,352,7040,0.05,0.05,
+1996,237-shrub-south,shrub,97,1940,0.05,0.05,
+1997,237-shrub-south,shrub,131,2620,0.05,0.05,
+1998,237-shrub-south,shrub,226,4320,0.052,0.05,assumed this was 0.05
+1995,3-open-north,open,65,650,0.1,0.1,
+1998,3-open-north,open,15,140,0.107,0.1,assumed this was 0.1
+1995,3-open-south,open,250,2500,0.1,0.1,
+1998,3-open-south,open,31,320,0.097,0.1,assumed this was 0.1
+1995,3-shrub-north,shrub,112,2220,0.05,0.05,
+1997,3-shrub-north,shrub,11,220,0.05,0.05,
+1998,3-shrub-north,shrub,44,860,0.051,0.05,assumed this was 0.05
+1995,3-shrub-south,shrub,95,1880,0.051,0.05,assumed this was 0.05
+1997,3-shrub-south,shrub,1,NA,NA,0.05,assumed size based appendix
+1998,3-shrub-south,shrub,7,140,0.05,0.05,
+1995,4-open-east,open,87,870,0.1,0.1,
+1996,4-open-east,open,77,750,0.103,0.1,assumed this was 0.1
+1995,4-open-west,open,88,880,0.1,0.1,
+1996,4-open-west,open,88,880,0.1,0.1,
+1995,4-shrub-east,shrub,116,1160,0.1,0.1,
+1996,4-shrub-east,shrub,20,200,0.1,0.1,
+1995,4-shrub-west,shrub,71,640,0.111,0.1,assumed this was 0.1
+1996,4-shrub-west,shrub,70,650,0.108,0.1,assumed this was 0.1
+1997,4-shrub-west,shrub,12,90,0.133,0.1,assumed this was 0.1
+1996,49-open-north,open,470,4660,0.101,0.1,assumed this was 0.1
+1997,49-open-north,open,9,90,0.1,0.1,
+1998,49-open-north,open,9,80,0.112,0.1,assumed this was 0.1
+1995,49-open-south,open,94,940,0.1,0.1,
+1996,49-open-south,open,497,4960,0.1,0.1,
+1997,49-open-south,open,10,100,0.1,0.1,
+1998,49-open-south,open,10,100,0.1,0.1,
+1995,49-shrub-north,shrub,235,4640,0.051,0.05,assumed this was 0.05
+1996,49-shrub-north,shrub,7,140,0.05,0.05,
+1998,49-shrub-north,shrub,41,680,0.06,0.05,assumed size based appendix
+1995,49-shrub-south,shrub,128,2560,0.05,0.05,
+1996,49-shrub-south,shrub,1660,33200,0.05,0.05,
+1997,49-shrub-south,shrub,17,340,0.05,0.05,
+1998,49-shrub-south,shrub,48,960,0.05,0.05,
+1995,5-open-east,open,83,830,0.1,0.1,
+1996,5-open-east,open,103,1030,0.1,0.1,
+1997,5-open-east,open,3,30,0.1,0.1,
+1998,5-open-east,open,19,190,0.1,0.1,
+1995,5-open-west,open,45,440,0.102,0.1,assumed this was 0.1
+1995,5-shrub-east,shrub,30,290,0.103,0.1,assumed this was 0.1
+1996,5-shrub-east,shrub,80,770,0.104,0.1,assumed this was 0.1
+1997,5-shrub-east,shrub,9,50,0.18,0.1,assumed this was 0.1
+1998,5-shrub-east,shrub,19,190,0.1,0.1,
+1995,5-shrub-west,shrub,106,1050,0.101,0.1,assumed this was 0.1
+1996,5-shrub-west,shrub,123,1230,0.1,0.1,
+1997,5-shrub-west,shrub,9,90,0.1,0.1,
+1998,5-shrub-west,shrub,90,870,0.103,0.1,assumed this was 0.1
+1996,6-open-east,open,145,1430,0.101,0.1,assumed this was 0.1
+1997,6-open-east,open,3,30,0.1,0.1,
+1996,6-open-west,open,313,3120,0.1,0.1,
+1997,6-open-west,open,27,270,0.1,0.1,
+1995,6-shrub-east,shrub,171,1710,0.1,0.1,
+1996,6-shrub-east,shrub,566,NA,NA,0.1,assumed size based appendix
+1997,6-shrub-east,shrub,11,110,0.1,0.1,
+1995,6-shrub-west,shrub,226,2260,0.1,0.1,
+1996,6-shrub-west,shrub,302,3020,0.1,0.1,
+1997,6-shrub-west,shrub,11,110,0.1,0.1,
+1998,6-shrub-west,shrub,42,420,0.1,0.1,
+1995,60-open-north,open,62,600,0.103,0.1,assumed this was 0.1
+1996,60-open-north,open,195,1940,0.101,0.1,assumed this was 0.1
+1998,60-open-north,open,7,70,0.1,0.1,
+1995,60-open-south,open,192,1920,0.1,0.1,
+1996,60-open-south,open,1313,13130,0.1,0.1,
+1997,60-open-south,open,84,820,0.102,0.1,assumed this was 0.1
+1998,60-open-south,open,46,440,0.105,0.1,assumed this was 0.1
+1995,60-shrub-north,shrub,92,1800,0.051,0.05,assumed this was 0.05
+1996,60-shrub-north,shrub,271,5400,0.05,0.05,
+1998,60-shrub-north,shrub,24,480,0.05,0.05,
+1995,60-shrub-south,shrub,67,1320,0.051,0.05,assumed this was 0.05
+1996,60-shrub-south,shrub,1313,26260,0.05,0.05,
+1997,60-shrub-south,shrub,14,280,0.05,0.05,
+1998,60-shrub-south,shrub,21,420,0.05,0.05,
+1995,9-open-east,open,91,NA,NA,,no idea
+1996,9-open-east,open,113,NA,NA,,no idea
+1997,9-open-east,open,4,NA,NA,,no idea
+1995,9-open-west,open,63,NA,NA,,no idea
+1996,9-open-west,open,45,NA,NA,,no idea
+1997,9-open-west,open,2,NA,NA,,no idea
+1995,9-shrub-east,shrub,132,NA,NA,,no idea
+1996,9-shrub-east,shrub,78,NA,NA,,no idea
+1997,9-shrub-east,shrub,14,NA,NA,,no idea
+1995,9-shrub-west,shrub,81,NA,NA,,no idea
+1996,9-shrub-west,shrub,49,NA,NA,,no idea
+1997,9-shrub-west,shrub,19,NA,NA,,no idea
+1998,9-shrub-west,shrub,68,NA,NA,,no idea
+1995,90-open-north,open,141,1410,0.1,0.1,
+1996,90-open-north,open,371,3710,0.1,0.1,
+1997,90-open-north,open,14,140,0.1,0.1,
+1998,90-open-north,open,16,160,0.1,0.1,
+1995,90-open-south,open,161,1600,0.101,0.1,assumed this was 0.1
+1996,90-open-south,open,181,1800,0.101,0.1,assumed this was 0.1
+1997,90-open-south,open,14,140,0.1,0.1,
+1998,90-open-south,open,23,230,0.1,0.1,
+1995,90-shrub-north,shrub,42,820,0.051,0.05,assumed this was 0.05
+1996,90-shrub-north,shrub,13,260,0.05,0.05,
+1997,90-shrub-north,shrub,42,440,0.095,,
+1998,90-shrub-north,shrub,67,1300,0.052,0.05,assumed this was 0.05
+1995,90-shrub-south,shrub,161,3200,0.05,0.05,
+1996,90-shrub-south,shrub,211,4220,0.05,0.05,
+1997,90-shrub-south,shrub,25,480,0.052,0.05,assumed this was 0.05
+1998,90-shrub-south,shrub,37,740,0.05,0.05,
+1999,0-open-north,open,23,230,0.1,0.1,
+1999,0-open-south,open,141,1410,0.1,0.1,
+1999,0-shrub-north,shrub,27,520,0.052,0.05,assumed this was 0.05
+2000,0-shrub-north,shrub,24,480,0.05,0.05,
+1999,1-open-east,open,28,280,0.1,0.1,
+1999,1-open-west,open,39,130,0.3,0.1,all open 0.1 m2 1999-2000
+1999,0-shrub-south,shrub,4,80,0.05,0.05,
+2000,0-shrub-south,shrub,8,160,0.05,0.05,
+1999,114-open-north,open,9,90,0.1,0.1,
+1999,114-open-south,open,99,940,0.105,0.1,assumed this was 0.1
+1999,1-shrub-east,shrub,13,130,0.1,0.1,
+2000,1-shrub-east,shrub,2,20,0.1,0.1,
+1999,12-open-north,open,150,1500,0.1,0.1,
+1999,12-open-south,open,252,2470,0.102,0.1,assumed this was 0.1
+1999,1-shrub-west,shrub,44,370,0.119,0.1,assumed this was 0.1
+2000,1-shrub-west,shrub,24,180,0.133,0.1,assumed this was 0.1
+1999,120-open-north,open,4,40,0.1,0.1,
+1999,120-open-south,open,45,450,0.1,0.1,
+1999,114-shrub-north,shrub,8,160,0.05,0.05,
+2000,114-shrub-north,shrub,30,480,0.062,0.05,assumed size based appendix
+1999,137-open-north,open,17,170,0.1,0.1,
+1999,137-open-south,open,25,250,0.1,0.1,
+1999,114-shrub-south,shrub,61,680,0.09,0.05,assumed size based appendix
+2000,114-shrub-south,shrub,17,340,0.05,0.05,
+1999,150-open-north,open,54,520,0.104,0.1,assumed this was 0.1
+1999,150-open-south,open,24,240,0.1,0.1,
+1999,12-shrub-north,shrub,146,1380,0.106,0.1,assumed this was 0.1
+2000,12-shrub-north,shrub,45,900,0.05,0.05,"sizes change within this plot across years, looks suspicious"
+1999,180-open-north,open,86,860,0.1,0.1,
+1999,180-open-south,open,32,320,0.1,0.1,
+1999,12-shrub-south,shrub,23,420,0.055,0.05,assumed this was 0.05
+2000,12-shrub-south,shrub,2,40,0.05,0.05,
+1999,2-open-east,open,86,350,0.246,0.1,all open 0.1 m2 1999-2000
+1999,2-open-west,open,58,580,0.1,0.1,
+1999,120-shrub-north,shrub,10,180,0.056,0.05,assumed this was 0.05
+2000,120-shrub-north,shrub,7,120,0.058,0.05,assumed this was 0.05
+1999,237-open-north,open,15,150,0.1,0.1,
+1999,237-open-south,open,36,360,0.1,0.1,
+1999,120-shrub-south,shrub,26,520,0.05,0.05,
+2000,120-shrub-south,shrub,29,580,0.05,0.05,
+1999,3-open-north,open,32,310,0.103,0.1,assumed this was 0.1
+1999,3-open-south,open,78,780,0.1,0.1,
+1999,137-shrub-north,shrub,4,60,0.067,0.05,assumed this was 0.05
+2000,137-shrub-north,shrub,18,360,0.05,0.05,
+1999,4-open-east,open,38,380,0.1,0.1,
+1999,4-open-west,open,7,70,0.1,0.1,
+1999,137-shrub-south,shrub,9,160,0.056,0.05,assumed this was 0.05
+2000,137-shrub-south,shrub,1,20,0.05,0.05,
+1999,49-open-north,open,7,60,0.117,0.1,assumed this was 0.1
+1999,49-open-south,open,4,40,0.1,0.1,
+1999,150-shrub-north,shrub,6,100,0.06,,no idea 
+2000,150-shrub-north,shrub,27,320,0.084,,no idea 
+1999,5-open-east,open,4,40,0.1,0.1,
+1999,5-open-west,open,4,40,0.1,0.1,
+1999,150-shrub-south,shrub,29,440,0.066,0.1,assumed this is 0.1 based on appendix if sizes didn’t change within a time period
+2000,150-shrub-south,shrub,4,40,0.1,0.1,
+1999,6-open-east,open,1,10,0.1,0.1,
+1999,6-open-west,open,12,110,0.109,0.1,assumed this was 0.1
+1999,180-shrub-north,shrub,75,1300,0.058,0.05,assumed this was 0.05
+2000,180-shrub-north,shrub,42,760,0.055,0.05,assumed this was 0.05
+1999,60-open-north,open,11,100,0.11,0.1,assumed this was 0.1
+1999,180-shrub-south,shrub,3,60,0.05,0.05,
+2000,180-shrub-south,shrub,22,160,0.138,0.1,assumed this was 0.1
+1999,9-open-east,open,8,NA,NA,0.1,all open 0.1 m2 1999-2000
+1999,9-open-west,open,66,NA,NA,0.1,all open 0.1 m2 1999-2000
+1999,2-shrub-east,shrub,65,550,0.118,0.1,assumed this was 0.1
+2000,2-shrub-east,shrub,38,350,0.109,0.1,assumed this was 0.1
+1999,90-open-north,open,9,90,0.1,0.1,
+1999,90-open-south,open,25,250,0.1,0.1,
+1999,2-shrub-west,shrub,32,280,0.114,0.1,assumed this was 0.1
+2000,2-shrub-west,shrub,20,170,0.118,0.1,assumed this was 0.1
+2000,0-open-north,open,15,150,0.1,0.1,
+2000,0-open-south,open,58,580,0.1,0.1,
+1999,237-shrub-north,shrub,4,80,0.05,0.05,
+2000,237-shrub-north,shrub,1,20,0.05,0.05,
+2000,1-open-west,open,2,20,0.1,0.1,
+1999,237-shrub-south,shrub,61,1180,0.052,0.05,assumed this was 0.05
+1999,3-shrub-north,shrub,28,480,0.058,0.05,assumed this was 0.05
+2000,114-open-north,open,6,60,0.1,0.1,
+2000,114-open-south,open,29,280,0.104,0.1,assumed this was 0.1
+2000,3-shrub-north,shrub,49,880,0.056,0.05,assumed this was 0.05
+1999,3-shrub-south,shrub,10,160,0.062,0.05,assumed this was 0.05
+2000,12-open-north,open,194,1940,0.1,0.1,
+2000,12-open-south,open,279,2780,0.1,0.1,
+2000,3-shrub-south,shrub,13,260,0.05,0.05,
+1999,4-shrub-east,shrub,2,20,0.1,0.1,
+2000,120-open-north,open,6,60,0.1,0.1,
+2000,120-open-south,open,20,180,0.111,0.1,assumed this was 0.1
+2000,4-shrub-east,shrub,1,10,0.1,0.1,
+1999,4-shrub-west,shrub,73,390,0.187,0.1,assumed this was 0.1
+2000,137-open-north,open,2,20,0.1,0.1,
+2000,137-open-south,open,22,220,0.1,0.1,
+2000,4-shrub-west,shrub,26,190,0.137,0.1,assumed this was 0.1
+1999,49-shrub-north,shrub,3,40,0.075,0.05,assumed this was 0.05
+2000,150-open-north,open,38,380,0.1,0.1,assumed this was 0.1
+2000,150-open-south,open,9,80,0.112,0.1,assumed this was 0.1
+1999,49-shrub-south,shrub,29,520,0.056,0.05,assumed this was 0.05
+2000,49-shrub-south,shrub,3,60,0.05,0.05,
+2000,180-open-north,open,40,400,0.1,0.1,
+2000,180-open-south,open,56,510,0.11,0.1,assumed this was 0.1
+1999,5-shrub-east,shrub,119,1150,0.103,0.1,assumed this was 0.1
+2000,5-shrub-east,shrub,29,270,0.107,0.1,assumed this was 0.1
+2000,2-open-east,open,10,60,0.167,0.1,all open 0.1 m2 1999-2000
+2000,2-open-west,open,5,50,0.1,0.1,
+1999,5-shrub-west,shrub,26,150,0.173,0.1,assumed size based appendix
+2000,5-shrub-west,shrub,12,100,0.12,0.1,assumed this was 0.1
+2000,237-open-north,open,4,40,0.1,0.1,
+2000,237-open-south,open,9,80,0.112,0.1,assumed this was 0.1
+1999,6-shrub-east,shrub,211,2110,0.1,0.1,
+2000,3-open-north,open,20,180,0.111,0.1,assumed this was 0.1
+2000,3-open-south,open,25,250,0.1,0.1,
+2000,6-shrub-east,shrub,5,30,0.167,0.1,assumed size based appendix
+1999,6-shrub-west,shrub,40,400,0.1,0.1,
+2000,4-open-east,open,6,60,0.1,0.1,
+2000,4-open-west,open,6,60,0.1,0.1,
+1999,60-shrub-north,shrub,23,220,0.105,0.1,assumed this was 0.1
+2000,60-shrub-north,shrub,7,80,0.088,0.1,assumed size based appendix
+2000,49-open-north,open,2,20,0.1,0.1,
+1999,60-shrub-south,shrub,74,1140,0.065,0.05,assumed this was 0.05
+2000,5-open-west,open,4,40,0.1,0.1,
+2000,60-shrub-south,shrub,15,260,0.058,0.05,assumed this was 0.05
+1999,9-shrub-east,shrub,125,NA,NA,,no idea 
+2000,6-open-east,open,4,10,0.4,0.1,all open 0.1 m2 1999-2000
+2000,6-open-west,open,28,280,0.1,0.1,
+2000,9-shrub-east,shrub,37,NA,NA,,no idea 
+2000,60-open-south,open,12,110,0.109,0.1,assumed this was 0.1
+1999,9-shrub-west,shrub,153,NA,NA,,no idea 
+2000,9-shrub-west,shrub,4,NA,NA,,no idea 
+2000,9-open-east,open,15,NA,NA,0.1,all open 0.1 m2 1999-2000
+2000,9-open-west,open,9,NA,NA,0.1,all open 0.1 m2 1999-2000
+1999,90-shrub-north,shrub,19,120,0.158,,no idea 
+2000,90-shrub-north,shrub,17,340,0.05,0.05,
+2000,90-open-north,open,5,50,0.1,0.1,
+2000,90-open-south,open,5,40,0.125,0.1,assumed this was 0.1
+1999,90-shrub-south,shrub,35,660,0.053,0.05,assumed this was 0.05
+2000,90-shrub-south,shrub,28,520,0.054,0.05,assumed this was 0.05
+2001,0-open-north,open,118,1180,0.1,0.1,
+2001,0-open-south,open,107,1070,0.1,0.1,
+2001,0-shrub-north,shrub,193,3860,0.05,0.05,
+2004,0-shrub-north,shrub,4,80,0.05,0.05,
+2001,1-open-east,open,82,760,0.108,0.1,assumed this was 0.1
+2001,1-open-west,open,141,1240,0.114,0.1,assumed this was 0.1
+2005,0-shrub-north,shrub,69,1380,0.05,0.05,
+2007,0-shrub-north,shrub,33,660,0.05,0.05,
+2001,114-open-north,open,49,420,0.117,0.1,assumed this was 0.1
+2001,114-open-south,open,80,760,0.105,0.1,assumed this was 0.1
+2008,0-shrub-north,shrub,7,140,0.05,0.05,
+2009,0-shrub-north,shrub,159,3180,0.05,0.05,
+2001,12-open-north,open,264,2630,0.1,0.1,
+2001,12-open-south,open,429,4200,0.102,0.1,assumed this was 0.1
+2010,0-shrub-north,shrub,22,440,0.05,0.05,
+2011,0-shrub-north,shrub,4,80,0.05,0.05,
+2001,120-open-north,open,134,1320,0.102,0.1,assumed this was 0.1
+2001,120-open-south,open,53,510,0.104,0.1,assumed this was 0.1
+2012,0-shrub-north,shrub,46,920,0.05,0.05,
+2013,0-shrub-north,shrub,65,1300,0.05,0.05,
+2001,137-open-north,open,29,270,0.107,0.1,assumed this was 0.1
+2001,137-open-south,open,48,440,0.109,0.1,assumed this was 0.1
+2014,0-shrub-north,shrub,71,NA,NA,0.05,assuming this plot remained 0.05 between these years based on appendix
+2015,0-shrub-north,shrub,38,NA,NA,0.05,assuming this plot remained 0.05 between these years based on appendix
+2001,150-open-north,open,203,1990,0.102,0.1,assumed this was 0.1
+2001,150-open-south,open,97,970,0.1,0.1,
+2016,0-shrub-north,shrub,52,NA,NA,0.05,assuming this plot remained 0.05 between these years based on appendix
+2001,0-shrub-south,shrub,172,3440,0.05,0.05,
+2001,180-open-north,open,97,970,0.1,0.1,
+2001,180-open-south,open,111,1100,0.101,0.1,assumed this was 0.1
+2003,0-shrub-south,shrub,2,40,0.05,0.05,
+2004,0-shrub-south,shrub,11,220,0.05,0.05,
+2001,2-open-east,open,224,2100,0.107,0.1,assumed this was 0.1
+2001,2-open-west,open,99,930,0.106,0.1,assumed this was 0.1
+2005,0-shrub-south,shrub,70,1400,0.05,0.05,
+2007,0-shrub-south,shrub,56,1120,0.05,0.05,
+2001,237-open-north,open,59,580,0.102,0.1,assumed this was 0.1
+2001,237-open-south,open,190,1820,0.104,0.1,assumed this was 0.1
+2008,0-shrub-south,shrub,32,640,0.05,0.05,
+2009,0-shrub-south,shrub,130,2600,0.05,0.05,
+2001,3-open-north,open,83,820,0.101,0.1,assumed this was 0.1
+2001,3-open-south,open,172,1710,0.101,0.1,assumed this was 0.1
+2010,0-shrub-south,shrub,153,3060,0.05,0.05,
+2001,4-open-east,open,51,490,0.104,0.1,assumed this was 0.1
+2001,4-open-west,open,54,540,0.1,0.1,
+2011,0-shrub-south,shrub,143,2860,0.05,0.05,
+2012,0-shrub-south,shrub,209,4180,0.05,0.05,
+2001,49-open-north,open,18,90,0.2,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2001,49-open-south,open,28,240,0.117,0.1,assumed this was 0.1
+2013,0-shrub-south,shrub,94,1880,0.05,0.05,
+2014,0-shrub-south,shrub,103,NA,NA,0.05,assuming this plot remained 0.05 between these years based on appendix
+2001,5-open-east,open,234,2250,0.104,0.1,assumed this was 0.1
+2001,5-open-west,open,91,890,0.102,0.1,assumed this was 0.1
+2015,0-shrub-south,shrub,45,NA,NA,0.05,assuming this plot remained 0.05 between these years based on appendix
+2016,0-shrub-south,shrub,82,NA,NA,0.05,assuming this plot remained 0.05 between these years based on appendix
+2001,6-open-east,open,12,80,0.15,0.1,assumed this was 0.1
+2001,6-open-west,open,33,230,0.143,0.1,assumed this was 0.1
+2001,1-shrub-east,shrub,104,1020,0.102,0.1,assumed this was 0.1
+2003,1-shrub-east,shrub,35,320,0.109,0.1,assumed this was 0.1
+2001,60-open-north,open,36,320,0.112,0.1,assumed this was 0.1
+2001,60-open-south,open,42,340,0.124,0.1,assumed this was 0.1
+2004,1-shrub-east,shrub,33,330,0.1,0.1,
+2005,1-shrub-east,shrub,11,110,0.1,0.1,
+2001,9-open-east,open,158,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2001,9-open-west,open,67,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2007,1-shrub-east,shrub,7,70,0.1,0.1,
+2008,1-shrub-east,shrub,18,180,0.1,0.1,
+2001,90-open-north,open,39,390,0.1,0.1,
+2001,90-open-south,open,54,540,0.1,0.1,
+2009,1-shrub-east,shrub,72,720,0.1,0.1,
+2010,1-shrub-east,shrub,180,1800,0.1,0.1,
+2002,0-open-north,open,13,130,0.1,0.1,
+2002,0-open-south,open,32,320,0.1,0.1,
+2002,1-open-east,open,18,180,0.1,0.1,
+2011,1-shrub-east,shrub,41,410,0.1,0.1,
+2002,114-open-north,open,16,160,0.1,0.1,
+2002,114-open-south,open,115,1150,0.1,0.1,
+2002,12-open-north,open,104,1040,0.1,0.1,
+2002,12-open-south,open,64,620,0.103,0.1,assumed this was 0.1
+2012,1-shrub-east,shrub,58,580,0.1,0.1,
+2002,120-open-south,open,50,500,0.1,0.1,
+2002,137-open-north,open,21,210,0.1,0.1,
+2002,137-open-south,open,10,100,0.1,0.1,
+2002,150-open-north,open,40,400,0.1,0.1,
+2002,150-open-south,open,15,150,0.1,0.1,
+2013,1-shrub-east,shrub,38,380,0.1,0.1,
+2002,180-open-north,open,37,370,0.1,0.1,
+2002,180-open-south,open,15,150,0.1,0.1,
+2002,2-open-east,open,68,680,0.1,0.1,
+2002,2-open-west,open,30,300,0.1,0.1,
+2014,1-shrub-east,shrub,55,NA,NA,0.1,assuming this plot remained 0.1 between these years based on appendix
+2002,237-open-north,open,66,660,0.1,0.1,
+2002,237-open-south,open,28,280,0.1,0.1,
+2002,3-open-north,open,9,80,0.112,0.1,assumed this was 0.1
+2002,3-open-south,open,45,440,0.102,0.1,assumed this was 0.1
+2015,1-shrub-east,shrub,18,NA,NA,0.1,assuming this plot remained 0.1 between these years based on appendix
+2002,4-open-east,open,4,40,0.1,0.1,
+2002,4-open-west,open,8,80,0.1,0.1,
+2016,1-shrub-east,shrub,235,NA,NA,0.1,assuming this plot remained 0.1 between these years based on appendix
+2001,1-shrub-west,shrub,228,2000,0.114,0.1,assumed this was 0.1
+2002,49-open-north,open,4,40,0.1,0.1,
+2002,49-open-south,open,7,50,0.14,0.1,assumed this was 0.1
+2002,1-shrub-west,shrub,2,10,0.2,0.1,assuming this plot remained 0.1 between these years based on appendix
+2002,5-open-east,open,1,10,0.1,0.1,
+2002,5-open-west,open,2,20,0.1,0.1,
+2003,1-shrub-west,shrub,10,90,0.111,0.1,assumed this was 0.1
+2004,1-shrub-west,shrub,25,250,0.1,0.1,
+2002,6-open-west,open,28,280,0.1,0.1,
+2002,60-open-north,open,15,150,0.1,0.1,
+2002,60-open-south,open,21,210,0.1,0.1,
+2002,9-open-east,open,6,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2002,9-open-west,open,34,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2002,90-open-north,open,21,210,0.1,0.1,
+2002,90-open-south,open,4,40,0.1,0.1,
+2005,1-shrub-west,shrub,37,370,0.1,0.1,
+2003,0-open-north,open,58,580,0.1,0.1,
+2003,0-open-south,open,15,150,0.1,0.1,
+2007,1-shrub-west,shrub,14,140,0.1,0.1,
+2003,1-open-east,open,23,230,0.1,0.1,
+2003,1-open-west,open,6,40,0.15,0.1,assumed this was 0.1
+2008,1-shrub-west,shrub,24,240,0.1,0.1,
+2009,1-shrub-west,shrub,99,990,0.1,0.1,
+2003,114-open-north,open,8,70,0.114,0.1,assumed this was 0.1
+2003,114-open-south,open,57,570,0.1,0.1,
+2010,1-shrub-west,shrub,225,2250,0.1,0.1,
+2011,1-shrub-west,shrub,132,1320,0.1,0.1,
+2003,12-open-north,open,151,1500,0.101,0.1,assumed this was 0.1
+2003,12-open-south,open,250,2500,0.1,0.1,
+2012,1-shrub-west,shrub,146,1460,0.1,0.1,
+2013,1-shrub-west,shrub,90,900,0.1,0.1,
+2003,120-open-north,open,35,100,0.35,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2003,120-open-south,open,8,80,0.1,0.1,
+2014,1-shrub-west,shrub,137,NA,NA,0.1,assuming this plot remained 0.1 between these years based on appendix
+2015,1-shrub-west,shrub,79,NA,NA,0.1,assuming this plot remained 0.1 between these years based on appendix
+2003,137-open-north,open,22,220,0.1,0.1,
+2003,137-open-south,open,36,340,0.106,0.1,assumed this was 0.1
+2016,1-shrub-west,shrub,628,NA,NA,0.1,assuming this plot remained 0.1 between these years based on appendix
+2001,114-shrub-north,shrub,52,980,0.053,0.05,assumed this was 0.05
+2003,150-open-north,open,13,130,0.1,0.1,
+2003,150-open-south,open,15,150,0.1,0.1,
+2003,114-shrub-north,shrub,3,40,0.075,0.05,assumed this was 0.05
+2004,114-shrub-north,shrub,19,380,0.05,0.05,
+2003,180-open-north,open,28,280,0.1,0.1,
+2003,180-open-south,open,45,430,0.105,0.1,assumed this was 0.1
+2005,114-shrub-north,shrub,11,220,0.05,0.05,
+2007,114-shrub-north,shrub,3,60,0.05,0.05,
+2003,2-open-east,open,46,440,0.105,0.1,assumed this was 0.1
+2003,2-open-west,open,35,330,0.106,0.1,assumed this was 0.1
+2008,114-shrub-north,shrub,4,80,0.05,0.05,
+2009,114-shrub-north,shrub,11,220,0.05,0.05,
+2003,237-open-north,open,10,70,0.143,0.1,assumed this was 0.1
+2003,237-open-south,open,37,370,0.1,0.1,
+2010,114-shrub-north,shrub,118,2360,0.05,0.05,
+2003,3-open-north,open,22,220,0.1,0.1,
+2003,3-open-south,open,52,520,0.1,0.1,
+2011,114-shrub-north,shrub,2,40,0.05,0.05,
+2003,4-open-east,open,26,260,0.1,0.1,
+2003,4-open-west,open,5,50,0.1,0.1,
+2012,114-shrub-north,shrub,47,940,0.05,0.05,
+2013,114-shrub-north,shrub,1,20,0.05,0.05,
+2003,49-open-north,open,93,710,0.131,0.1,assumed this was 0.1
+2003,49-open-south,open,33,320,0.103,0.1,assumed this was 0.1
+2014,114-shrub-north,shrub,15,NA,NA,0.05,assuming this plot remained 0.05 between these years based on appendix
+2015,114-shrub-north,shrub,6,NA,NA,0.05,assuming this plot remained 0.05 between these years based on appendix
+2003,5-open-east,open,12,100,0.12,0.1,assumed this was 0.1
+2003,5-open-west,open,31,300,0.103,0.1,assumed this was 0.1
+2016,114-shrub-north,shrub,65,NA,NA,0.05,assuming this plot remained 0.05 between these years based on appendix
+2001,114-shrub-south,shrub,104,2040,0.051,0.05,assumed this was 0.05
+2003,6-open-east,open,15,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2003,6-open-west,open,14,120,0.117,0.1,assumed this was 0.1
+2003,114-shrub-south,shrub,14,240,0.058,0.05,assuming this plot remained 0.05 between these years based on appendix
+2004,114-shrub-south,shrub,38,760,0.05,0.05,
+2003,60-open-north,open,16,150,0.107,0.1,assumed this was 0.1
+2003,60-open-south,open,67,550,0.122,0.1,assumed this was 0.1
+2005,114-shrub-south,shrub,36,720,0.05,0.05,
+2007,114-shrub-south,shrub,16,300,0.053,0.05,assumed this was 0.05
+2003,9-open-east,open,48,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2003,9-open-west,open,63,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2008,114-shrub-south,shrub,48,960,0.05,0.05,
+2009,114-shrub-south,shrub,167,3340,0.05,0.05,
+2003,90-open-north,open,25,210,0.119,0.1,assumed this was 0.1
+2003,90-open-south,open,16,140,0.114,0.1,assumed this was 0.1
+2010,114-shrub-south,shrub,69,1380,0.05,0.05,
+2011,114-shrub-south,shrub,29,580,0.05,0.05,
+2004,0-open-north,open,68,680,0.1,0.1,
+2004,0-open-south,open,34,340,0.1,0.1,
+2012,114-shrub-south,shrub,68,1360,0.05,0.05,
+2013,114-shrub-south,shrub,28,560,0.05,0.05,
+2004,1-open-east,open,22,210,0.105,0.1,assumed this was 0.1
+2004,1-open-west,open,17,170,0.1,0.1,
+2014,114-shrub-south,shrub,35,NA,NA,0.05,assuming this plot remained 0.05 between these years based on appendix
+2015,114-shrub-south,shrub,25,NA,NA,0.05,assuming this plot remained 0.05 between these years based on appendix
+2004,114-open-north,open,26,230,0.113,0.1,assumed this was 0.1
+2004,114-open-south,open,29,290,0.1,0.1,
+2016,114-shrub-south,shrub,154,NA,NA,0.05,assuming this plot remained 0.05 between these years based on appendix
+2001,12-shrub-north,shrub,310,6200,0.05,0.05,
+2004,12-open-north,open,94,940,0.1,0.1,
+2004,12-open-south,open,128,1280,0.1,0.1,
+2002,12-shrub-north,shrub,6,100,0.06,0.05,assuming this plot remained 0.05 between these years based on appendix
+2003,12-shrub-north,shrub,10,200,0.05,0.05,
+2004,120-open-north,open,3,30,0.1,0.1,
+2004,120-open-south,open,3,30,0.1,0.1,
+2004,12-shrub-north,shrub,52,1040,0.05,0.05,
+2005,12-shrub-north,shrub,34,680,0.05,0.05,
+2004,137-open-north,open,11,110,0.1,0.1,
+2004,137-open-south,open,37,370,0.1,0.1,
+2007,12-shrub-north,shrub,46,920,0.05,0.05,
+2008,12-shrub-north,shrub,41,820,0.05,0.05,
+2004,150-open-north,open,45,440,0.102,0.1,assumed this was 0.1
+2004,150-open-south,open,79,770,0.103,0.1,assumed this was 0.1
+2009,12-shrub-north,shrub,313,6260,0.05,0.05,
+2010,12-shrub-north,shrub,172,3440,0.05,0.05,
+2004,180-open-north,open,14,140,0.1,0.1,
+2004,180-open-south,open,29,290,0.1,0.1,
+2011,12-shrub-north,shrub,15,300,0.05,0.05,
+2012,12-shrub-north,shrub,104,2080,0.05,0.05,
+2004,2-open-east,open,79,760,0.104,0.1,assumed this was 0.1
+2004,2-open-west,open,33,330,0.1,0.1,
+2013,12-shrub-north,shrub,64,1280,0.05,0.05,
+2014,12-shrub-north,shrub,41,NA,NA,0.05,assuming this plot remained 0.05 between these years based on appendix
+2004,237-open-north,open,47,470,0.1,0.1,
+2004,237-open-south,open,75,590,0.127,0.1,assumed this was 0.1
+2015,12-shrub-north,shrub,19,NA,NA,0.05,assuming this plot remained 0.05 between these years based on appendix
+2016,12-shrub-north,shrub,251,NA,NA,0.05,assuming this plot remained 0.05 between these years based on appendix
+2004,3-open-north,open,49,490,0.1,0.1,
+2004,3-open-south,open,38,380,0.1,0.1,
+2001,12-shrub-south,shrub,196,3800,0.052,0.05,assumed this was 0.05
+2004,4-open-east,open,4,40,0.1,0.1,
+2004,4-open-west,open,16,160,0.1,0.1,
+2003,12-shrub-south,shrub,4,80,0.05,0.05,
+2004,12-shrub-south,shrub,56,1120,0.05,0.05,
+2004,49-open-north,open,43,430,0.1,0.1,
+2004,49-open-south,open,17,170,0.1,0.1,
+2005,12-shrub-south,shrub,12,220,0.055,0.05,assumed this was 0.05
+2004,5-open-east,open,6,60,0.1,0.1,
+2004,5-open-west,open,35,350,0.1,0.1,
+2007,12-shrub-south,shrub,19,380,0.05,0.05,
+2008,12-shrub-south,shrub,28,560,0.05,0.05,
+2004,6-open-east,open,4,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2004,6-open-west,open,38,380,0.1,0.1,
+2009,12-shrub-south,shrub,315,6300,0.05,0.05,
+2010,12-shrub-south,shrub,143,2860,0.05,0.05,
+2004,60-open-north,open,16,160,0.1,0.1,
+2004,60-open-south,open,51,510,0.1,0.1,
+2011,12-shrub-south,shrub,77,1540,0.05,0.05,
+2012,12-shrub-south,shrub,165,3300,0.05,0.05,
+2004,9-open-east,open,122,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2004,9-open-west,open,40,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2014,12-shrub-south,shrub,52,NA,NA,0.05,assuming this plot remained 0.05 between these years based on appendix
+2015,12-shrub-south,shrub,104,NA,NA,0.05,assuming this plot remained 0.05 between these years based on appendix
+2004,90-open-north,open,44,440,0.1,0.1,
+2004,90-open-south,open,21,210,0.1,0.1,
+2016,12-shrub-south,shrub,247,NA,NA,0.05,assuming this plot remained 0.05 between these years based on appendix
+2001,120-shrub-north,shrub,114,1380,0.083,0.05,assuming this plot remained 0.05 between these years based on appendix
+2005,0-open-north,open,226,2260,0.1,0.1,
+2005,0-open-south,open,207,2070,0.1,0.1,
+2003,120-shrub-north,shrub,5,80,0.062,0.05,assuming this plot remained 0.05 between these years based on appendix
+2004,120-shrub-north,shrub,3,60,0.05,0.05,
+2005,1-open-east,open,24,240,0.1,0.1,
+2005,1-open-west,open,2,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2005,120-shrub-north,shrub,4,80,0.05,0.05,
+2007,120-shrub-north,shrub,2,40,0.05,0.05,
+2005,114-open-north,open,27,230,0.117,0.1,assumed this was 0.1
+2005,114-open-south,open,114,1120,0.102,0.1,assumed this was 0.1
+2008,120-shrub-north,shrub,4,60,0.067,0.05,assuming this plot remained 0.05 between these years based on appendix
+2010,120-shrub-north,shrub,37,740,0.05,0.05,
+2005,12-open-north,open,280,2800,0.1,0.1,
+2005,12-open-south,open,357,3570,0.1,0.1,
+2012,120-shrub-north,shrub,90,1800,0.05,0.05,
+2013,120-shrub-north,shrub,27,520,0.052,0.05,assumed this was 0.05
+2005,120-open-north,open,17,160,0.106,0.1,assumed this was 0.1
+2005,120-open-south,open,9,90,0.1,0.1,
+2014,120-shrub-north,shrub,25,NA,NA,0.05,assuming this plot remained 0.05 between these years based on appendix
+2015,120-shrub-north,shrub,9,NA,NA,0.05,assuming this plot remained 0.05 between these years based on appendix
+2005,137-open-north,open,19,190,0.1,0.1,
+2005,137-open-south,open,50,470,0.106,0.1,assumed this was 0.1
+2016,120-shrub-north,shrub,148,NA,NA,0.05,assuming this plot remained 0.05 between these years based on appendix
+2001,120-shrub-south,shrub,153,3040,0.05,0.05,
+2005,150-open-north,open,66,610,0.108,0.1,assumed this was 0.1
+2005,150-open-south,open,28,260,0.108,0.1,assumed this was 0.1
+2003,120-shrub-south,shrub,20,400,0.05,0.05,
+2004,120-shrub-south,shrub,12,200,0.06,0.05,assuming this plot remained 0.05 between these years based on appendix
+2005,180-open-north,open,20,200,0.1,0.1,
+2005,180-open-south,open,23,200,0.115,0.1,assumed this was 0.1
+2005,120-shrub-south,shrub,37,720,0.051,0.05,assumed this was 0.05
+2007,120-shrub-south,shrub,45,900,0.05,0.05,
+2005,2-open-east,open,111,1110,0.1,0.1,
+2005,2-open-west,open,84,800,0.105,0.1,assumed this was 0.1
+2008,120-shrub-south,shrub,45,900,0.05,0.05,
+2009,120-shrub-south,shrub,126,2520,0.05,0.05,
+2005,237-open-north,open,49,490,0.1,0.1,
+2005,237-open-south,open,59,590,0.1,0.1,
+2010,120-shrub-south,shrub,176,3520,0.05,0.05,
+2011,120-shrub-south,shrub,9,180,0.05,0.05,
+2005,3-open-north,open,684,6840,0.1,0.1,
+2005,3-open-south,open,248,2480,0.1,0.1,
+2012,120-shrub-south,shrub,445,8900,0.05,0.05,
+2005,4-open-east,open,11,110,0.1,0.1,
+2005,4-open-west,open,17,170,0.1,0.1,
+2013,120-shrub-south,shrub,83,1660,0.05,0.05,
+2014,120-shrub-south,shrub,27,NA,NA,0.05,assuming this plot remained 0.05 between these years based on appendix
+2005,49-open-north,open,15,130,0.115,0.1,assumed this was 0.1
+2005,49-open-south,open,13,130,0.1,0.1,
+2015,120-shrub-south,shrub,36,NA,NA,0.05,assuming this plot remained 0.05 between these years based on appendix
+2016,120-shrub-south,shrub,117,NA,NA,0.05,assuming this plot remained 0.05 between these years based on appendix
+2005,5-open-east,open,16,160,0.1,0.1,
+2005,5-open-west,open,29,290,0.1,0.1,
+2001,137-shrub-north,shrub,95,1740,0.055,0.05,assumed this was 0.05
+2003,137-shrub-north,shrub,12,200,0.06,0.05,assuming this plot remained 0.05 between these years based on appendix
+2005,6-open-east,open,14,140,0.1,0.1,
+2005,6-open-west,open,36,340,0.106,0.1,assumed this was 0.1
+2004,137-shrub-north,shrub,81,1620,0.05,0.05,
+2005,137-shrub-north,shrub,15,280,0.054,0.05,assumed this was 0.05
+2005,60-open-north,open,8,80,0.1,0.1,
+2005,60-open-south,open,89,890,0.1,0.1,
+2007,137-shrub-north,shrub,1,20,0.05,0.05,
+2008,137-shrub-north,shrub,43,840,0.051,0.05,assumed this was 0.05
+2005,9-open-east,open,360,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2005,9-open-west,open,69,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2009,137-shrub-north,shrub,92,1840,0.05,0.05,
+2010,137-shrub-north,shrub,120,2400,0.05,0.05,
+2005,90-open-north,open,102,1020,0.1,0.1,
+2005,90-open-south,open,27,270,0.1,0.1,
+2011,137-shrub-north,shrub,46,920,0.05,0.05,
+2012,137-shrub-north,shrub,160,3200,0.05,0.05,
+2007,0-open-north,open,126,1260,0.1,0.1,
+2007,0-open-south,open,37,370,0.1,0.1,
+2013,137-shrub-north,shrub,29,560,0.052,0.05,assumed this was 0.05
+2014,137-shrub-north,shrub,43,NA,NA,0.05,assuming this plot remained 0.05 between these years based on appendix
+2007,1-open-east,open,12,120,0.1,0.1,
+2007,1-open-west,open,12,120,0.1,0.1,
+2015,137-shrub-north,shrub,62,NA,NA,0.05,assuming this plot remained 0.05 between these years based on appendix
+2016,137-shrub-north,shrub,78,NA,NA,0.05,assuming this plot remained 0.05 between these years based on appendix
+2007,114-open-north,open,16,160,0.1,0.1,
+2007,114-open-south,open,49,490,0.1,0.1,
+2001,137-shrub-south,shrub,91,1820,0.05,0.05,
+2003,137-shrub-south,shrub,4,60,0.067,0.05,assuming this plot remained 0.05 between these years based on appendix
+2007,12-open-north,open,56,560,0.1,0.1,
+2007,12-open-south,open,347,3430,0.101,0.1,assumed this was 0.1
+2004,137-shrub-south,shrub,5,100,0.05,0.05,
+2005,137-shrub-south,shrub,6,120,0.05,0.05,
+2007,120-open-north,open,8,80,0.1,0.1,
+2007,120-open-south,open,4,40,0.1,0.1,
+2007,137-shrub-south,shrub,12,240,0.05,0.05,
+2008,137-shrub-south,shrub,14,280,0.05,0.05,
+2007,137-open-north,open,4,30,0.133,0.1,assumed this was 0.1
+2007,137-open-south,open,12,120,0.1,0.1,
+2009,137-shrub-south,shrub,57,1140,0.05,0.05,
+2010,137-shrub-south,shrub,37,740,0.05,0.05,
+2007,150-open-north,open,20,200,0.1,0.1,
+2007,150-open-south,open,27,270,0.1,0.1,
+2011,137-shrub-south,shrub,22,440,0.05,0.05,
+2007,180-open-south,open,7,70,0.1,0.1,
+2012,137-shrub-south,shrub,76,1520,0.05,0.05,
+2013,137-shrub-south,shrub,20,400,0.05,0.05,
+2007,2-open-east,open,58,580,0.1,0.1,
+2007,2-open-west,open,44,440,0.1,0.1,
+2014,137-shrub-south,shrub,29,NA,NA,0.05,assuming this plot remained 0.05 between these years based on appendix
+2015,137-shrub-south,shrub,11,NA,NA,0.05,assuming this plot remained 0.05 between these years based on appendix
+2007,237-open-north,open,12,120,0.1,0.1,
+2007,237-open-south,open,20,200,0.1,0.1,
+2016,137-shrub-south,shrub,41,NA,NA,0.05,assuming this plot remained 0.05 between these years based on appendix
+2001,150-shrub-north,shrub,110,2140,0.051,0.05,assumed this was 0.05
+2007,3-open-north,open,108,1080,0.1,0.1,
+2007,3-open-south,open,104,1040,0.1,0.1,
+2003,150-shrub-north,shrub,1,20,0.05,0.05,
+2007,4-open-east,open,2,20,0.1,0.1,
+2007,4-open-west,open,3,30,0.1,0.1,
+2004,150-shrub-north,shrub,16,300,0.053,0.05,assumed this was 0.05
+2005,150-shrub-north,shrub,12,240,0.05,0.05,
+2007,49-open-north,open,7,70,0.1,0.1,
+2007,49-open-south,open,7,60,0.117,0.1,assumed this was 0.1
+2008,150-shrub-north,shrub,7,140,0.05,0.05,
+2009,150-shrub-north,shrub,5,100,0.05,0.05,
+2007,5-open-east,open,6,60,0.1,0.1,
+2007,5-open-west,open,5,50,0.1,0.1,
+2010,150-shrub-north,shrub,105,2100,0.05,0.05,
+2012,150-shrub-north,shrub,112,2240,0.05,0.05,
+2007,6-open-east,open,3,20,0.15,0.1,assumed this was 0.1
+2007,6-open-west,open,12,120,0.1,0.1,
+2013,150-shrub-north,shrub,7,140,0.05,0.05,
+2014,150-shrub-north,shrub,35,NA,NA,0.05,assuming this plot remained 0.05 between these years based on appendix
+2007,60-open-south,open,7,70,0.1,0.1,
+2015,150-shrub-north,shrub,52,NA,NA,0.05,assuming this plot remained 0.05 between these years based on appendix
+2007,9-open-east,open,158,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2007,9-open-west,open,37,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2016,150-shrub-north,shrub,152,NA,NA,0.05,assuming this plot remained 0.05 between these years based on appendix
+2001,150-shrub-south,shrub,145,2840,0.051,0.05,assumed this was 0.05
+2007,90-open-north,open,104,1000,0.104,0.1,assumed this was 0.1
+2007,90-open-south,open,33,320,0.103,0.1,assumed this was 0.1
+2002,150-shrub-south,shrub,10,200,0.05,0.05,
+2003,150-shrub-south,shrub,18,340,0.053,0.05,assumed this was 0.05
+2008,0-open-north,open,73,730,0.1,0.1,
+2008,0-open-south,open,34,340,0.1,0.1,
+2004,150-shrub-south,shrub,19,380,0.05,0.05,
+2005,150-shrub-south,shrub,26,520,0.05,0.05,
+2008,1-open-east,open,15,150,0.1,0.1,
+2008,1-open-west,open,16,160,0.1,0.1,
+2007,150-shrub-south,shrub,23,460,0.05,0.05,
+2008,150-shrub-south,shrub,15,300,0.05,0.05,
+2008,114-open-north,open,29,290,0.1,0.1,
+2008,114-open-south,open,22,220,0.1,0.1,
+2009,150-shrub-south,shrub,36,720,0.05,0.05,
+2010,150-shrub-south,shrub,49,980,0.05,0.05,
+2008,12-open-north,open,26,260,0.1,0.1,
+2008,12-open-south,open,59,590,0.1,0.1,
+2011,150-shrub-south,shrub,4,80,0.05,0.05,
+2012,150-shrub-south,shrub,43,860,0.05,0.05,
+2008,120-open-north,open,36,360,0.1,0.1,
+2008,120-open-south,open,12,120,0.1,0.1,
+2013,150-shrub-south,shrub,9,180,0.05,0.05,
+2014,150-shrub-south,shrub,13,NA,NA,0.05,assuming this plot remained 0.05 between these years based on appendix
+2008,137-open-north,open,11,110,0.1,0.1,
+2008,137-open-south,open,37,370,0.1,0.1,
+2015,150-shrub-south,shrub,13,NA,NA,0.05,assuming this plot remained 0.05 between these years based on appendix
+2016,150-shrub-south,shrub,92,NA,NA,0.05,assuming this plot remained 0.05 between these years based on appendix
+2008,150-open-north,open,94,940,0.1,0.1,
+2008,150-open-south,open,119,1180,0.101,0.1,assumed this was 0.1
+2001,180-shrub-north,shrub,235,3440,0.068,0.05,assuming this plot remained 0.05 between these years based on appendix
+2003,180-shrub-north,shrub,7,120,0.058,0.05,assuming this plot remained 0.05 between these years based on appendix
+2008,180-open-north,open,31,310,0.1,0.1,
+2008,180-open-south,open,114,1140,0.1,0.1,
+2004,180-shrub-north,shrub,136,2720,0.05,0.05,
+2005,180-shrub-north,shrub,40,700,0.057,0.05,assuming this plot remained 0.05 between these years based on appendix
+2008,2-open-east,open,71,710,0.1,0.1,
+2008,2-open-west,open,42,420,0.1,0.1,
+2007,180-shrub-north,shrub,22,420,0.052,0.05,assumed this was 0.05
+2008,180-shrub-north,shrub,56,1120,0.05,0.05,
+2008,237-open-north,open,34,340,0.1,0.1,
+2008,237-open-south,open,101,1010,0.1,0.1,
+2009,180-shrub-north,shrub,44,880,0.05,0.05,
+2010,180-shrub-north,shrub,100,2000,0.05,0.05,
+2008,3-open-north,open,37,370,0.1,0.1,
+2008,3-open-south,open,48,480,0.1,0.1,
+2011,180-shrub-north,shrub,20,400,0.05,0.05,
+2008,4-open-east,open,36,360,0.1,0.1,
+2008,4-open-west,open,19,190,0.1,0.1,
+2012,180-shrub-north,shrub,223,4460,0.05,0.05,
+2013,180-shrub-north,shrub,131,2600,0.05,0.05,
+2008,49-open-north,open,29,290,0.1,0.1,
+2008,49-open-south,open,16,160,0.1,0.1,
+2014,180-shrub-north,shrub,125,NA,NA,0.05,assuming this plot remained 0.05 between these years based on appendix
+2015,180-shrub-north,shrub,144,NA,NA,0.05,assuming this plot remained 0.05 between these years based on appendix
+2008,5-open-east,open,40,400,0.1,0.1,
+2008,5-open-west,open,44,440,0.1,0.1,
+2016,180-shrub-north,shrub,136,NA,NA,0.05,assuming this plot remained 0.05 between these years based on appendix
+2001,180-shrub-south,shrub,105,1620,0.065,0.05,assuming this plot remained 0.05 between these years based on appendix
+2008,6-open-east,open,10,100,0.1,0.1,
+2008,6-open-west,open,22,220,0.1,0.1,
+2003,180-shrub-south,shrub,4,60,0.067,0.05,assuming this plot remained 0.05 between these years based on appendix
+2004,180-shrub-south,shrub,35,700,0.05,0.05,
+2008,60-open-north,open,5,50,0.1,0.1,
+2008,60-open-south,open,9,90,0.1,0.1,
+2005,180-shrub-south,shrub,12,220,0.055,0.05,assumed this was 0.05
+2007,180-shrub-south,shrub,4,NA,NA,0.05,assuming this plot remained 0.05 between these years based on appendix
+2008,9-open-east,open,68,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2008,9-open-west,open,42,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2008,180-shrub-south,shrub,40,780,0.051,0.05,assumed this was 0.05
+2009,180-shrub-south,shrub,13,260,0.05,0.05,
+2008,90-open-north,open,98,980,0.1,0.1,
+2008,90-open-south,open,55,550,0.1,0.1,
+2010,180-shrub-south,shrub,109,2180,0.05,0.05,
+2011,180-shrub-south,shrub,36,720,0.05,0.05,
+2009,0-open-north,open,722,7220,0.1,0.1,
+2009,0-open-south,open,315,3130,0.101,0.1,assumed this was 0.1
+2012,180-shrub-south,shrub,150,3000,0.05,0.05,
+2013,180-shrub-south,shrub,3,60,0.05,0.05,
+2009,1-open-east,open,34,340,0.1,0.1,
+2009,1-open-west,open,79,790,0.1,0.1,
+2014,180-shrub-south,shrub,49,NA,NA,0.05,assuming this plot remained 0.05 between these years based on appendix
+2015,180-shrub-south,shrub,31,NA,NA,0.05,assuming this plot remained 0.05 between these years based on appendix
+2009,114-open-north,open,30,300,0.1,0.1,
+2009,114-open-south,open,100,1000,0.1,0.1,
+2016,180-shrub-south,shrub,53,NA,NA,0.05,assuming this plot remained 0.05 between these years based on appendix
+2001,2-shrub-east,shrub,92,850,0.108,0.1,assumed this was 0.1
+2009,12-open-north,open,627,6270,0.1,0.1,
+2009,12-open-south,open,1421,14210,0.1,0.1,
+2002,2-shrub-east,shrub,12,120,0.1,0.1,
+2003,2-shrub-east,shrub,30,300,0.1,0.1,
+2009,120-open-north,open,15,150,0.1,0.1,
+2009,120-open-south,open,26,260,0.1,0.1,
+2004,2-shrub-east,shrub,36,360,0.1,0.1,
+2009,137-open-north,open,45,450,0.1,0.1,
+2009,137-open-south,open,36,360,0.1,0.1,
+2005,2-shrub-east,shrub,35,350,0.1,0.1,
+2007,2-shrub-east,shrub,23,230,0.1,0.1,
+2009,150-open-north,open,70,700,0.1,0.1,
+2009,150-open-south,open,33,330,0.1,0.1,
+2008,2-shrub-east,shrub,51,510,0.1,0.1,
+2009,2-shrub-east,shrub,139,1390,0.1,0.1,
+2009,180-open-north,open,11,110,0.1,0.1,
+2009,180-open-south,open,36,360,0.1,0.1,
+2010,2-shrub-east,shrub,276,2760,0.1,0.1,
+2011,2-shrub-east,shrub,82,810,0.101,0.1,assumed this was 0.1
+2009,2-open-east,open,216,2160,0.1,0.1,
+2009,2-open-west,open,161,1600,0.101,0.1,assumed this was 0.1
+2012,2-shrub-east,shrub,396,3960,0.1,0.1,
+2013,2-shrub-east,shrub,152,1490,0.102,0.1,assumed this was 0.1
+2009,237-open-north,open,114,1140,0.1,0.1,
+2009,237-open-south,open,69,690,0.1,0.1,
+2014,2-shrub-east,shrub,258,NA,NA,0.1,assuming this plot remained 0.1 between these years based on appendix
+2015,2-shrub-east,shrub,136,NA,NA,0.1,assuming this plot remained 0.1 between these years based on appendix
+2009,3-open-north,open,115,1160,0.099,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2009,3-open-south,open,277,2770,0.1,0.1,
+2016,2-shrub-east,shrub,230,NA,NA,0.1,assuming this plot remained 0.1 between these years based on appendix
+2009,4-open-east,open,61,610,0.1,0.1,
+2009,4-open-west,open,44,440,0.1,0.1,
+2001,2-shrub-west,shrub,206,2010,0.102,0.1,assumed this was 0.1
+2003,2-shrub-west,shrub,6,30,0.2,0.1,assuming this plot remained 0.1 between these years based on appendix
+2009,49-open-north,open,434,4340,0.1,0.1,
+2009,49-open-south,open,55,550,0.1,0.1,
+2004,2-shrub-west,shrub,28,280,0.1,0.1,
+2005,2-shrub-west,shrub,42,410,0.102,0.1,assumed this was 0.1
+2009,5-open-east,open,92,920,0.1,0.1,
+2009,5-open-west,open,55,550,0.1,0.1,
+2007,2-shrub-west,shrub,23,190,0.121,0.1,assumed this was 0.1
+2008,2-shrub-west,shrub,75,750,0.1,0.1,
+2009,6-open-east,open,61,610,0.1,0.1,
+2009,6-open-west,open,360,3600,0.1,0.1,
+2009,2-shrub-west,shrub,33,330,0.1,0.1,
+2010,2-shrub-west,shrub,216,2160,0.1,0.1,
+2009,60-open-north,open,60,600,0.1,0.1,
+2009,60-open-south,open,109,1090,0.1,0.1,
+2011,2-shrub-west,shrub,69,690,0.1,0.1,
+2012,2-shrub-west,shrub,146,1460,0.1,0.1,
+2009,9-open-east,open,282,2820,0.1,0.1,
+2009,9-open-west,open,103,1030,0.1,0.1,
+2013,2-shrub-west,shrub,72,720,0.1,0.1,
+2014,2-shrub-west,shrub,122,NA,NA,0.1,assuming this plot remained 0.1 between these years based on appendix
+2009,90-open-north,open,223,2240,0.1,0.1,
+2009,90-open-south,open,64,640,0.1,0.1,
+2016,2-shrub-west,shrub,446,NA,NA,0.1,assuming this plot remained 0.1 between these years based on appendix
+2001,237-shrub-north,shrub,61,1220,0.05,0.05,
+2010,0-open-north,open,250,2500,0.1,0.1,
+2010,0-open-south,open,186,1850,0.101,0.1,assumed this was 0.1
+2004,237-shrub-north,shrub,13,260,0.05,0.05,
+2005,237-shrub-north,shrub,6,120,0.05,0.05,
+2010,1-open-east,open,56,560,0.1,0.1,
+2010,1-open-west,open,104,1040,0.1,0.1,
+2007,237-shrub-north,shrub,3,NA,NA,0.05,assuming this plot remained 0.05 between these years based on appendix
+2008,237-shrub-north,shrub,18,360,0.05,0.05,
+2010,114-open-north,open,118,1180,0.1,0.1,
+2010,114-open-south,open,128,1280,0.1,0.1,
+2009,237-shrub-north,shrub,33,660,0.05,0.05,
+2010,237-shrub-north,shrub,92,1840,0.05,0.05,
+2010,12-open-north,open,383,3830,0.1,0.1,
+2010,12-open-south,open,445,4450,0.1,0.1,
+2011,237-shrub-north,shrub,16,320,0.05,0.05,
+2012,237-shrub-north,shrub,93,1860,0.05,0.05,
+2010,120-open-north,open,112,1120,0.1,0.1,
+2010,120-open-south,open,65,650,0.1,0.1,
+2013,237-shrub-north,shrub,70,1400,0.05,0.05,
+2014,237-shrub-north,shrub,46,NA,NA,0.05,assuming this plot remained 0.05 between these years based on appendix
+2010,137-open-north,open,114,1140,0.1,0.1,
+2010,137-open-south,open,239,2390,0.1,0.1,
+2015,237-shrub-north,shrub,71,NA,NA,0.05,assuming this plot remained 0.05 between these years based on appendix
+2016,237-shrub-north,shrub,275,NA,NA,0.05,assuming this plot remained 0.05 between these years based on appendix
+2010,150-open-north,open,155,1550,0.1,0.1,
+2010,150-open-south,open,148,1480,0.1,0.1,
+2001,237-shrub-south,shrub,179,3460,0.052,0.05,assumed this was 0.05
+2003,237-shrub-south,shrub,16,220,0.073,0.05,assuming this plot remained 0.05 between these years based on appendix
+2010,180-open-north,open,139,1390,0.1,0.1,
+2010,180-open-south,open,258,2580,0.1,0.1,
+2004,237-shrub-south,shrub,83,1660,0.05,0.05,
+2005,237-shrub-south,shrub,33,600,0.055,0.05,assumed this was 0.05
+2010,2-open-east,open,219,2190,0.1,0.1,
+2010,2-open-west,open,226,2260,0.1,0.1,
+2007,237-shrub-south,shrub,5,100,0.05,0.05,
+2008,237-shrub-south,shrub,51,1020,0.05,0.05,
+2010,237-open-north,open,412,4170,0.099,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2010,237-open-south,open,211,2110,0.1,0.1,
+2009,237-shrub-south,shrub,22,440,0.05,0.05,
+2010,237-shrub-south,shrub,166,3080,0.054,0.05,assumed this was 0.05
+2010,3-open-north,open,225,2250,0.1,0.1,
+2010,3-open-south,open,139,1390,0.1,0.1,
+2011,237-shrub-south,shrub,201,4020,0.05,0.05,
+2010,4-open-east,open,225,2250,0.1,0.1,
+2010,4-open-west,open,120,1200,0.1,0.1,
+2012,237-shrub-south,shrub,246,4920,0.05,0.05,
+2013,237-shrub-south,shrub,18,360,0.05,0.05,
+2010,49-open-north,open,384,3840,0.1,0.1,
+2010,49-open-south,open,72,720,0.1,0.1,
+2014,237-shrub-south,shrub,195,NA,NA,0.05,assuming this plot remained 0.05 between these years based on appendix
+2015,237-shrub-south,shrub,78,NA,NA,0.05,assuming this plot remained 0.05 between these years based on appendix
+2010,5-open-east,open,440,4400,0.1,0.1,
+2010,5-open-west,open,265,2650,0.1,0.1,
+2016,237-shrub-south,shrub,126,NA,NA,0.05,assuming this plot remained 0.05 between these years based on appendix
+2015,3-shrub-north,shrub,16,NA,NA,0.05,assuming this plot remained 0.05 between these years based on appendix
+2010,6-open-east,open,107,1040,0.103,0.1,assumed this was 0.1
+2010,6-open-west,open,337,3370,0.1,0.1,
+2001,3-shrub-south,shrub,47,940,0.05,0.05,
+2002,3-shrub-south,shrub,2,40,0.05,0.05,
+2010,60-open-north,open,72,720,0.1,0.1,
+2010,60-open-south,open,153,1530,0.1,0.1,
+2003,3-shrub-south,shrub,8,140,0.057,0.05,assuming this plot remained 0.05 between these years based on appendix
+2004,3-shrub-south,shrub,35,700,0.05,0.05,
+2010,9-open-east,open,277,2770,0.1,0.1,
+2010,9-open-west,open,393,3930,0.1,0.1,
+2005,3-shrub-south,shrub,30,600,0.05,0.05,
+2007,3-shrub-south,shrub,22,440,0.05,0.05,
+2010,90-open-north,open,311,3110,0.1,0.1,
+2010,90-open-south,open,118,1180,0.1,0.1,
+2008,3-shrub-south,shrub,9,180,0.05,0.05,
+2009,3-shrub-south,shrub,72,1440,0.05,0.05,
+2011,0-open-north,open,16,160,0.1,0.1,
+2011,0-open-south,open,24,240,0.1,0.1,
+2010,3-shrub-south,shrub,50,1000,0.05,0.05,
+2011,3-shrub-south,shrub,183,3660,0.05,0.05,
+2011,1-open-west,open,202,2020,0.1,0.1,
+2013,3-shrub-south,shrub,89,1780,0.05,0.05,
+2014,3-shrub-south,shrub,79,NA,NA,0.05,assuming this plot remained 0.05 between these years based on appendix
+2011,114-open-north,open,13,130,0.1,0.1,
+2011,114-open-south,open,16,160,0.1,0.1,
+2016,3-shrub-south,shrub,154,NA,NA,0.05,assuming this plot remained 0.05 between these years based on appendix
+2001,4-shrub-east,shrub,57,560,0.102,0.1,assumed this was 0.1
+2011,12-open-north,open,140,1400,0.1,0.1,
+2011,12-open-south,open,102,1020,0.1,0.1,
+2002,4-shrub-east,shrub,23,200,0.115,0.1,assumed this was 0.1
+2003,4-shrub-east,shrub,25,230,0.109,0.1,assumed this was 0.1
+2011,120-open-north,open,3,30,0.1,0.1,
+2011,120-open-south,open,7,70,0.1,0.1,
+2004,4-shrub-east,shrub,3,30,0.1,0.1,
+2011,137-open-north,open,3,30,0.1,0.1,
+2011,137-open-south,open,7,70,0.1,0.1,
+2005,4-shrub-east,shrub,2,10,0.2,0.1,assuming this plot remained 0.1 between these years based on appendix
+2007,4-shrub-east,shrub,1,10,0.1,0.1,
+2011,150-open-north,open,4,40,0.1,0.1,
+2011,150-open-south,open,4,40,0.1,0.1,
+2008,4-shrub-east,shrub,4,40,0.1,0.1,
+2011,180-open-north,open,3,30,0.1,0.1,
+2009,4-shrub-east,shrub,1,10,0.1,0.1,
+2010,4-shrub-east,shrub,47,470,0.1,0.1,
+2011,2-open-east,open,41,410,0.1,0.1,
+2011,2-open-west,open,16,160,0.1,0.1,
+2011,4-shrub-east,shrub,3,30,0.1,0.1,
+2012,4-shrub-east,shrub,83,830,0.1,0.1,
+2011,237-open-north,open,162,1620,0.1,0.1,
+2011,237-open-south,open,8,80,0.1,0.1,
+2013,4-shrub-east,shrub,6,60,0.1,0.1,
+2014,4-shrub-east,shrub,16,NA,NA,0.1,assuming this plot remained 0.1 between these years based on appendix
+2011,3-open-north,open,22,220,0.1,0.1,
+2011,3-open-south,open,27,270,0.1,0.1,
+2015,4-shrub-east,shrub,14,NA,NA,0.1,assuming this plot remained 0.1 between these years based on appendix
+2011,4-open-east,open,4,40,0.1,0.1,
+2011,4-open-west,open,6,60,0.1,0.1,
+2016,4-shrub-east,shrub,47,NA,NA,0.1,assuming this plot remained 0.1 between these years based on appendix
+2001,4-shrub-west,shrub,103,880,0.117,0.1,assumed this was 0.1
+2011,49-open-north,open,22,220,0.1,0.1,
+2011,49-open-south,open,21,210,0.1,0.1,
+2002,4-shrub-west,shrub,6,50,0.12,0.1,assumed this was 0.1
+2003,4-shrub-west,shrub,35,350,0.1,0.1,
+2011,5-open-west,open,6,60,0.1,0.1,
+2004,4-shrub-west,shrub,20,200,0.1,0.1,
+2005,4-shrub-west,shrub,21,200,0.105,0.1,assumed this was 0.1
+2011,6-open-east,open,8,80,0.1,0.1,
+2011,6-open-west,open,38,380,0.1,0.1,
+2007,4-shrub-west,shrub,12,120,0.1,0.1,
+2008,4-shrub-west,shrub,18,180,0.1,0.1,
+2011,60-open-north,open,32,320,0.1,0.1,
+2011,60-open-south,open,47,470,0.1,0.1,
+2009,4-shrub-west,shrub,52,520,0.1,0.1,
+2010,4-shrub-west,shrub,131,1310,0.1,0.1,
+2011,9-open-east,open,55,550,0.1,0.1,
+2011,9-open-west,open,29,290,0.1,0.1,
+2011,4-shrub-west,shrub,8,80,0.1,0.1,
+2012,4-shrub-west,shrub,195,1950,0.1,0.1,
+2011,90-open-north,open,45,450,0.1,0.1,
+2011,90-open-south,open,13,130,0.1,0.1,
+2013,4-shrub-west,shrub,32,320,0.1,0.1,
+2014,4-shrub-west,shrub,48,NA,NA,0.1,assuming this plot remained 0.1 between these years based on appendix
+2012,0-open-north,open,138,1380,0.1,0.1,
+2012,0-open-south,open,175,1750,0.1,0.1,
+2015,4-shrub-west,shrub,57,NA,NA,0.1,assuming this plot remained 0.1 between these years based on appendix
+2016,4-shrub-west,shrub,298,NA,NA,0.1,assuming this plot remained 0.1 between these years based on appendix
+2012,1-open-east,open,101,1010,0.1,0.1,
+2012,1-open-west,open,169,1690,0.1,0.1,
+2001,49-shrub-north,shrub,106,2000,0.053,0.05,assumed this was 0.05
+2003,49-shrub-north,shrub,5,80,0.062,0.05,assuming this plot remained 0.05 between these years based on appendix
+2012,114-open-north,open,154,1540,0.1,0.1,
+2012,114-open-south,open,164,1640,0.1,0.1,
+2005,49-shrub-north,shrub,1,20,0.05,0.05,
+2007,49-shrub-north,shrub,14,280,0.05,0.05,
+2012,12-open-north,open,172,1720,0.1,0.1,
+2012,12-open-south,open,216,2160,0.1,0.1,
+2008,49-shrub-north,shrub,12,240,0.05,0.05,
+2009,49-shrub-north,shrub,3,60,0.05,0.05,
+2012,120-open-north,open,203,2030,0.1,0.1,
+2012,120-open-south,open,229,2290,0.1,0.1,
+2010,49-shrub-north,shrub,47,940,0.05,0.05,
+2011,49-shrub-north,shrub,4,NA,NA,0.05,assuming this plot remained 0.05 between these years based on appendix
+2012,137-open-north,open,150,1500,0.1,0.1,
+2012,137-open-south,open,189,1890,0.1,0.1,
+2012,49-shrub-north,shrub,25,500,0.05,0.05,
+2013,49-shrub-north,shrub,10,200,0.05,0.05,
+2012,150-open-north,open,212,2120,0.1,0.1,
+2012,150-open-south,open,118,1180,0.1,0.1,
+2014,49-shrub-north,shrub,11,NA,NA,0.05,assuming this plot remained 0.05 between these years based on appendix
+2016,49-shrub-north,shrub,35,NA,NA,0.05,assuming this plot remained 0.05 between these years based on appendix
+2012,180-open-north,open,584,5840,0.1,0.1,
+2012,180-open-south,open,121,1210,0.1,0.1,
+2001,49-shrub-south,shrub,59,1160,0.051,0.05,assumed this was 0.05
+2002,49-shrub-south,shrub,4,80,0.05,0.05,
+2012,2-open-east,open,303,3030,0.1,0.1,
+2012,2-open-west,open,258,2580,0.1,0.1,
+2003,49-shrub-south,shrub,11,140,0.079,0.05,assuming this plot remained 0.05 between these years based on appendix
+2004,49-shrub-south,shrub,101,2020,0.05,0.05,
+2012,237-open-north,open,166,1660,0.1,0.1,
+2012,237-open-south,open,253,2530,0.1,0.1,
+2005,49-shrub-south,shrub,27,520,0.052,0.05,assumed this was 0.05
+2007,49-shrub-south,shrub,13,260,0.05,0.05,
+2012,3-open-north,open,228,2280,0.1,0.1,
+2012,3-open-south,open,117,1160,0.101,0.1,assumed this was 0.1
+2012,4-open-east,open,146,1460,0.1,0.1,
+2012,4-open-west,open,154,1540,0.1,0.1,
+2008,49-shrub-south,shrub,72,1440,0.05,0.05,
+2009,49-shrub-south,shrub,110,2200,0.05,0.05,
+2012,49-open-north,open,124,1240,0.1,0.1,
+2012,49-open-south,open,63,630,0.1,0.1,
+2010,49-shrub-south,shrub,274,5480,0.05,0.05,
+2011,49-shrub-south,shrub,36,720,0.05,0.05,
+2012,5-open-east,open,140,1400,0.1,0.1,
+2012,5-open-west,open,228,2280,0.1,0.1,
+2012,49-shrub-south,shrub,329,6580,0.05,0.05,
+2013,49-shrub-south,shrub,79,1580,0.05,0.05,
+2012,6-open-east,open,111,1110,0.1,0.1,
+2012,6-open-west,open,134,1340,0.1,0.1,
+2014,49-shrub-south,shrub,159,NA,NA,0.05,assuming this plot remained 0.05 between these years based on appendix
+2015,49-shrub-south,shrub,50,NA,NA,0.05,assuming this plot remained 0.05 between these years based on appendix
+2012,60-open-north,open,74,740,0.1,0.1,
+2012,60-open-south,open,188,1880,0.1,0.1,
+2016,49-shrub-south,shrub,86,NA,NA,0.05,assuming this plot remained 0.05 between these years based on appendix
+2001,5-shrub-east,shrub,91,830,0.11,0.1,assumed this was 0.1
+2012,9-open-east,open,94,940,0.1,0.1,
+2012,9-open-west,open,293,2930,0.1,0.1,
+2002,5-shrub-east,shrub,5,50,0.1,0.1,
+2003,5-shrub-east,shrub,71,570,0.125,0.1,assumed this was 0.1
+2012,90-open-north,open,118,1180,0.1,0.1,
+2012,90-open-south,open,113,1130,0.1,0.1,
+2004,5-shrub-east,shrub,56,560,0.1,0.1,
+2005,5-shrub-east,shrub,35,350,0.1,0.1,
+2013,0-open-north,open,215,2150,0.1,0.1,
+2013,0-open-south,open,181,1810,0.1,0.1,
+2007,5-shrub-east,shrub,33,330,0.1,0.1,
+2008,5-shrub-east,shrub,58,580,0.1,0.1,
+2013,1-open-east,open,41,410,0.1,0.1,
+2013,1-open-west,open,51,490,0.104,0.1,assumed this was 0.1
+2009,5-shrub-east,shrub,313,3130,0.1,0.1,
+2010,5-shrub-east,shrub,243,2430,0.1,0.1,
+2013,114-open-north,open,49,490,0.1,0.1,
+2013,114-open-south,open,55,550,0.1,0.1,
+2011,5-shrub-east,shrub,3,30,0.1,0.1,
+2012,5-shrub-east,shrub,144,1440,0.1,0.1,
+2013,12-open-north,open,389,3890,0.1,0.1,
+2013,12-open-south,open,558,5580,0.1,0.1,
+2013,5-shrub-east,shrub,134,1340,0.1,0.1,
+2013,120-open-north,open,46,460,0.1,0.1,
+2013,120-open-south,open,36,360,0.1,0.1,
+2014,5-shrub-east,shrub,137,NA,NA,0.1,assuming this plot remained 0.1 between these years based on appendix
+2015,5-shrub-east,shrub,216,NA,NA,0.1,assuming this plot remained 0.1 between these years based on appendix
+2013,137-open-north,open,28,280,0.1,0.1,
+2013,137-open-south,open,57,570,0.1,0.1,
+2016,5-shrub-east,shrub,724,NA,NA,0.1,assuming this plot remained 0.1 between these years based on appendix
+2001,5-shrub-west,shrub,203,1950,0.104,0.1,assumed this was 0.1
+2013,150-open-north,open,27,270,0.1,0.1,
+2013,150-open-south,open,20,200,0.1,0.1,
+2002,5-shrub-west,shrub,4,40,0.1,0.1,
+2003,5-shrub-west,shrub,55,430,0.128,0.1,assumed this was 0.1
+2013,180-open-north,open,57,570,0.1,0.1,
+2013,180-open-south,open,38,370,0.103,0.1,assumed this was 0.1
+2004,5-shrub-west,shrub,86,860,0.1,0.1,
+2005,5-shrub-west,shrub,27,250,0.108,0.1,assumed this was 0.1
+2013,2-open-east,open,131,1310,0.1,0.1,
+2013,2-open-west,open,76,760,0.1,0.1,
+2007,5-shrub-west,shrub,14,130,0.108,0.1,assumed this was 0.1
+2008,5-shrub-west,shrub,57,550,0.104,0.1,assumed this was 0.1
+2013,237-open-north,open,143,1420,0.101,0.1,assumed this was 0.1
+2013,237-open-south,open,88,870,0.101,0.1,assumed this was 0.1
+2009,5-shrub-west,shrub,160,1600,0.1,0.1,
+2010,5-shrub-west,shrub,177,1760,0.101,0.1,assumed this was 0.1
+2013,3-open-north,open,231,2310,0.1,0.1,
+2013,3-open-south,open,176,1760,0.1,0.1,
+2011,5-shrub-west,shrub,64,640,0.1,0.1,
+2013,4-open-east,open,19,190,0.1,0.1,
+2013,4-open-west,open,58,580,0.1,0.1,
+2012,5-shrub-west,shrub,254,2540,0.1,0.1,
+2013,5-shrub-west,shrub,142,1420,0.1,0.1,
+2013,49-open-north,open,194,1930,0.101,0.1,assumed this was 0.1
+2013,49-open-south,open,140,1400,0.1,0.1,
+2014,5-shrub-west,shrub,195,NA,NA,0.1,assuming this plot remained 0.1 between these years based on appendix
+2015,5-shrub-west,shrub,181,NA,NA,0.1,assuming this plot remained 0.1 between these years based on appendix
+2013,5-open-east,open,59,590,0.1,0.1,
+2013,5-open-west,open,124,1240,0.1,0.1,
+2016,5-shrub-west,shrub,191,NA,NA,0.1,assuming this plot remained 0.1 between these years based on appendix
+2001,6-shrub-east,shrub,54,1060,0.051,0.05,assumed this was 0.05
+2013,6-open-east,open,56,560,0.1,0.1,
+2013,6-open-west,open,178,1780,0.1,0.1,
+2003,6-shrub-east,shrub,39,660,0.059,0.05,assuming this plot remained 0.05 between these years based on appendix
+2004,6-shrub-east,shrub,63,1260,0.05,0.05,
+2013,60-open-north,open,34,340,0.1,0.1,
+2013,60-open-south,open,129,1290,0.1,0.1,
+2005,6-shrub-east,shrub,13,260,0.05,0.05,
+2007,6-shrub-east,shrub,12,240,0.05,0.05,
+2013,9-open-east,open,240,2400,0.1,0.1,
+2013,9-open-west,open,164,1630,0.101,0.1,assumed this was 0.1
+2008,6-shrub-east,shrub,112,2240,0.05,0.05,
+2009,6-shrub-east,shrub,108,2160,0.05,0.05,
+2013,90-open-north,open,96,960,0.1,0.1,
+2013,90-open-south,open,32,320,0.1,0.1,
+2010,6-shrub-east,shrub,125,2460,0.051,0.05,assumed this was 0.05
+2011,6-shrub-east,shrub,45,900,0.05,0.05,
+2014,0-open-north,open,292,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2014,0-open-south,open,256,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2012,6-shrub-east,shrub,280,5600,0.05,0.05,
+2013,6-shrub-east,shrub,38,760,0.05,0.05,
+2014,1-open-east,open,38,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2014,1-open-west,open,90,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2014,6-shrub-east,shrub,118,NA,NA,0.05,assuming this plot remained 0.05 between these years based on appendix
+2015,6-shrub-east,shrub,66,NA,NA,0.05,assuming this plot remained 0.05 between these years based on appendix
+2014,114-open-north,open,45,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2014,114-open-south,open,38,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2016,6-shrub-east,shrub,229,NA,NA,0.05,assuming this plot remained 0.05 between these years based on appendix
+2001,6-shrub-west,shrub,36,660,0.055,0.05,assumed this was 0.05
+2014,12-open-north,open,378,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2014,12-open-south,open,411,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2003,6-shrub-west,shrub,47,680,0.069,0.05,assuming this plot remained 0.05 between these years based on appendix
+2004,6-shrub-west,shrub,92,1840,0.05,0.05,
+2014,120-open-north,open,56,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2014,120-open-south,open,51,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2005,6-shrub-west,shrub,14,180,0.078,0.05,assuming this plot remained 0.05 between these years based on appendix
+2007,6-shrub-west,shrub,20,380,0.053,0.05,assumed this was 0.05
+2014,137-open-north,open,58,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2014,137-open-south,open,37,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2008,6-shrub-west,shrub,111,2200,0.05,0.05,
+2009,6-shrub-west,shrub,73,1460,0.05,0.05,
+2014,150-open-north,open,108,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2014,150-open-south,open,43,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2010,6-shrub-west,shrub,237,4740,0.05,0.05,
+2011,6-shrub-west,shrub,3,60,0.05,0.05,
+2014,180-open-north,open,117,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2014,180-open-south,open,62,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2012,6-shrub-west,shrub,414,8280,0.05,0.05,
+2013,6-shrub-west,shrub,15,300,0.05,0.05,
+2014,2-open-east,open,124,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2014,2-open-west,open,110,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2014,6-shrub-west,shrub,101,NA,NA,0.05,assuming this plot remained 0.05 between these years based on appendix
+2015,6-shrub-west,shrub,42,NA,NA,0.05,assuming this plot remained 0.05 between these years based on appendix
+2014,237-open-north,open,158,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2014,237-open-south,open,140,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2016,6-shrub-west,shrub,103,NA,NA,0.05,assuming this plot remained 0.05 between these years based on appendix
+2001,60-shrub-north,shrub,59,1140,0.052,0.05,assumed this was 0.05
+2014,3-open-north,open,256,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2014,3-open-south,open,232,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2003,60-shrub-north,shrub,16,160,0.1,0.05,assumed this was 0.05 based on consistency throughout time period and to match appendix though it doesn’t match the calculated size
+2014,4-open-east,open,15,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2014,4-open-west,open,58,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2004,60-shrub-north,shrub,37,740,0.05,0.05,
+2005,60-shrub-north,shrub,24,400,0.06,0.05,assuming this plot remained 0.05 between these years based on appendix
+2014,49-open-north,open,254,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2014,49-open-south,open,119,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2008,60-shrub-north,shrub,51,1020,0.05,0.05,
+2009,60-shrub-north,shrub,80,1600,0.05,0.05,
+2014,5-open-east,open,89,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2014,5-open-west,open,181,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2010,60-shrub-north,shrub,358,7160,0.05,0.05,
+2011,60-shrub-north,shrub,23,460,0.05,0.05,
+2014,6-open-east,open,109,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2014,6-open-west,open,145,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2012,60-shrub-north,shrub,111,2220,0.05,0.05,
+2013,60-shrub-north,shrub,65,1300,0.05,0.05,
+2014,60-open-north,open,23,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2014,60-open-south,open,98,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2014,60-shrub-north,shrub,77,NA,NA,0.05,assuming this plot remained 0.05 between these years based on appendix
+2015,60-shrub-north,shrub,52,NA,NA,0.05,assuming this plot remained 0.05 between these years based on appendix
+2014,9-open-east,open,567,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2014,9-open-west,open,314,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2016,60-shrub-north,shrub,321,NA,NA,0.05,assuming this plot remained 0.05 between these years based on appendix
+2001,60-shrub-south,shrub,60,1180,0.051,0.05,assumed this was 0.05
+2014,90-open-north,open,72,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2014,90-open-south,open,18,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2003,60-shrub-south,shrub,20,320,0.062,0.05,assuming this plot remained 0.05 between these years based on appendix
+2004,60-shrub-south,shrub,52,1040,0.05,0.05,
+2015,0-open-north,open,96,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2015,0-open-south,open,52,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2005,60-shrub-south,shrub,42,840,0.05,0.05,
+2007,60-shrub-south,shrub,22,420,0.052,0.05,assumed this was 0.05
+2015,1-open-east,open,22,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2015,1-open-west,open,60,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2008,60-shrub-south,shrub,170,3360,0.051,0.05,assumed this was 0.05
+2009,60-shrub-south,shrub,235,4700,0.05,0.05,
+2015,114-open-north,open,9,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2015,114-open-south,open,27,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2010,60-shrub-south,shrub,209,4180,0.05,0.05,
+2011,60-shrub-south,shrub,122,2440,0.05,0.05,
+2015,12-open-north,open,140,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2012,60-shrub-south,shrub,304,6080,0.05,0.05,
+2013,60-shrub-south,shrub,105,2100,0.05,0.05,
+2015,120-open-north,open,21,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2015,120-open-south,open,37,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2014,60-shrub-south,shrub,227,NA,NA,0.05,assuming this plot remained 0.05 between these years based on appendix
+2015,60-shrub-south,shrub,99,NA,NA,0.05,assuming this plot remained 0.05 between these years based on appendix
+2015,137-open-north,open,22,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2015,137-open-south,open,6,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2016,60-shrub-south,shrub,119,NA,NA,0.05,assuming this plot remained 0.05 between these years based on appendix
+2001,9-shrub-east,shrub,176,NA,NA,0.05,assuming this plot remained 0.05 between these years based on appendix
+2015,150-open-north,open,69,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2015,150-open-south,open,39,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2003,9-shrub-east,shrub,13,NA,NA,0.05,assuming this plot remained 0.05 between these years based on appendix
+2004,9-shrub-east,shrub,17,NA,NA,0.05,assuming this plot remained 0.05 between these years based on appendix
+2015,180-open-north,open,65,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2015,180-open-south,open,75,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2005,9-shrub-east,shrub,13,NA,NA,0.05,assuming this plot remained 0.05 between these years based on appendix
+2007,9-shrub-east,shrub,3,NA,NA,0.05,assuming this plot remained 0.05 between these years based on appendix
+2015,2-open-east,open,83,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2015,2-open-west,open,51,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2008,9-shrub-east,shrub,20,400,0.05,0.05,
+2015,237-open-north,open,113,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2015,237-open-south,open,42,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2009,9-shrub-east,shrub,22,440,0.05,0.05,
+2010,9-shrub-east,shrub,149,2980,0.05,0.05,
+2015,3-open-north,open,47,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2015,3-open-south,open,66,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2011,9-shrub-east,shrub,7,140,0.05,0.05,
+2015,4-open-east,open,15,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2015,4-open-west,open,9,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2012,9-shrub-east,shrub,80,1600,0.05,0.05,
+2013,9-shrub-east,shrub,67,1340,0.05,0.05,
+2015,49-open-north,open,165,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2015,49-open-south,open,106,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2014,9-shrub-east,shrub,184,NA,NA,0.05,assuming this plot remained 0.05 between these years based on appendix
+2015,5-open-east,open,60,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2015,5-open-west,open,144,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2015,9-shrub-east,shrub,44,NA,NA,0.05,assuming this plot remained 0.05 between these years based on appendix
+2016,9-shrub-east,shrub,264,NA,NA,0.05,assuming this plot remained 0.05 between these years based on appendix
+2015,6-open-east,open,74,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2015,6-open-west,open,42,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2001,9-shrub-west,shrub,208,NA,NA,0.05,assuming this plot remained 0.05 between these years based on appendix
+2003,9-shrub-west,shrub,9,NA,NA,0.05,assuming this plot remained 0.05 between these years based on appendix
+2015,60-open-north,open,26,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2015,60-open-south,open,88,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2004,9-shrub-west,shrub,14,NA,NA,0.05,assuming this plot remained 0.05 between these years based on appendix
+2005,9-shrub-west,shrub,25,NA,NA,0.05,assuming this plot remained 0.05 between these years based on appendix
+2015,9-open-east,open,216,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2015,9-open-west,open,137,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2007,9-shrub-west,shrub,17,NA,NA,0.05,assuming this plot remained 0.05 between these years based on appendix
+2008,9-shrub-west,shrub,3,60,0.05,0.05,
+2015,90-open-north,open,53,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2015,90-open-south,open,10,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2009,9-shrub-west,shrub,210,4200,0.05,0.05,
+2010,9-shrub-west,shrub,56,1120,0.05,0.05,
+2016,0-open-north,open,28,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2016,0-open-south,open,98,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2011,9-shrub-west,shrub,5,100,0.05,0.05,
+2012,9-shrub-west,shrub,49,980,0.05,0.05,
+2016,1-open-east,open,346,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2016,1-open-west,open,161,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2013,9-shrub-west,shrub,153,3060,0.05,0.05,
+2014,9-shrub-west,shrub,116,NA,NA,0.05,assuming this plot remained 0.05 between these years based on appendix
+2016,114-open-north,open,18,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2016,114-open-south,open,69,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2015,9-shrub-west,shrub,39,NA,NA,0.05,assuming this plot remained 0.05 between these years based on appendix
+2016,9-shrub-west,shrub,206,NA,NA,0.05,assuming this plot remained 0.05 between these years based on appendix
+2016,12-open-north,open,262,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2016,12-open-south,open,447,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2001,90-shrub-north,shrub,71,1380,0.051,0.05,assumed this was 0.05
+2003,90-shrub-north,shrub,1,20,0.05,0.05,
+2016,120-open-north,open,106,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2016,120-open-south,open,144,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2004,90-shrub-north,shrub,6,120,0.05,0.05,
+2005,90-shrub-north,shrub,23,460,0.05,0.05,
+2016,137-open-north,open,26,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2016,137-open-south,open,41,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2007,90-shrub-north,shrub,22,420,0.052,0.05,assumed this was 0.05
+2008,90-shrub-north,shrub,15,300,0.05,0.05,
+2016,150-open-north,open,206,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2016,150-open-south,open,61,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2009,90-shrub-north,shrub,69,1380,0.05,0.05,
+2010,90-shrub-north,shrub,141,2820,0.05,0.05,
+2016,180-open-north,open,167,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2016,180-open-south,open,230,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2011,90-shrub-north,shrub,1,NA,NA,0.05,assuming this plot remained 0.05 between these years based on appendix
+2012,90-shrub-north,shrub,178,3560,0.05,0.05,
+2016,2-open-east,open,484,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2016,2-open-west,open,353,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2013,90-shrub-north,shrub,27,540,0.05,0.05,
+2014,90-shrub-north,shrub,40,NA,NA,0.05,assuming this plot remained 0.05 between these years based on appendix
+2016,237-open-north,open,355,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2016,237-open-south,open,229,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2015,90-shrub-north,shrub,22,NA,NA,0.05,assuming this plot remained 0.05 between these years based on appendix
+2016,90-shrub-north,shrub,70,NA,NA,0.05,assuming this plot remained 0.05 between these years based on appendix
+2016,3-open-north,open,71,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2016,3-open-south,open,238,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2001,90-shrub-south,shrub,82,1640,0.05,0.05,
+2016,4-open-east,open,41,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2016,4-open-west,open,24,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2002,90-shrub-south,shrub,2,40,0.05,0.05,
+2003,90-shrub-south,shrub,6,80,0.075,0.05,assuming this plot remained 0.05 between these years based on appendix
+2016,49-open-north,open,657,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2016,49-open-south,open,723,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2004,90-shrub-south,shrub,97,1940,0.05,0.05,
+2005,90-shrub-south,shrub,50,980,0.051,0.05,assumed this was 0.05
+2016,5-open-east,open,121,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2016,5-open-west,open,202,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2007,90-shrub-south,shrub,146,2800,0.052,0.05,assumed this was 0.05
+2008,90-shrub-south,shrub,147,2920,0.05,0.05,
+2016,6-open-east,open,207,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2016,6-open-west,open,232,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2009,90-shrub-south,shrub,137,2740,0.05,0.05,
+2010,90-shrub-south,shrub,88,1760,0.05,0.05,
+2016,60-open-north,open,171,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2016,60-open-south,open,419,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2011,90-shrub-south,shrub,38,760,0.05,0.05,
+2012,90-shrub-south,shrub,63,1260,0.05,0.05,
+2016,9-open-east,open,170,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2016,9-open-west,open,73,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2013,90-shrub-south,shrub,11,200,0.055,0.05,assumed this was 0.05
+2014,90-shrub-south,shrub,32,NA,NA,0.05,assuming this plot remained 0.05 between these years based on appendix
+2016,90-open-north,open,238,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2016,90-open-south,open,29,NA,NA,0.1,"based on appendix, all open plots were 0.1 from 2001 onward"
+2015,90-shrub-south,shrub,26,NA,NA,0.05,assuming this plot remained 0.05 between these years based on appendix
+2016,90-shrub-south,shrub,127,NA,NA,0.05,assuming this plot remained 0.05 between these years based on appendix

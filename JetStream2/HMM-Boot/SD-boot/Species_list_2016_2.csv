@@ -1,0 +1,68 @@
+Genus,Species,Species code,Code,Native.Invasive,Forb.Grass,Family,author citation,synonym (APG III classification),is active name,is present on plots,is present in soil samples
+Brassica,tournefortii,brto,BRATOU,Exotic,Forb,Brassicaceae,Gouan,,TRUE,FALSE,TRUE
+Bromus,rubens,brru,BRORUB,Exotic,Grass,Poaceae,L.,alternate: Bromus madritensis  L.  ssp. rubens  (L.) Husnot,TRUE,TRUE,TRUE
+Erodium,cicutarium,erci,EROCIC,Exotic,Forb,Geraniaceae,(L.) L'H-r.,,TRUE,TRUE,TRUE
+Matthiola,parviflora,mapa,MATPAR,Exotic,Forb,Brassicaceae,Kuntze,,TRUE,TRUE,TRUE
+Schismus,barbatus,scba,SCHBAR,Exotic,Grass,Poaceae,(Loefl. ex L.) Thell.,,TRUE,TRUE,TRUE
+Sisymbrium,irio,siir,SISIRI,Exotic,Forb,Brassicaceae,L.,,TRUE,TRUE,TRUE
+Amsinckia,intermedia,amin,AMSINT,Native,Forb,Boraginaceae,Fisch. & C.A. Mey.,alternate: Amsinckia menziesii (Lehm.) A. Nelson & J.F. Macbr. var. intermedia (Fisch. & C.A. Mey.) Ganders,TRUE,TRUE,TRUE
+Astragalus,nuttallianus,asnu,ASTNUT,Native,Forb,Fabaceae,A. DC.,,TRUE,TRUE,FALSE
+Bowlesia,incana,boin,BOWINC,Native,Forb,Apiaceae,Ruiz Lopez & Pavon,,TRUE,TRUE,TRUE
+Camissonia,chamaenerioides,cach,CAMCHA,Native,Forb,Onagraceae,(A. Gray) Raven,active: Eremothera chamaenerioides (A. Gray) W.L. Wagner & Hoch,FALSE,TRUE,TRUE
+Chaenactis,stevioides,chst,CHASTE,Native,Forb,Asteraceae,Hook. & Arn.,,TRUE,TRUE,TRUE
+Chorizanthe,brevicornu,chbr,CHOBRE,Native,Forb,Polygonaceae,Torrey,,TRUE,TRUE,TRUE
+Chorizanthe,rigida,chri,CHORIG,Native,Forb,Polygonaceae,(Torrey) Torrey & A. Gray,,TRUE,TRUE,FALSE
+Cistanthe,monandra,cimo,CALMON,Native,Forb,Portulacaceae,(Nutt.) Hershkovitz,alternate: Calyptridium monandrum,TRUE,TRUE,TRUE
+Crassula,connata,crco,CRACON,Native,Forb,Crassulaceae,Ruiz Lopez & Pavon,,TRUE,TRUE,FALSE
+Cryptantha,angustifolia,cran,CRYANG,Native,Forb,Boraginaceae,(Torrey) Greene,,TRUE,TRUE,TRUE
+Cryptantha,barbigera,crba,CRYBAR,Native,Forb,Boraginaceae,(A. Gray) Greene,,TRUE,TRUE,TRUE
+Cryptantha,maritima,crma,CRYMAR,Native,Forb,Boraginaceae,(E. Greene) E. Greene,,TRUE,FALSE,TRUE
+Cryptantha,micrantha,crmi,CRYMIC,Native,Forb,Boraginaceae,(Torrey) I.M. Johnston,,TRUE,TRUE,TRUE
+Cryptantha,nevadensis,crne,CRYNEV,Native,Forb,Boraginaceae,A. Nelson & Kennedy,,TRUE,TRUE,TRUE
+Cryptantha,pterocarya,crpt,CRYPTE,Native,Forb,Boraginaceae,(Torrey)  Greene,,TRUE,TRUE,TRUE
+Daucus,pusillis,dapu,DAUPUS,Native,Forb,Apiaceae,Michx.,,TRUE,TRUE,TRUE
+Descurainia,pinnata,depi,DESPIN,Native,Forb,Brassicaceae,(Walter) Britton,,TRUE,TRUE,TRUE
+Draba,cuneifolia,drcu,DRACUN,Native,Forb,Brassicaceae,Torrey & A. Gray,,TRUE,TRUE,TRUE
+Eragrostis,cilianensis,eracil,ERACIL,Native,Grass,Poaceae,(All.) Vign. ex Janchen,,TRUE,FALSE,TRUE
+Eriastrum,diffusum,erdi,ERIDIF,Native,Forb,Polemoniaceae,(A. Gray) H. Mason,,TRUE,TRUE,TRUE
+Eriogonum,abertianum,erab,ERIABE,Native,Forb,Polygonaceae,Torr.,,TRUE,TRUE,FALSE
+Eriogonum,deflexum,erde,ERIDEF,Native,Forb,Polygonaceae,Torr.,,TRUE,TRUE,TRUE
+Eriogonum,trichopes,ertr,ERITRI,Native,Forb,Polygonaceae,Torrey,,TRUE,TRUE,TRUE
+Eriophyllum,lanosum,erla,ERILAN,Native,Forb,Asteraceae,(A. Gray) A. Gray,alternate: Antheropeas lanosum (A. Gray) Rydb.,TRUE,TRUE,TRUE
+Erodium,texanum,erte,EROTEX,Native,Forb,Geraniaceae,A. Gray,,TRUE,TRUE,TRUE
+Eucrypta,chrysanthemifolia,euch,EUCCHR,Native,Forb,Boraginaceae,(Benth.) E. Greene,,TRUE,FALSE,FALSE
+Eucrypta,micrantha,eumi,EUCMIC,Native,Forb,Boraginaceae,(Torr.) A. Heller,,TRUE,TRUE,TRUE
+Evax,multicaulis,evmu,EVAMUL,Native,Forb,Asteraceae,DC.,active: Evax verna Raf. var. verna,FALSE,TRUE,TRUE
+Filago,arizonica,fiar,LOGARI,Native,Forb,Asteraceae,A. Gray,active: Logfia arizonica (A. Gray) Holub,FALSE,TRUE,FALSE
+Filago,californica,fica,LOGFIL,Native,Forb,Asteraceae,Hook. & Arn.,active: Logfia filaginoides (Hook. & Arn.) Morefield,FALSE,TRUE,TRUE
+Filago,depressa,fide,LOGDEP,Native,Forb,Asteraceae,A. Gray,active: Logfia depressa (A. Gray) Holub,FALSE,TRUE,TRUE
+Gilia,stellata,gist,GILSTE,Native,Forb,Polemoniaceae,A.A. Heller,,TRUE,TRUE,FALSE
+Guillenia,lasiophylla,gula,CAULAS,Native,Forb,Brassicaceae,(Hook. & Arn.) E. Greene,active: Caulanthus lasiophyllus (Hook. & Arn.) Payson,FALSE,TRUE,TRUE
+Harpagonella,palmerii,hapa,HARPAL,Native,Forb,Boraginaceae,A. Gray,,TRUE,TRUE,TRUE
+Herniaria,hirsuta,hehi,HERHIR,Native,Forb,Caryophyllaceae,L.,alternate: Herniaria cinerea,TRUE,TRUE,TRUE
+Lappula,redowskii,lare,LAPRED,Native,Forb,Boraginaceae,(Hornem.) E. Greene,active: Lappula occidentalis (S. Watson) Greene vars. cupulata (A. Gray) Higgins and redowskii (A. Gray) Higgins,FALSE,TRUE,TRUE
+Lepidium,lasiocarpum,lela,LEPLAS,Native,Forb,Brassicaceae,Nutt.,alternate: Lepidium lasiocarpum Torrey & A. Gray ssp. lasiocarpum,TRUE,TRUE,TRUE
+Lesquerella,gordonii,lego,LESGOR,Native,Forb,Brassicaceae,(A. Gray) S. Watson ,,TRUE,TRUE,TRUE
+Linanthus,bigelovii,libi,LINBIG,Native,Forb,Polemoniaceae,(A. Gray) E. Greene,alternate: Gilia bigelovii,TRUE,TRUE,FALSE
+Loeflingia,squarrosa,losq,LOESQU,Native,Forb,Caryophyllaceae,Nutt.,,TRUE,TRUE,FALSE
+Lotus,humistratus,lohu,ACMBRA,Native,Forb,Fabaceae,E. Greene,active: Acmispon brachycarpus (Benth.) D.D. Sokoloff,FALSE,TRUE,TRUE
+Lotus,tomentellus,loto,ACMSTR,Native,Forb,Fabaceae,E. Greene,active: Acmispon strigosus (Nutt.) Greene var. tomentellus (Greene),FALSE,TRUE,TRUE
+Mentzelia,albicaulis,meal,MENALB,Native,Forb,Loasaceae,Hook.,,TRUE,TRUE,TRUE
+Monoptilon,bellioides,mobe,MONBEL,Native,Forb,Asteraceae,(A. Gray) H.M. Hall,,TRUE,TRUE,TRUE
+Nemacladus,glanduliferus,negl,NEMGLA,Native,Forb,Campanulaceae,Jepson,,TRUE,TRUE,TRUE
+Oenothera,primiveris,oepr,OENPRI,Native,Forb,Onagraceae,A. Gray,,TRUE,TRUE,FALSE
+Oligomeris,linifolia,olli,OLILIN,Native,Forb,Resedaceae,(M. Vahl) J.F. Macbr.,,TRUE,FALSE,TRUE
+Pectocarya,heterocarpa,pehe,PECHET,Native,Forb,Boraginaceae,(I.M. Johnst.) I.M. Johnst.,,TRUE,TRUE,TRUE
+Pectocarya,platycarpa,pepl,PECPLA,Native,Forb,Boraginaceae,(Munz & I.M. Johnst.)  Munz & I.M. Johnst.,,TRUE,TRUE,TRUE
+Pectocarya,recurvata,pere,PECREC,Native,Forb,Boraginaceae,I.M. Johnst.,,TRUE,TRUE,TRUE
+Phacelia,crenulata,phcr,PHACRE,Native,Forb,Boraginaceae,Torrey,,TRUE,TRUE,TRUE
+Phacelia,distans,phdi,PHADIS,Native,Forb,Boraginaceae,Benth.,,TRUE,TRUE,TRUE
+Plagiobothrys,arizonicus,plar,PLAARI,Native,Forb,Boraginaceae,(A. Gray) A. Gray,,TRUE,TRUE,FALSE
+Plantago,insularis,plin,PLAINS,Native,Forb,Plantaginaceae,Eastw.,active: Plantago ovata Forsskal var insularis (Eastw.) S.C. Meyers & A. Liston,FALSE,TRUE,TRUE
+Plantago,patagonica,plpa,PLAPAT,Native,Forb,Plantaginaceae,Jacq.,,TRUE,TRUE,TRUE
+Poa,bigelovii,pobi,POABIG,Native,Grass,Poaceae,Vasey & Scribner,,TRUE,TRUE,TRUE
+Silene,antirrhina,sian,SILANT,Native,Forb,Caryophyllaceae,L.,,TRUE,TRUE,TRUE
+Spermolepis,echinata,spec,SPEECH,Native,Forb,Apiaceae,(Nutt. ex DC.) A. Heller,,TRUE,TRUE,TRUE
+Streptanthus,carinatus,stca,STRCAR,Native,Forb,Brassicaceae,C. Wright ex A. Gray,,TRUE,FALSE,TRUE
+Stylocline,micropoides,stmi,STYMIC,Native,Forb,Asteraceae,A. Gray,,TRUE,TRUE,TRUE
+Vulpia,octoflora,vuoc,FESOCT,Native,Grass,Poaceae,(Walter) Rydb.,active: Festuca octoflora Walter,FALSE,TRUE,TRUE
