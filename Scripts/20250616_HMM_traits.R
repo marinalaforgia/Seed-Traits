@@ -142,7 +142,7 @@ CP.df$site <- "Carrizo"
 jr.df$site <- "Jasper Ridge"
 
 #meta <- read.csv("Data/Long-Term-Datasets/Datasets_metadata.csv")
-meta <- read.csv("Data/Long-Term-Datasets/20250709_meta-new-climate.csv")
+meta <- read.csv("Data/20250709_meta-new-climate.csv")
 
 ##### Bind & Filter data ####
 
@@ -258,7 +258,7 @@ hmm.trait$site <- factor(hmm.trait$site, levels = c("Sonoran", "Portal", "Carriz
 
 ##### Plot: S & AI ####
 
-ggplot(hmm.trait, aes(x = AI.site, y = s, color = site)) +
+ggplot(hmm.trait, aes(x = site, y = s, color = site)) +
   geom_smooth(method = "lm", color = "black", se = F) +
   geom_point(position = position_jitter(width = 0.01, height = 0), size = 2) +
   scale_color_manual(values = c(
@@ -270,6 +270,70 @@ ggplot(hmm.trait, aes(x = AI.site, y = s, color = site)) +
     legend.position = "none"
   ) +
   labs(x = "Aridity Index", y = "Temporal Dispersal")
+
+hmm.trait.sum <- hmm.trait %>%
+  group_by(AI.site, Colwell.M.cwd, Colwell.C.cwd, Colwell.P.cwd, cwd_mean) %>%
+  summarize(s.mean = mean(s, na.rm = T),
+            s.se = calcSE(s))
+
+a <- ggplot(hmm.trait.sum, aes(x = AI.site, y = s.mean)) +
+  geom_smooth(method = "lm", color = "black", se = F) +
+  geom_point(size = 2) +
+  geom_errorbar(aes(ymax = s.mean + s.se, ymin = s.mean - s.se)) +
+  theme_classic() +
+  theme(
+    panel.border = element_rect(color = "black", fill = NA, linewidth = 1),
+    axis.line = element_blank(),
+    legend.position = "none"
+  ) 
+
+b <- ggplot(hmm.trait.sum, aes(x = cwd_mean, y = s.mean)) +
+  geom_smooth(method = "lm", color = "black", se = F) +
+  geom_point(size = 2) +
+  geom_errorbar(aes(ymax = s.mean + s.se, ymin = s.mean - s.se)) +
+  theme_classic() +
+  theme(
+    panel.border = element_rect(color = "black", fill = NA, linewidth = 1),
+    axis.line = element_blank(),
+    legend.position = "none"
+  ) 
+
+c <- ggplot(hmm.trait.sum, aes(x = Colwell.M.cwd, y = s.mean)) +
+  geom_smooth(method = "lm", color = "black", se = F) +
+  geom_point(size = 2) +
+  geom_errorbar(aes(ymax = s.mean + s.se, ymin = s.mean - s.se)) +
+  theme_classic() +
+  theme(
+    panel.border = element_rect(color = "black", fill = NA, linewidth = 1),
+    axis.line = element_blank(),
+    legend.position = "none"
+  )
+
+d <- ggplot(hmm.trait.sum, aes(x = Colwell.C.cwd, y = s.mean)) +
+  geom_smooth(method = "lm", color = "black", se = F) +
+  geom_point(size = 2) +
+  geom_errorbar(aes(ymax = s.mean + s.se, ymin = s.mean - s.se)) +
+  theme_classic() +
+  theme(
+    panel.border = element_rect(color = "black", fill = NA, linewidth = 1),
+    axis.line = element_blank(),
+    legend.position = "none"
+  )
+
+e <- ggplot(hmm.trait.sum, aes(x = Colwell.P.cwd, y = s.mean)) +
+  geom_smooth(method = "lm", color = "black", se = F) +
+  geom_point(size = 2) +
+  geom_errorbar(aes(ymax = s.mean + s.se, ymin = s.mean - s.se)) +
+  theme_classic() +
+  theme(
+    panel.border = element_rect(color = "black", fill = NA, linewidth = 1),
+    axis.line = element_blank(),
+    legend.position = "none"
+  )
+
+ggarrange(a, b, c, d, e, ncol = 3, nrow = 2, labels = c("(a)", "(b)", "(c)", "(d)", "(e)", "(f)"), align = "hv", common.legend = TRUE, legend = "bottom") +
+  bgcolor("white") +
+  border(color = "white")
 
 ggplot(hmm.trait, aes(x = site, y = s)) +
   geom_boxplot()
@@ -313,7 +377,21 @@ ggplot(hmm.trait, aes(x = Colwell.P.cwd, y = s, color = site)) +
   ) +
   labs(x = "Colwell's P on CWD", y = "Temporal Dispersal")
 
-#ggsave("Manuscript/Aridity/Fignew.png", fig.new, dpi = 600, width = 5, height = 4)
+
+fig.cwd <- ggplot(hmm.trait, aes(x = AI.site, y = Colwell.P.cwd, color = site)) +
+  geom_smooth(method = "lm", color = "black", se = F) +
+  geom_point(size = 2) +
+  scale_color_manual(values = c(
+    "#ca562c", "#da8a5c", "#b4c8a8", "#80cdc1", "#018571")) +
+  theme_classic() +
+  theme(
+    panel.border = element_rect(color = "black", fill = NA, linewidth = 1),
+    axis.line = element_blank(),
+    legend.position = "none"
+  ) +
+  labs(x = "Aridity Index", y = "Colwell's P")
+
+ggsave("Manuscript/Aridity/aridity-v-P.png", fig.cwd, dpi = 600, width = 5, height = 4)
 
 hist(qlogis(hmm.trait$s + 0.000000001))
 hmm.trait$s_logit <- qlogis(hmm.trait$s + 0.00000000001)
@@ -718,25 +796,30 @@ df.RA.sum <- df.RA %>%
 
 df.RA.sum <- merge(df.RA.sum, meta[,c(1,20,23:37)], by.x = "site", by.y = "Dataset")
 
-ggplot(df.RA.sum, aes(y = cwm_s, x = Colwell.C.cwd)) +
+
+a <- ggplot(df.RA.sum, aes(y = cwm_s, x = Colwell.C.cwd)) +
   geom_point() +
   geom_smooth(method = "lm")
 
-ggplot(df.RA.sum, aes(y = cwm_s, x = Colwell.M.cwd)) +
+b <- ggplot(df.RA.sum, aes(y = cwm_s, x = Colwell.M.cwd)) +
   geom_point() +
   geom_smooth(method = "lm")
 
-ggplot(df.RA.sum, aes(y = cwm_s, x = Colwell.P.cwd)) +
+c <- ggplot(df.RA.sum, aes(y = cwm_s, x = Colwell.P.cwd)) +
   geom_point() +
   geom_smooth(method = "lm")
 
-ggplot(df.RA.sum, aes(y = cwm_s, x = log(AI.site))) +
+d <- ggplot(df.RA.sum, aes(y = cwm_s, x = AI.site)) +
   geom_point() +
   geom_smooth(method = "lm")
 
-ggplot(df.RA.sum, aes(y = cwm_s, x = log(AI.site))) +
+e <- ggplot(df.RA.sum, aes(y = cwm_s, x = log(AI.site))) +
   geom_point() +
   geom_smooth(method = "lm")
+
+fig1 <- ggarrange(a, b, c, d, e, ncol = 3, nrow = 2, labels = c("(a)", "(b)", "(c)", "(d)", "(e)", "(f)"), align = "hv", common.legend = F) +
+  bgcolor("white") +
+  border(color = "white")
 
 #### Q2: Traits ####
 #### Fig 2a: PCA ####
@@ -2130,3 +2213,205 @@ c <- ggplot(mcl.sim.sum, aes(y = g.est, x = g)) +
 fig.s2 <- ggarrange(a,b,c, ncol = 3, nrow = 1, labels = c("(a)", "(b)", "(c)"))
 
 ggsave("Manuscript/Figures/FigS2-species-validation.png", fig.s2, height = 2.5, width = 8, units = "in", dpi = 600)
+
+#### BSA TALK ####
+ggplot(hmm.trait, aes(x = log(AI.site), y = s, fill = site)) + 
+  geom_violin(width = 0.16, trim = FALSE, scale = "width", color = NA, alpha = 0.8) +
+  geom_point(position = position_jitter(width = 0.03, height = 0),
+             size = 2.5, shape = 21, stroke = 0.4, fill = "white", aes(color = site)) +
+  stat_summary(fun = mean, geom = "crossbar", width = 0.14, color = "black", fatten = 1) +
+  scale_fill_manual(values = c(
+    "#ca562c", "#da8a5c", "#b4c8a8", "#80cdc1", "#018571")) +
+  scale_color_manual(values = c(
+    "#ca562c", "#da8a5c", "#b4c8a8", "#80cdc1", "#018571")) +
+  coord_cartesian(ylim = c(0, 1)) +
+  theme_classic() +
+  theme(
+    panel.border = element_rect(color = "black", fill = NA, linewidth = 1),
+    axis.line = element_blank(),
+    legend.position = "none"
+  ) +
+  labs(x = "Aridity Index", y = "Temporal Dispersal")
+
+ggplot(hmm.trait, aes(x = Colwell.P.cwd, y = s, fill = site)) + 
+  geom_violin(width = 0.02, trim = FALSE, scale = "width", color = NA, alpha = 0.8) +
+  geom_point(position = position_jitter(width = 0.005, height = 0),
+             size = 2.5, shape = 21, stroke = 0.4, fill = "white", aes(color = site)) +
+  stat_summary(fun = mean, geom = "crossbar", width = 0.02, color = "black", fatten = 1) +
+  scale_fill_manual(values = c(
+    "#ca562c", "#da8a5c", "#b4c8a8", "#80cdc1", "#018571")) +
+  scale_color_manual(values = c(
+    "#ca562c", "#da8a5c", "#b4c8a8", "#80cdc1", "#018571")) +
+  coord_cartesian(ylim = c(0, 1)) +
+  theme_classic() +
+  theme(
+    panel.border = element_rect(color = "black", fill = NA, linewidth = 1),
+    axis.line = element_blank(),
+    legend.position = "none"
+  ) +
+  labs(x = "Predictability", y = "Temporal Dispersal")
+
+ggplot(hmm.trait, aes(x = Colwell.P.cwd, y = AI.site, col = s)) + 
+  #geom_violin(width = 0.02, trim = FALSE, scale = "width", color = NA, alpha = 0.8) +
+  geom_point() +
+  #stat_summary(fun = mean, geom = "crossbar", width = 0.02, color = "black", fatten = 1) +
+  #scale_fill_manual(values = c(
+   # "#ca562c", "#da8a5c", "#b4c8a8", "#80cdc1", "#018571")) +
+  scale_color_gradient(
+   low = "#ca562c", 
+   high = "#018571") +
+  coord_cartesian(ylim = c(0, 1)) +
+  theme_classic() +
+  theme(
+    panel.border = element_rect(color = "black", fill = NA, linewidth = 1),
+    axis.line = element_blank(),
+    legend.position = "none"
+  ) +
+  labs(x = "Predictability", y = "Aridity Index")
+
+site_colors <- c(
+  "Sonoran" = "#ca562c",
+  "Portal" = "#da8a5c",
+  "Carrizo" = "#b4c8a8",
+  "Jasper Ridge" = "#80cdc1",
+  "McLaughlin" = "#018571"
+)
+
+###### Graph aridity ####
+fig.all <- ggplot(hmm.trait, aes(x = s, y = c)) +
+  geom_smooth(method = "lm", se = F, col = "black") +
+  geom_point(aes(fill = site, shape = site), col = "black", size = 3) +
+  #geom_text(aes(label = Code)) +
+  theme_classic() +
+  theme(
+    legend.position = "right",
+    legend.title = element_blank(),
+    axis.line = element_blank(),
+    panel.border = element_rect(linewidth = 1, fill = NA),
+    #axis.title = element_blank(),
+    axis.text = element_text(size = 10),
+    axis.title = element_text(size = 15),
+    plot.title = element_text(size = 20, hjust = 0.5, face = "bold"),
+  ) +
+  scale_fill_manual(values = site_colors)  + 
+  scale_shape_manual(values = c(21, 22, 23, 24, 25)) +
+  labs(title = "All Sites", x = "temporal dispersal", y = "spatial dispersal")
+
+ggsave("all-sites-talk.png", dpi = 600, width = 8, height = 6, units = "in")
+
+fig1a <- ggplot(hmm.trait[hmm.trait$site == "Sonoran",], aes(x = s, y = c)) +
+  geom_smooth(method = "lm", se = F, col = "black") +
+  geom_point(col = "black", fill = "#ca562c", size = 3, shape = 21) +
+  theme_classic() +
+  theme(
+    legend.position = "none",
+    legend.title = element_blank(),
+    axis.line = element_blank(),
+    panel.border = element_rect(linewidth = 1, fill = NA),
+    #axis.title = element_blank(),
+    axis.text = element_text(size = 10),
+    axis.title = element_text(size = 15),
+    plot.title = element_text(size = 20, hjust = 0.5, face = "bold"),
+  ) +
+  #scale_x_continuous(breaks = c(0, 0.3, 0.6, 0.9)) +
+  xlim(0,1) +
+  labs(title = "Tumamoc Hill", x = "temporal dispersal", y = "spatial dispersal")
+
+fig1b <- ggplot(hmm.trait[hmm.trait$site == "Portal",], aes(x = s, y = c)) +
+  #geom_smooth(method = "lm", se = F, col = "black") +
+  geom_point(col = "black", fill = "#da8a5c", size = 3, shape = 22) +
+  theme_classic() +
+  #geom_text(aes(label = Code)) +
+  theme(
+    legend.position = "none",
+    axis.line = element_blank(),
+    legend.title = element_blank(),
+    panel.border = element_rect(linewidth = 1, fill = NA),
+    #axis.title = element_blank(),
+    axis.text = element_text(size = 10),
+    axis.title = element_text(size = 15),
+    plot.title = element_text(size = 20, hjust = 0.5, face = "bold"),
+  ) +
+  #scale_x_continuous(breaks = c(0, 0.3, 0.6, 0.9)) +
+  xlim(0,1) +
+  labs(title = "Portal", x = "temporal dispersal", y = "spatial dispersal")
+
+fig1c <- ggplot(hmm.trait[hmm.trait$site == "Carrizo",], aes(x = s, y = c)) +
+  geom_smooth(method = "lm", se = F, col = "black") +
+  geom_point(col = "black", fill ="#b4c8a8", size = 3, shape = 23) +
+  theme_classic() +
+  theme(
+    legend.position = "none",
+    axis.line = element_blank(),
+    legend.title = element_blank(),
+    panel.border = element_rect(linewidth = 1, fill = NA),
+    #axis.title = element_blank(),
+    axis.text = element_text(size = 10),
+    axis.title = element_text(size = 15),
+    plot.title = element_text(size = 20, hjust = 0.5, face = "bold"),
+  ) +
+  scale_y_continuous(breaks = c(0.3, 0.5, 0.7)) +
+  xlim(0,1) +
+  labs(title = "Carrizo Plain", x = "temporal dispersal", y = "spatial dispersal")
+
+fig1d <- ggplot(hmm.trait[hmm.trait$site == "Jasper Ridge",], aes(x = s, y = c)) +
+  geom_smooth(method = "lm", se = F, col = "black") +
+  geom_point(col = "black", fill = "#80cdc1", size = 3, shape = 24) +
+  theme_classic() +
+  theme(
+    legend.position = "none",
+    legend.title = element_blank(),
+    axis.line = element_blank(),
+    panel.border = element_rect(linewidth = 1, fill = NA),
+    #axis.title = element_blank(),
+    axis.text = element_text(size = 10),
+    axis.title = element_text(size = 15),
+    plot.title = element_text(size = 20, hjust = 0.5, face = "bold"),
+  ) +
+  scale_y_continuous(breaks = c(0, 0.3, 0.6, 0.9)) +
+  xlim(0,1) +
+  labs(title = "Jasper Ridge", x = "temporal dispersal", y = "spatial dispersal")
+
+fig1e <- ggplot(hmm.trait[hmm.trait$site == "McLaughlin",], aes(x = s, y = c)) +
+  geom_smooth(method = "lm", se = F, col = "black") +
+  geom_point(col = "black", fill = "#018571", size = 3, shape = 25) +
+  #geom_text(aes(label = Code)) +
+  theme_classic() +
+  theme(
+    legend.position = "none",
+    legend.title = element_blank(),
+    axis.line = element_blank(),
+    panel.border = element_rect(linewidth = 1, fill = NA),
+    axis.text = element_text(size = 10),
+    axis.title = element_text(size = 15),
+    plot.title = element_text(size = 20, hjust = 0.5, face = "bold"),
+  ) +
+  xlim(0,1) +
+  labs(title = "McLaughlin", x = "temporal dispersal", y = "spatial dispersal")
+
+fig1 <- ggarrange(fig.all,fig1a, fig1b, fig1c, fig1d, fig1e, ncol = 3, nrow = 2, align = "hv", common.legend = F) +
+  bgcolor("white") +
+  border(color = "white")
+
+ggsave("talk-fig.png", fig1, dpi = 600, width = 12, height =8)
+
+##### next graph ####
+talk.fg <- ggplot(hmm.trait2, aes(x = PC2, y = s)) +
+  geom_smooth(method = "lm", col = "black", se = F) +
+  geom_point(aes(fill = site, shape = site), col = "black", size = 3) +
+  #geom_text(aes(label = Code)) +
+  theme_classic() +
+  theme(
+    axis.line = element_blank(),
+    axis.text = element_text(size = 10),
+    axis.title = element_text(size = 15),
+    legend.text = element_text(size = 15),
+    panel.border = element_rect(linewidth = 1, fill = NA),
+    legend.title = element_blank()
+  ) +
+  scale_fill_manual(values = rev(c("#018571", "#80cdc1", "#b4c8a8", "#da8a5c", "#ca562c"))) +
+  scale_shape_manual(values = c(21, 22, 23, 24, 25)) +
+  labs(y = "Temporal dispersal")
+  
+
+ggsave("PC2-S.png", talk.fg, dpi = 600, width = 6, height = 4)

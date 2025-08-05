@@ -1,0 +1,554 @@
+ID,use.,dispersule,seeds.per.disp,morphological.unit,chemical.unit,Species,species.alt,code,accept.code,family,group,nat.inv,year,germ.perc,dorm.perc,seed.mass.1000,tot.wgt.g,n.seeds,lat,long,ele.m,Location.Notes,orig.acc,site,type,mega.comp,microbe.rob,notes,AI
+CBG-19899,,,,,,Abronia villosa,,ABRVIL,ABVI,Nyctaginaceae,forb,native,1998,0,NA,NA,2.02568306,165,35.66696,-116.28821,141,,19899,CBG,wild,,,,0.0195
+DW-01,,,,,,Abronia villosa,,ABRVIL,ABVI,Nyctaginaceae,forb,native,2015,NA,NA,NA,NA,NA,33.300707,-116.329031,NA,,,DW,wild,,,only 200,0.057
+SS-1,both,y,1,anthocarp,seed,Abronia villosa,,ABRVIL,ABVI,Nyctaginaceae,forb,native,2020,12,NA,NA,0.3115,NA,NA,NA,NA,"collected from various locations in Riverside, San Diego, and Orange Counties",,SS,wild,,,,NA
+CBG-21097,,,,,,Achyrachaena mollis, ,ACHMOL,ACMO,Asteraceae,forb,native,2003,28,NA,NA,0.294872263,55,32.89794,-118.48631,420,,21097,CBG,wild,,,,0.1894
+CBG-22430,,,,,,Achyrachaena mollis,,ACHMOL,ACMO,Asteraceae,forb,native,1997,80,NA,NA,0.03323741,14,34.14013,-118.76048,257,,22430,CBG,wild,,,,0.2085
+MCL-EE-59,,,1,achene + pappus,achene,Achyrachaena mollis,,ACHMOL,ACMO,Asteraceae,forb,native,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,MCL-EE,wild,,,,NA
+MCL-ML-1a,both,y,1,achene + pappus,achene,Achyrachaena mollis,,ACHMOL,ACMO,Asteraceae,forb,native,2015,NA,NA,NA,0.72,NA,38.86537177,-122.4029395,663,location approximate,,MCL-ML,wild,,,,0.5527
+MCL-ML-1b,both,y,1,achene + remnant flower,achene,Achyrachaena mollis,,ACHMOL,ACMO,Asteraceae,forb,native,2015,NA,NA,NA,NA,44,38.86537177,-122.4029395,663,location approximate,,MCL-ML,wild,,,"only 44 of this morph, 43 of them are in their dispersules and 1 is clean",0.5527
+CBG-24787,both,,1,seed,seed,Achyronychia cooperi,,ACHCOO,ACCO3,Caryophyllaceae,forb,native,2017,60,NA,NA,0.110518868,1100,33.87157,-116.44117,394,,24787,CBG,wild,,,,0.0585
+HED-1,both,,1,seed,seed,Acmispon americanus,Lotus purshianus,ACMAME,LOUNU,Fabaceae,forb,native,2021,76,NA,NA,1.155,NA,NA,NA,NA,,,HED,cultivated,x,,,NA
+MCL-EE-2,,,1,seed,seed,Acmispon brachycarpus,Lotus humistratus,ACMBRA,LOHU2,Fabaceae,forb,native,2019,NA,NA,NA,NA,NA,38.87239,-122.42753,659,,,MCL-EE,wild,,,not enough of this one; cabinet,0.5647
+GRIN-W6-32602,both,,1,seed,seed,Acmispon maritimus var. brevivexillus,Lotus salsuginosus var. brevivexillus,ACMMARB,LOSAB,Fabaceae,forb,native,2007,78,NA,NA,0.3715,100,33.9038,-111.82012,1016,,W6 32602,GRIN,wild,,,collected before 2007; cannot order more,0.2017
+CBG-23436,both,,1,seed,seed,Acmispon strigosus,Lotus strigosus,ACMSTR,LOST4,Fabaceae,forb,native,2011,30,NA,NA,0.568,427,33.66545,-116.83133,760,,23436,CBG,wild,,,,0.1598
+MCL-ML-16,both,,1,seed,seed,Acmispon wrangelianus,Lotus wrangelianus,ACMWRA,LOWR2,Fabaceae,forb,native,2021,NA,NA,NA,0.49,NA,38.87244585,-122.4271412,662,S ridge watering Exp NS,,MCL-ML,wild,,,,0.5647
+MCL-EE-3,,,,,,Aegilops triuncialis,,AEGTRI,AETR,Poaceae,grass,invasive,2016,NA,NA,NA,NA,NA,38.86037,-122.40679,NA,,,MCL-EE,wild,,,have another acc,0.5527
+SFREC-20,both,y,2,spikelet,caryopsis,Aegilops triuncialis,,AEGTRI,AETR,Poaceae,grass,invasive,2021,NA,NA,NA,3.58,NA,39.24872381,-121.315312,193,,,SFREC,wild,,,spikelet,0.4725
+SFREC-20a,both,y,2,spikelet,caryopsis,Aegilops triuncialis,,AEGTRI,AETR,Poaceae,grass,invasive,2021,NA,NA,NA,1.37,NA,39.24872381,-121.315312,193,,,SFREC,wild,,,"morph 2, small",0.4725
+SFREC-20b,both,y,2,spikelet,caryopsis,Aegilops triuncialis,,AEGTRI,AETR,Poaceae,grass,invasive,2021,NA,NA,NA,3.58,NA,39.24872381,-121.315312,193,,,SFREC,wild,,,"morph 1, large",0.4725
+MCL-EE-4,,,,,,Agoseris heterophylla,,AGOHET,AGHE2,Asteraceae,forb,native,2016,NA,NA,NA,NA,NA,NA,NA,NA,,,MCL-EE,wild,,,have another acc,NA
+MCL-ML-7,both,y,1,achene + pappus,achene,Agoseris heterophylla,,AGOHET,AGHE2,Asteraceae,forb,native,2015,NA,NA,NA,0.17,NA,38.82669382,-122.3390715,399,,,MCL-ML,wild,,,,0.4412
+CBG-19964,both,,1,seed,seed,Aliciella latifolia ssp. latifolia,,ALILATL,ALLAL3,Polemoniaceae,forb,native,1998,30,NA,NA,0.088171893,1750,33.60372,-115.92266,240,,19964,CBG,wild,,,not enough of this species for phosphorus,0.0325
+GRIN-PI-612855,,,,,,Amaranthus fimbriatus,,AMAFIM,AMFI,Amaranthaceae,forb,native,1999,97,0,0.26,0.06,400,33.41666667,-112,345,,PI 612855,GRIN,wild,,,,0.073075
+GRIN-PI-662285,both,,1,seed,seed,Amaranthus fimbriatus,,AMAFIM,AMFI,Amaranthaceae,forb,native,2010,74,73,0.26,0.064,400,31.83397,-110.85645,1111,,PI 662285,GRIN,wild,,,,0.1788
+GRIN-PI-688207,both,,1,seed,seed,Amaranthus hybridus,,AMAHYB,AMHY,Amaranthaceae,forb,native,2010,100,31,0.56,0.112,200,31.79261,-110.74676,1580,,PI 688207,GRIN,wild,,,,0.2403
+GRIN-PI-612856,both,,1,seed,seed,Amaranthus palmeri,,AMAPAL,AMPA,Amaranthaceae,forb,native,1999,84,9,0.3,0.12,400,33.41666667,-112,345,,PI 612856,GRIN,wild,,,,0.073075
+GRIN-PI-688211,both,,1,seed,seed,Amaranthus torreyi,,AMATOR,AMTO6,Amaranthaceae,forb,native,2010,95,0,NA,0.14,400,31.79261,-110.74676,1580,,PI 688211,GRIN,wild,,,,0.2403
+GRIN-W6-48213,both,,1,nutlet,nutlet,Amsinckia intermedia,,AMSINT,AMMEI2,Boraginaceae,forb,native,2013,92,NA,NA,0.89,200,33.393283,-111.3626803,709,,W6 48213,GRIN,wild,,,,0.1581
+SS-2,,,,,,Amsinckia intermedia,,AMSINT,AMMEI2,Boraginaceae,forb,native,2019,73,NA,NA,0.4063,NA,NA,NA,NA,"collected from various locations in Riverside, San Diego, and Orange Counties",,SS,wild,,x,,NA
+CBG-20715,,,,,,Amsinckia menziesii,,AMSMEN,AMME,Boraginaceae,forb,native,2001,99,NA,NA,1.665540475,600,33.75519,-116.89113,518,,20715,CBG,wild,,,,0.1268
+SFREC-1,both,,1,nutlet,nutlet,Amsinckia menziesii,,AMSMEN,AMME,Boraginaceae,forb,native,2021,NA,NA,NA,0.7,NA,39.23602182,-121.3049973,353,,,SFREC,wild,x,,,0.5161
+SS-3,both,,1,nutlet,nutlet,Amsinckia tessellata,,AMSTES,AMTE3,Boraginaceae,forb,native,2018,78,NA,NA,0.9543,NA,NA,NA,NA,"collected from various locations in Riverside, San Diego, and Orange Counties",,SS,wild,,,,NA
+MCL-EE-5,morph,,1,seed,seed,Anagallis arvensis,Lysimachia arvensis,ANAARV,ANAR,Primulaceae,forb,invasive,2019,NA,NA,NA,0.1646,NA,38.86556193,-122.402132,679,near kathy's house,,MCL-EE,wild,,x,only need 200,0.5527
+OUT-1,chem,,1,seed,seed,Anagallis arvensis,Lysimachia arvensis,ANAARV,ANAR,Primulaceae,forb,invasive,2021,NA,NA,NA,1.139,NA,NA,NA,NA,,,OUT,cultivated,x,,,NA
+MCL-EE-6,both,,1,achene,achene,Ancistrocarphus filagineus,,ANCFIL,ANFI3,Asteraceae,forb,native,2019,NA,NA,NA,0.0614,NA,38.87251,-122.4273,663,,,MCL-EE,wild,,,,0.5647
+CBG-21059,both,,1,achene,achene,Anisocoma acaulis,,ANIACA,ANAC,Asteraceae,forb,native,2003,8,NA,NA,2.0816,193,34.32338,-117.27163,960,,21059,CBG,wild,,,,0.1272
+GRIN-W6-36754,both,y,1,mericarp,seed,Anoda pentaschista,,ANOPEN,ANPE4,Malvaceae,forb,native,2007,83,NA,5.282,0.5282,100,34.24222,-112.04806,1118,,W6 36754,GRIN,wild,,,cannot order more,0.1884
+CBG-22016,morph,,1,seed,seed,Antirrhinum coulterianum,Sairocarpus coulterianus,ANTCOU,SACO13,Plantaginaceae,forb,native,2006,30,NA,NA,0.24306204,1800,34.70846,-118.69405,1195,,22016,CBG,wild,,,,0.1572
+DW-02,,,,,,Antirrhinum coulterianum,,ANTCOU,SACO13,Plantaginaceae,forb,native,2015,NA,NA,NA,NA,NA,33.239178,-116.392846,NA,,,DW,wild,,,dont need this one,0.0692
+SS-4,chem,,1,seed,seed,Antirrhinum coulterianum,Sairocarpus coulterianus,ANTCOU,SACO13,Plantaginaceae,forb,native,2019,68,NA,NA,0.2508,NA,NA,NA,NA,"collected from various locations in Riverside, San Diego, and Orange Counties",,SS,wild,,,,NA
+CBG-22451,both,,1,seed,seed,Antirrhinum multiflorum,Sairocarpus multiflorus,ANTMUL,SAMU2,Plantaginaceae,forb,native,2001,16.3,NA,NA,0.313104711,20900,34.09281,-118.60984,253,,22451,CBG,wild,,,,0.2113
+CBG-20124,,,,,,Argemone munita,,ARGMUN,ARMU,Papaveraceae,forb,native,1998,0,NA,NA,0.066388646,23,34.27603,-117.60992,2591,,20124,CBG,wild,,,,0.4355
+CBG-21422,both,,1,seed,seed,Argemone munita,,ARGMUN,ARMU,Papaveraceae,forb,native,2004,NA,NA,NA,0.308722664,101,33.29491,-115.38441,183,,21422,CBG,wild,,,,0.0284
+CBG-21102,both,y,1,floret,caryopsis,Aristida adscensionis,,ARIADS,ARAD,Poaceae,grass,native,2003,63.3,NA,NA,0.150966027,204,32.89794,-118.48631,183,,21102,CBG,wild,,,,0.1894
+GRIN-W6-35187,,,,,,Aristida adscensionis,,ARIADS,ARAD,Poaceae,grass,native,2007,79,NA,1.04,0.104,100,32.345,-110.71806,1513,,W6 35187,GRIN,wild,,,,0.2453
+CP-11,both,y,1,seed + papery covering,seed,Astragalus didymocarpus,,ASTDID,ASDI3,Fabaceae,forb,native,2020,NA,NA,NA,0.13,102,35.05878732,-119.6799643,NA,,,CP,wild,,,93 disperules,0.2077
+CBG-21062,both,y,1,seed + papery covering,seed,Astragalus didymocarpus var. dispermus,,ASTDIDD,ASDID,Fabaceae,forb,native,2003,20,NA,NA,0.57,600,33.78216,-116.93819,506,,21062,CBG,wild,,,,0.1294
+MCL-EE-7,,,,,,Astragalus gambelianus,,ASTGAM,ASGA,Fabaceae,forb,native,2019,NA,NA,NA,NA,NA,38.8726,-122.42719,NA,,,MCL-EE,wild,,,have another acc,0.5647
+MCL-ML-17,both,y,1,seed + papery covering,seed,Astragalus gambelianus,,ASTGAM,ASGA,Fabaceae,forb,native,2021,NA,NA,NA,0.28,NA,38.87244585,-122.4271412,662,S ridge watering Exp NS,,MCL-ML,wild,,,,0.5647
+MCL-EE-8,both,y,1,silicle,seed,Athysanus pusillus,,ATHPUS,ATPU,Brassicaceae,forb,native,2018,NA,NA,NA,0.0514,140,38.87149122,-122.4275575,657,location estimate,,MCL-EE,wild,,,check notes on bag for location estimate,0.5647
+MCL-ML-37,both,y,1,silicle,seed,Athysanus pusillus,,ATHPUS,ATPU,Brassicaceae,forb,native,2021,NA,NA,NA,0.008,25,38.87146422,-122.4276015,719,,,MCL-ML,wild,,,,0.5647
+CBG-20046,both,,1,achene,achene,Atrichoseris platyphylla,,ATRPLA,ATPL,Asteraceae,forb,native,1998,14,NA,NA,0.543977508,600,35.72784,-117.40285,510,,20046,CBG,wild,,,,0.0322
+CBG-23921,both,,1,utricle,utricle,Atriplex elegans var. fasciculata,,ATRELEF,ATELF,Chenopodiaceae,forb,native,2014,97.2,NA,NA,0.591860931,600,35.00113,-116.62708,546,,23921,CBG,wild,,,has really low viability ,0.0282
+SFREC-2,both,y,1,floret,caryopsis,Avena barbata,,AVEBAR,AVBA,Poaceae,grass,invasive,2021,NA,NA,NA,1.44,NA,39.24532189,-121.3139005,236,,,SFREC,wild,x,,,0.4725
+MCL-EE-60,,,1,floret,caryopsis,Avena fatua,,AVEFAT,AVFA,Poaceae,grass,invasive,2016,NA,NA,NA,NA,NA,38.87054,-122.42798,NA,,,MCL-EE,wild,,,,0.5647
+MCL-ML-4,,,1,floret,caryopsis,Avena fatua,,AVEFAT,AVFA,Poaceae,grass,invasive,2015,NA,NA,NA,NA,NA,38.86995996,-122.4281839,667,location approximate,,MCL-ML,wild,,,,0.5647
+SFREC-3,both,y,1,floret,caryopsis,Avena fatua,,AVEFAT,AVFA,Poaceae,grass,invasive,2021,NA,NA,NA,2.53,NA,39.25181407,-121.3129181,202,,,SFREC,wild,,,,0.4843
+GRIN-Ames-29879,,,,,,Baileya multiradiata,,BAIMUL,BAMU,Asteraceae,forb,native,2005,NA,NA,0.87956,0.07,100,33.93194,-111.81722,1106,,Ames 29879,GRIN,wild,,,THIS IS PERENNIAL,0.2123
+GRIN-Ames-31297,,,,,,Baileya multiradiata,,BAIMUL,BAMU,Asteraceae,forb,native,2011,84,68,0.87956,0.061,100,32.59387,-110.72922,NA,,Ames 31297,GRIN,wild,,,THIS IS PERENNIAL,0.2313
+GRIN-Ames-32431,,,,,,Baileya multiradiata,,BAIMUL,BAMU,Asteraceae,forb,native,2010,83,15,0.87956,0.07,100,36.98867,-113.92238,NA,,Ames 32431,GRIN,wild,,,THIS IS PERENNIAL,0.0693
+GRIN-W6-47602,,,,,,Baileya multiradiata,,BAIMUL,BAMU,Asteraceae,forb,native,2012,78,NA,0.87956,0.087956,100,32.45187,-109.39822,NA,,W6 47602,GRIN,wild,,,THIS IS PERENNIAL,0.1101
+GRIN-W6-36758,both,,1,anthocarp,anthocarp,Boerhavia erecta,,BOEERE,BOER,Nyctaginaceae,forb,native,2007,75,NA,1.94,0.388,200,34.23667,-112.03944,1133,,W6 36758,GRIN,wild,,,,0.1915
+CBG-23519,both,,1,anthocarp,anthocarp,Boerhavia triquetra var. intermedia,Boerhavia intermedia,BOETRII,BOIN,Nyctaginaceae,forb,native,2012,0,NA,NA,0.578996406,600,33.6087,-114.93563,109,,23519,CBG,wild,,,,0.028
+CBG-23528,both,y,1,floret,caryopsis,Bouteloua barbata,,BOUBAR,BOBA2,Poaceae,grass,native,2012,2,NA,NA,0.223081559,1859,33.60871,-114.95355,106,,23528,CBG,wild,,,,0.0277
+MCL-ML-28,both,,1,seed,seed,Brassica nigra,,BRANIG,BRNI,Brassicaceae,forb,invasive,2021,NA,NA,NA,1.52,NA,38.82412343,-122.3374759,387,,,MCL-ML,wild,,,,0.4461
+OUT-2,,,1,seed,seed,Brassica nigra,,BRANIG,BRNI,Brassicaceae,forb,invasive,2021,NA,NA,NA,NA,NA,NA,NA,NA,,,OUT,cultivated,x,,,NA
+DW-03,,,1,seed,seed,Brassica tournefortii,,BRATOU,BRTO,Brassicaceae,forb,invasive,2015,NA,NA,NA,NA,NA,NA,NA,NA,,,DW,wild,,,don't need,NA
+MD-2,both,,1,seed,seed,Brassica tournefortii,,BRATOU,BRTO,Brassicaceae,forb,invasive,2021,NA,NA,NA,1.64,NA,33.98481267,-116.653222,649,whitewater preserve,,MD,wild,,,,0.0923
+MD-3,,,1,floret,caryopsis,Bromus diandrus,,BRODIA,BRDI3,Poaceae,grass,invasive,2021,NA,NA,NA,NA,NA,33.99061279,-116.6578569,681,Whitewater preserve,,MD,wild,,,don't do this one,0.0923
+SAC-01,both,y,1,floret,caryopsis,Bromus diandrus,,BRODIA,BRDI3,Poaceae,grass,invasive,2021,NA,NA,NA,1.89,NA,38.56483847,-121.4745267,4,R&27,,SAC,wild,,,do this one,0.2554
+MCL-EE-61,,,1,floret,caryopsis,Bromus hordeaceus,,BROHOR,BRHO3,Poaceae,grass,invasive,NA,NA,NA,NA,NA,NA,38.87111,-122.42699,NA,,,MCL-EE,wild,,,,0.5647
+SFREC-4,both,y,1,floret,caryopsis,Bromus hordeaceus,,BROHOR,BRHO2,Poaceae,grass,invasive,2021,NA,NA,NA,0.41,NA,39.2473973,-121.3144869,216,location estimate,,SFREC,wild,,,,0.4725
+SS-5,,,1,floret,caryopsis,Bromus hordeaceus,,BROHOR,BRHO2,Poaceae,grass,invasive,2020,93,NA,NA,NA,NA,34.31451204,-118.9662452,250,Rancho de los flores; cultivation site,,SS,cultivated,x,,,0.2358
+MCL-EE-62,,,1,floret,caryopsis,Bromus madritensis,,BROMAD,BRMA4,Poaceae,grass,invasive,NA,NA,NA,NA,NA,NA,38.86556193,-122.402132,NA,kathy's house,,MCL-EE,wild,,,,0.5527
+SFREC-5,both,y,1,floret,caryopsis,Bromus madritensis,,BROMAD,BRMA3,Poaceae,grass,invasive,2021,NA,NA,NA,0.44,NA,39.24532189,-121.3139005,236,,,SFREC,wild,,,,0.4725
+MD-4,both,y,1,floret,caryopsis,Bromus rubens,,BRORUB,BRRU2,Poaceae,grass,invasive,2021,NA,NA,NA,0.407,NA,34.01680584,-116.6278051,748,Whitewater preserve & mission creek,,MD,wild,,,,0.0909
+MD-5,both,y,1,floret,caryopsis,Bromus tectorum,,BROTEC,BRTE,Poaceae,grass,invasive,2021,NA,NA,NA,0.63,NA,34.01680584,-116.6278051,748,Whitewater preserve & mission creek,,MD,wild,,,,0.0909
+MCL-EE-9,,,1,seed,seed,Calandrinia menziesii,Calandrinia ciliata,CALMEN,CACI2,Montiaceae,forb,native,2019,NA,NA,NA,NA,NA,38.86556193,-122.402132,NA,,,MCL-EE,wild,,,have another acc,0.5527
+MCL-ML-18,both,,1,seed,seed,Calandrinia menziesii,Calandrinia ciliata,CALMEN,CACI2,Montiaceae,forb,native,2021,NA,NA,NA,0.19,NA,38.85967354,-122.4114163,646,knoxville road,,MCL-ML,wild,,x,,0.5445
+SS-6,,,1,seed,seed,Calandrinia menziesii,Calandrinia ciliata,CALMEN,CACI2,Montiaceae,forb,native,2020,28,NA,NA,NA,NA,NA,NA,NA,"collected from various locations in Riverside, San Diego, and Orange Counties",,SS,wild,,x,,NA
+SFREC-18a,both,y,1,achene + pappus,achene,Calycadenia multiglandulosa,,CALMUL,CAMU3,Asteraceae,forb,native,2021,NA,NA,NA,0.2,NA,39.293063,-121.28962,429,,,SFREC,wild,,,"morph 2, disc",0.6072
+SFREC-18b,both,,1,achene,achene,Calycadenia multiglandulosa,,CALMUL,CAMU3,Asteraceae,forb,native,2021,NA,NA,NA,0.19,NA,39.293063,-121.28962,429,,,SFREC,wild,,,"morph 1, ray",0.6072
+MCL-EE-10,both,,1,achene,achene,Calycadenia pauciflora,,CALPAU,CAPA6,Asteraceae,forb,native,2016,NA,NA,NA,0.1863,NA,38.87149122,-122.4275575,657,location estimate,,MCL-EE,wild,,,check notes on bag for location estimate,0.5647
+CBG-19520,chem,,1,seed,seed,Calyptridium monandrum,Cistanthe monandra,CALMON,CIMO4,Montiaceae,forb,native,1996,91.5,NA,NA,0.149245812,1900,33.31805,-116.74555,1192,,19520,CBG,wild,,,,0.2701
+CBG-21042,morph,,1,seed,seed,Calyptridium monandrum,Cistanthe monandra,CALMON,CIMO4,Montiaceae,forb,native,2003,67.3,NA,NA,0.200023313,2500,34.43305,-117.58658,1250,,21042,CBG,wild,,,,0.1911
+CP-12,both,,1,seed,seed,Camissonia campestris,,CAMCAM,CACA33,Onagraceae,forb,native,2019,NA,NA,NA,0.0244,NA,35.06472873,-119.692718,NA,,,CP,wild,,,,0.2142
+CBG-21165,both,,1,seed,seed,Camissoniopsis ignota,Camissonia ignota,CAMIGN,CAIG2,Onagraceae,forb,native,2003,11.6,NA,NA,0.209065141,2300,33.78216,-116.93819,506,,21165,CBG,wild,,,,0.1294
+CBG-23460,morph,,1,seed,seed,Camissoniopsis pallida,Camissonia pallida,CAMPAL,CAPA36,Onagraceae,forb,native,2011,20.5,NA,NA,0.155,1550,33.96135,-116.6659,1390,,23460,CBG,wild,,,,0.1035
+SS-7,chem,,1,seed,seed,Camissoniopsis pallida,Camissonia pallida,CAMPAL,CAPA36,Onagraceae,forb,native,2019,82,NA,NA,NA,NA,34.31451204,-118.9662452,250,Rancho de los flores; cultivation site,,SS,cultivated,,,,0.2358
+CP-1,both,,1,seed,seed,Capsella bursa-pastoris,,CAPBUR,CABU2,Brassicaceae,forb,invasive,2019,NA,NA,NA,0.1996,NA,35.13267495,-119.7457026,NA,,,CP,wild,,,,0.1893
+SAC-07,both,,1,seed,seed,Capsella bursa-pastoris,,CAPBUR,CABU2,Brassicaceae,forb,invasive,2021,NA,NA,NA,0.1692,NA,38.58438631,-121.4644342,12,Sutter's landing,,SAC,wild,,,,0.2569
+SAC-02,,,1,achene,achene,Carduus pycnocephalus,,CARPYC,CAPY2,Asteraceae,forb,invasive,2021,NA,NA,NA,0.6551,NA,38.56230515,-121.4725722,6,T&29th sac,,SAC,wild,,,,0.2554
+SFREC-6,both,,1,achene,achene,Carduus pycnocephalus,,CARPYC,CAPY2,Asteraceae,forb,invasive,2021,NA,NA,NA,0.876,141,39.24532189,-121.3139005,236,,,SFREC,wild,,,,0.4725
+MCL-EE-11,both,,1,seed,seed,Castilleja attenuata,,CASATT,CAAT25,Orobanchaceae,forb,native,2019,NA,NA,NA,0.2452,NA,38.86983,-122.42793,671,,,MCL-EE,wild,,,,0.5647
+CBG-22368,both,,1,seed,seed,Castilleja exserta,,CASEXS,CAEX14,Orobanchaceae,forb,native,1997,100,NA,NA,0.19,1500,34.09941,-118.69897,216,,22368,CBG,wild,,,,0.2047
+CBG-22375,,,1,seed,seed,Castilleja exserta,,CASEXS,CAEX14,Orobanchaceae,forb,native,1997,95.7,NA,NA,0.21514454,2050,34.09941,-118.69897,216,,22375,CBG,wild,,,,0.2047
+SS-8,,,2,seed,seed,Castilleja exserta,,CASEXS,CAEX14,Orobanchaceae,forb,native,2020,50,NA,NA,0.2422,NA,NA,NA,NA,"collected from various locations in Riverside, San Diego, and Orange Counties",,SS,wild,,x,,NA
+CBG-23305,both,,1,seed,seed,Caulanthus anceps,,CAUANC,CAAN25,Brassicaceae,forb,native,2010,88,NA,NA,0.251004742,1650,35.20075,-119.85575,634,,23305,CBG,wild,,,,0.1893
+CBG-19136,both,,1,seed,seed,Caulanthus heterophyllus,,CAUHET,CAHE11,Brassicaceae,forb,native,1996,62,NA,NA,0.181457355,600,33.33055,-116.75333,1387,,19136,CBG,wild,,,,0.2955
+CBG-22341,both,,1,seed,seed,Caulanthus lasiophyllus,Guillenia lasiophylla,CAULAS,GULA4,Brassicaceae,forb,native,1996,84,NA,NA,0.120751264,1050,34.09444,-118.64868,386,,22341,CBG,wild,,,,0.2261
+CP-2,both,,1,seed,seed,Caulanthus lasiophyllus,Guillenia lasiophylla,CAULAS,GULA4,Brassicaceae,forb,native,NA,NA,NA,NA,0.3647,NA,35.102049,-119.731119,NA,,,CP,wild,,,,0.1976
+MCL-ML-38,both,y,1,achene + pappus,achene,Centaurea melitensis,,CENMEL,CEME2,Asteraceae,forb,invasive,2021,NA,NA,NA,1.06,NA,38.859917,-122.425658,671,,,MCL-ML,wild,,,,0.5603
+MCL-EE-63,,,,,,Centaurea solstitialis,,CENSOL,CESO4,Asteraceae,forb,invasive,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,MCL-EE,wild,,,,NA
+MCL-ML-39a,both,y,1,achene + pappus,achene,Centaurea solstitialis,,CENSOL,CESO3,Asteraceae,forb,invasive,2021,NA,NA,NA,NA,NA,38.87190074,-122.4265917,651,,,MCL-ML,wild,x,,disc morph,0.5647
+MCL-ML-39b,both,,1,achene,achene,Centaurea solstitialis,,CENSOL,CESO3,Asteraceae,forb,invasive,2021,NA,NA,NA,NA,NA,38.87190074,-122.4265917,651,,,MCL-ML,wild,x,,ray morph,0.5647
+MCL-ML-8,,,,,,Centaurea solstitialis,,CENSOL,CESO3,Asteraceae,forb,invasive,2016,NA,NA,NA,NA,NA,38.84860964,-122.357364,NA,location approximate,,MCL-ML,wild,,,in big bag above desk; dont bother cleaning this one,0.4644
+CBG-22342,morph,,1,achene,achene,Chaenactis artemisiifolia,,CHAART,CHAR,Asteraceae,forb,native,1996,NA,NA,NA,0.311994202,600,34.09444,-118.64868,386,,22342,CBG,wild,,,,0.2261
+SS-9,chem,,1,achene,achene,Chaenactis artemisiifolia,,CHAART,CHAR,Asteraceae,forb,native,2019,75,NA,NA,0.2,NA,NA,NA,NA,"collected from various locations in Riverside, San Diego, and Orange Counties",,SS,wild,,,,NA
+CBG-24825,both,,1,achene,achene,Chaenactis carphoclinia,,CHACAR,CHCA,Asteraceae,forb,native,2017,20.8,NA,NA,0.191986605,600,33.5114,-116.2221,252,,24825,CBG,wild,,,,0.0486
+DW-04,both,y,1,achene + pappus,achene,Chaenactis fremontii,,CHAFRE,CHFR,Asteraceae,forb,native,2015,NA,NA,NA,0.164,NA,33.281305,-116.348812,181,,,DW,wild,,,,0.0578
+GRIN-W6-43492,both,,1,achene,achene,Chaenactis fremontii,,CHAFRE,CHFR,Asteraceae,forb,native,2011,81,NA,NA,0.0653,100,36.42772,-113.96945,773,,W6 43492,GRIN,wild,,,,0.0693
+CP-3,morph,,1,achene + pappus,achene + pappus,Chaenactis glabriuscula,,CHAGLA,CHGL,Asteraceae,forb,native,NA,NA,NA,NA,0.1663,NA,35.08131172,-119.6595978,NA,,,CP,wild,,,,0.1874
+MCL-EE-12,,,1,achene + pappus,achene + pappus,Chaenactis glabriuscula,,CHAGLA,CHGL,Asteraceae,forb,native,2019,NA,NA,NA,NA,NA,38.87225587,-122.4273387,NA,,,MCL-EE,wild,,,have another acc,0.5647
+SS-10,chem,,1,achene + pappus,achene + pappus,Chaenactis glabriuscula,,CHAGLA,CHGL,Asteraceae,forb,native,2020,66,NA,NA,0.241,NA,NA,NA,NA,"collected from various locations in Riverside, San Diego, and Orange Counties",,SS,wild,,,,NA
+GRIN-W6-30072,,,,,,Chaenactis stevioides,,CHASTE,CHST,Asteraceae,forb,native,2004,44,NA,0.564,0.0564,100,34.105,-114.20167,202,,W6 30072,GRIN,wild,,,,0.0431
+SD-1,both,y,1,achene + pappus,achene,Chaenactis stevioides,,CHASTE,CHST,Asteraceae,forb,native,2015,NA,NA,NA,0.16,NA,32.22343277,-111.0102093,725,collection location estimate (tumamoc hill),,SD,wild,,,,0.1157
+GRIN-PI-666270,both,,1,utricle,utricle,Chenopodium album,,CHEALB,CHAL7,Chenopodiaceae,forb,native,2005,75,23,0.6,0.2,400,34.74944444,-112.0125,1009,,PI 666270,GRIN,wild,,,,0.1496
+GRIN-Ames-33026,both,,1,utricle,utricle,Chenopodium arizonicum,,CHEARI,CHNEN,Chenopodiaceae,forb,native,2014,100,0,NA,0.06,200,31.9141,-109.1309,1470,,Ames 33026,GRIN,wild,,,,0.1597
+GRIN-Ames-33027,chem,,1,utricle,utricle,Chenopodium arizonicum,,CHEARI,CHNEN,Chenopodiaceae,forb,native,2014,94,0,NA,0.06,200,31.911,-109.1542,1481,,Ames 33027,GRIN,wild,,,,0.1758
+GRIN-PI-666275,,,,,,Chenopodium berlandieri,,CHEBER,CHBE4,Chenopodiaceae,forb,native,2005,97,92,1.068,0.14,200,34.74944444,-112.0125,1009,,PI 666275,GRIN,wild,,,,0.1496
+GRIN-PI-666296,both,,1,utricle,utricle,Chenopodium berlandieri,,CHEBER,CHBE4,Chenopodiaceae,forb,native,2008,99,13,1.068,0.2,200,34.28444444,-109.8444444,1985,,PI 666296,GRIN,wild,,,,0.2208
+GRIN-Ames-33009,both,,1,utricle,utricle,Chenopodium berlandieri var. sinuatum,,CHEBERS,CHBES,Chenopodiaceae,forb,native,2014,95,85,NA,0.14,200,34.2605,-112.7292,1365,,Ames 33009,GRIN,wild,,,,0.195
+GRIN-PI-666274,,,,,,Chenopodium berlandieri var. sinuatum,,CHEBERS,CHBES,Chenopodiaceae,forb,native,2006,94,94,NA,0.16,200,34.77333333,-112.6077778,1411,,PI 666274,GRIN,wild,,,,0.1848
+GRIN-PI-666287,,,,,,Chenopodium berlandieri var. sinuatum,,CHEBERS,CHBES,Chenopodiaceae,forb,native,2008,98,1,NA,0.22,200,34.95472222,-111.4358333,2206,,PI 666287,GRIN,wild,,,NOT in an aridland,0.3196
+GRIN-PI-666293,both,,1,utricle,utricle,Chenopodium berlandieri var. zschackei,,CHEBERZ,CHBEZ,Chenopodiaceae,forb,native,2008,100,34,NA,0.26,199,34.28444444,-109.8444444,1985,,PI 666293,GRIN,wild,,,NOT in an aridland,0.2208
+GRIN-PI-666312,both,,1,utricle,utricle,Chenopodium hians,,CHEHIA,CHHI,Chenopodiaceae,forb,native,2008,98,12,NA,0.16,400,34.63694444,-111.8169444,991,,PI 666312,GRIN,wild,,,,0.154
+GRIN-PI-666314,both,,1,utricle,utricle,Chenopodium incanum var. elatum,,CHEINCE,CHINE,Chenopodiaceae,forb,native,2008,98,95,NA,0.2,400,34.49472222,-111.715,1284,,PI 666314,GRIN,wild,,,,0.2106
+GRIN-PI-691474,both,,1,utricle,utricle,Chenopodium incanum var. occidentale,,CHEINCO,CHINO,Chenopodiaceae,forb,native,2008,92,NA,NA,0.2,400,35.45416667,-113.6058333,1284,,PI 691474,GRIN,wild,,,,0.1124
+DW-05,both,,1,utricle,utricle,Chenopodium murale,,CHEMUR,CHMU2,Chenopodiaceae,forb,invasive,2015,NA,NA,NA,0.1585,NA,33.260428,-116.348116,165,,,DW,wild,,,,0.0572
+GRIN-Ames-33011,,,,,,Chenopodium neomexicanum,,CHENEO,CHNE3,Chenopodiaceae,forb,native,2014,98,0,NA,0.1,200,31.9123,-109.2491,2006,,Ames 33011,GRIN,wild,,,,0.2602
+GRIN-PI-666319,both,,1,utricle,utricle,Chenopodium neomexicanum,,CHENEO,CHNE3,Chenopodiaceae,forb,native,2008,99,65,NA,0.14,200,34.50083333,-111.4633333,2110,,PI 666319,GRIN,wild,,,NOT in an aridland,0.3607
+GRIN-Ames-28061,chem,,1,utricle,utricle,Chenopodium watsonii,,CHEWAT,CHWA,Chenopodiaceae,forb,native,2005,99,98,NA,0.08,200,34.77388889,-112.6108333,1412,,Ames 28061,GRIN,wild,,,,0.1836
+GRIN-Ames-28064,,,,,,Chenopodium watsonii,,CHEWAT,CHWA,Chenopodiaceae,forb,native,2005,75,75,NA,0.1,200,35.20305556,-112.475,1567,,Ames 28064,GRIN,wild,,,,0.15555
+GRIN-PI-666330,both,,1,utricle,utricle,Chenopodium watsonii,,CHEWAT,CHWA,Chenopodiaceae,forb,native,2008,95,93,NA,0.09,200,34.51472222,-112.0069444,1355,,PI 666330,GRIN,wild,,,,0.2097
+GRIN-W6-30782,,,,,,Chorizanthe brevicornu,,CHOBRE,CHBR,Polygonaceae,forb,native,2005,43,NA,2.7604,0.27604,100,34.01306,-112.64722,885,,W6 30782,GRIN,wild,,,,0.1427
+SD-2,both,y,1,achene,seed,Chorizanthe brevicornu,,CHOBRE,CHBR,Polygonaceae,forb,native,2015,NA,NA,NA,0.1411,NA,32.22343277,-111.0102093,725,collection location estimate (tumamoc hill),,SD,wild,,,,0.1157
+CBG-19949,both,,1,achene,seed,Chorizanthe brevicornu var. brevicornu,,CHOBREB,CHBRB,Polygonaceae,forb,native,1998,13.6,NA,NA,0.365179952,166,33.65655,-115.80227,457,,19949,CBG,wild,,,,0.0374
+CBG-19183,chem,,1,,seed,Chorizanthe fimbriata,,CHOFIM,CHFI2,Polygonaceae,forb,native,1996,NA,NA,NA,0.037784247,59,33.31805,-116.74555,1265,,19183,CBG,wild,,,,0.2701
+CBG-21158,both,,1,achene,,Chorizanthe fimbriata,,CHOFIM,CHFI2,Polygonaceae,forb,native,2003,88,NA,NA,0.221565217,182,33.63663,-117.04461,564,,21158,CBG,wild,,,,0.1606
+CBG-24537,chem,,1,,seed,Chorizanthe staticoides,,CHOSTA,CHST4,Polygonaceae,forb,native,2016,88,NA,NA,0.1988,413.8,34.09983,-118.8159,568,,24537,CBG,wild,,,,0.2398
+SS-11,morph,,1,achene,,Chorizanthe staticoides,,CHOSTA,CHST4,Polygonaceae,forb,native,2019,58,NA,NA,NA,NA,34.31451204,-118.9662452,250,Rancho de los flores; cultivation site,,SS,cultivated,,,,0.2358
+CBG-23447,both,,1,seed,seed,Chylismia brevipes,Camissonia brevipes,CHYBRE,CABR23,Onagraceae,forb,native,2011,2,NA,NA,0.324302453,600,34.27282,-116.48488,1112,,23447,CBG,wild,,,,0.1226
+CBG-19961,,,,,,Chylismia cardiophylla,Camissonia cardiophylla,CHYCAR,CACA34,Onagraceae,forb,native,1998,96,NA,NA,0.149981349,2500,33.60372,-115.92266,240,,19961,CBG,wild,,,,0.0325
+CBG-23231,both,,1,seed,seed,Chylismia cardiophylla,Camissonia cardiophylla,CHYCAR,CACA34,Onagraceae,forb,native,2010,89.1,NA,NA,0.171500083,4900,36.11072,-117.18143,701,,23231,CBG,wild,,,,0.0405
+DW-06,both,,1,seed,seed,Chylismia claviformis,Camissonia claviformis,CHYCLA,CACL4,Onagraceae,forb,native,2015,NA,NA,NA,0.1599,NA,33.239927,-116.390627,212,,,DW,wild,,,,0.0652
+CBG-19901,both,,1,seed,seed,Chylismia claviformis ssp. claviformis,Camissonia claviformis ssp. claviformis,CHYCLAC,CACLC3,Onagraceae,forb,native,1998,11,NA,NA,0.224249111,1950,36.14974,-117.29304,362,,19901,CBG,wild,,,,0.0273
+CBG-19900,both,,1,seed,seed,Chylismia claviformis ssp. funerea,Camissonia claviformis ssp. funerea,CHYCLAF,CACLF,Onagraceae,forb,native,1998,NA,NA,NA,0.192501625,2750,35.65866,-116.28395,136,,19900,CBG,wild,,,,0.0195
+CBG-21170,both,,1,seed,seed,Clarkia dudleyana,,CLADUD,CLDU,Onagraceae,forb,native,2003,96,NA,NA,0.145778137,600,34.16358,-117.68269,714,,21170,CBG,wild,,,,0.1812
+CBG-21078,both,,1,seed,seed,Clarkia epilobioides,,CLAEPI,CLEP,Onagraceae,forb,native,2003,20,NA,NA,0.040050633,1000,33.63663,-117.04461,564,,21078,CBG,wild,,,,0.1606
+MCL-EE-13,both,,1,seed,seed,Clarkia gracilis,,CLAGRA,CLGR,Onagraceae,forb,native,2018,NA,NA,NA,0.1243,NA,38.87149122,-122.4275575,657,location estimate,,MCL-EE,wild,,,,0.5647
+CBG-24443,,,,,,Clarkia purpurea,,CLAPUR,CLPU2,Onagraceae,forb,native,2016,98,NA,NA,0.10788,534,34.21967,-117.70438,1454,,24443,CBG,wild,,,,0.3216
+MCL-EE-14,,,,,,Clarkia purpurea,,CLAPUR,CLPU2,Onagraceae,forb,native,NA,NA,NA,NA,NA,NA,38.86001,-122.4082,NA,,,MCL-EE,wild,,,,0.5527
+MCL-ML-14,both,,1,seed,seed,Clarkia purpurea,,CLAPUR,CLPU2,Onagraceae,forb,native,2017,NA,NA,NA,0.21,NA,38.87001302,-122.4283065,665,location estimate,,MCL-ML,wild,,x,,0.5647
+SS-12,,,,,,Clarkia purpurea,,CLAPUR,CLPU2,Onagraceae,forb,native,2017,90,NA,NA,NA,NA,34.31451204,-118.9662452,250,Rancho de los flores; cultivation site,,SS,cultivated,x,x,,0.2358
+CBG-21169,both,,1,seed,seed,Clarkia unguiculata,,CLAUNG,CLUN,Onagraceae,forb,native,2003,NA,NA,NA,0.167999549,600,34.16358,-117.68269,714,,21169,CBG,wild,,,,0.1812
+SS-13,,,,,,Clarkia unguiculata,,CLAUNG,CLUN,Onagraceae,forb,native,2020,97,NA,NA,NA,NA,34.31451204,-118.9662452,250,Rancho de los flores; cultivation site,,SS,cultivated,,,,0.2358
+CBG-21666,both,,1,seed,seed,Claytonia parviflora ssp. parviflora,,CLAPARP,CLPAP,Montiaceae,forb,native,2005,0,NA,NA,0.24,600,34.41231,-117.77355,1588,,21666,CBG,wild,,,,0.3429
+CBG-21667,both,,1,seed,seed,Claytonia parviflora ssp. viridis,,CLAPARV,CLPAV,Montiaceae,forb,native,2005,0,NA,NA,0.249974066,600,34.41231,-117.77355,1588,,21667,CBG,wild,,,,0.3429
+CBG-21086,both,,1,seed,seed,Claytonia perfoliata,,CLAPER,CLPE,Montiaceae,forb,native,2003,NA,NA,NA,0.2066103,600,34.32333,-117.27166,960,,21086,CBG,wild,,,,0.1272
+SS-14,,,,,,Claytonia perfoliata,,CLAPER,CLPE,Montiaceae,forb,native,2019,48,NA,NA,0.24,NA,NA,NA,NA,"collected from various locations in Riverside, San Diego, and Orange Counties",,SS,wild,,x,,NA
+CBG-21075,both,,1,seed,seed,Collinsia concolor,,COLCON,COCO,Plantaginaceae,forb,native,2003,4,NA,NA,0.2758,550.2,33.63663,-117.04461,564,,21075,CBG,wild,,,,0.1606
+CBG-20790,morph,,1,seed,seed,Collinsia heterophylla,,COLHET,COHE,Plantaginaceae,forb,native,2001,10,NA,NA,0.337608696,600,33.78286,-117.37926,703,,20790,CBG,wild,,,,0.1985
+SS-15,chem,,1,seed,seed,Collinsia heterophylla,,COLHET,COHE,Plantaginaceae,forb,native,2020,98,NA,NA,NA,NA,34.31451204,-118.9662452,250,Rancho de los flores; cultivation site,,SS,cultivated,,,,0.2358
+CBG-20050,,,,,,Collinsia parviflora,,COLPAR,COPA3,Plantaginaceae,forb,native,1998,24,NA,NA,0.015292683,66,34.3273,-117.27275,1067,,20050,CBG,wild,,,,0.1192
+CBG-21674,both,,1,seed,seed,Collinsia parviflora,,COLPAR,COPA3,Plantaginaceae,forb,native,2005,4.1,NA,NA,0.117545723,136,34.41231,-117.77356,1590,,21674,CBG,wild,,,,0.3429
+MCL-EE-15,,,,,,Collinsia sparsiflora,,COLSPA,COSP,Plantaginaceae,forb,native,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,MCL-EE,wild,,,,NA
+MCL-ML-35,both,,1,seed,seed,Collinsia sparsiflora,,COLSPA,COSP,Plantaginaceae,forb,native,2021,NA,NA,NA,0.12,117,38.87130959,-122.4275048,661,,,MCL-ML,wild,,,,0.5647
+GRIN-W6-30101,both,,1,seed,seed,Convolvulus equitans,,CONEQU,COEQ,Convolvulaceae,forb,native,2004,99,NA,12.71,1.0168,80,33.96722,-111.8175,1241,,W6 30101,GRIN,wild,,,,0.2252
+CBG-25587,both,,1,seed,seed,Cordylanthus nevinii,,CORNEV,CONE,Orobanchaceae,forb,native,2019,3.3,NA,NA,0.171705526,281,34.36752,-117.80118,2411,,25587,CBG,wild,,,,0.4025
+CBG-25618,both,,1,seed,seed,Cordylanthus rigidus ssp. setiger,Cordylanthus filifolius,CORRIGS,CORIR,Orobanchaceae,forb,native,2020,55,NA,NA,0.285898858,600,34.10015,-116.91265,2155,,25618,CBG,wild,,,,0.4332
+CBG-21073,,,,,,Crassula connata,,CRACON,CRCO34,Crassulaceae,forb,native,2003,NA,NA,NA,0.0105,2100,33.63663,-117.04461,564,,21073,CBG,wild,,,,0.1606
+MCL-EE-16,,,,,,Crassula connata,,CRACON,CRCO34,Crassulaceae,forb,native,NA,NA,NA,NA,NA,NA,38.87103,-122.42759,NA,,,MCL-EE,wild,,,,0.5647
+MCL-ML-19,,,,,,Crassula connata,,CRACON,CRCO34,Crassulaceae,forb,native,2021,NA,NA,NA,NA,NA,38.87244585,-122.4271412,NA,S ridge watering Exp NS,,MCL-ML,wild,,,,0.5647
+SFREC-14,,,,,,Crassula connata,,CRACON,CRCO34,Crassulaceae,forb,native,2021,NA,NA,NA,NA,NA,39.25693242,-121.3115828,NA,,,SFREC,wild,,,,0.4843
+CBG-25341,both,,1,nutlet,nutlet,Cryptantha angustifolia,,CRYANG,CRAN4,Boraginaceae,forb,native,2019,NA,NA,NA,0.170403482,600,33.75473,-116.18117,81,,25341,CBG,wild,,,,0.0306
+DW-07,,,,,,Cryptantha angustifolia,,CRYANG,CRAN4,Boraginaceae,forb,native,2015,NA,NA,NA,NA,NA,33.260428,-116.348116,NA,use envelope 2,,DW,wild,,,dont need,0.0572
+DW-08,both,,1,nutlet,nutlet,Cryptantha barbigera,,CRYBAR,CRBA5,Boraginaceae,forb,native,2015,NA,NA,NA,0.0614,114,33.239051,-116.393231,218,,,DW,wild,,,,0.0692
+CBG-23536,both,,1,nutlet,nutlet,Cryptantha costata,,CRYCOS,CRCO15,Boraginaceae,forb,native,2012,5.1,NA,NA,0.261,1450,33.78259,-115.26145,141,,23536,CBG,wild,,,,0.0258
+MCL-EE-17,,,1,nutlet,nutlet,Cryptantha hispidula,,CRYHIS,CRHI,Boraginaceae,forb,native,2019,NA,NA,NA,NA,NA,38.87274024,-122.4271505,667,,,MCL-EE,wild,,,elise doesnt have enough; cabinet,0.5647
+CBG-21063,both,,1,nutlet,nutlet,Cryptantha intermedia,,CRYINT,CRIN8,Boraginaceae,forb,native,2003,97.8,NA,NA,0.1689,559.3,33.78222,-116.93833,506,,21063,CBG,wild,,,,0.1294
+CBG-19947,both,,1,nutlet,nutlet,Cryptantha micrantha,,CRYMIC,CRMI,Boraginaceae,forb,native,1998,91.4,NA,NA,0.048,600,33.65655,-115.80227,457,,19947,CBG,wild,,,not enough of this species for phosphorus,0.0374
+CBG-21656,,,1,nutlet,nutlet,Cryptantha micrantha,,CRYMIC,CRMI,Boraginaceae,forb,native,2005,0,NA,NA,0.00025,27,34.46286,-117.8198,1158,,21656,CBG,wild,,,not enough of this species for phosphorus,0.164
+CBG-19168,both,,1,nutlet,nutlet,Cryptantha muricata,,CRYMUR,CRMU2,Boraginaceae,forb,native,1996,NA,NA,NA,0.168,600,33.31805,-116.74555,1265,,19168,CBG,wild,,,,0.2701
+CBG-24470,both,,1,nutlet,nutlet,Cryptantha nevadensis var. rigida,,CRYNEVR,CRNER,Boraginaceae,forb,native,2016,82,NA,NA,0.2237,456.5,35.80835,-115.9604,1096,,24470,CBG,wild,,,,0.0632
+CBG-21041,both,,1,nutlet,nutlet,Cryptantha pterocarya,,CRYPTE,CRPT,Boraginaceae,forb,native,2003,88,NA,NA,0.1498,416.1,34.43333,-117.58666,1250,,21041,CBG,wild,,,,0.1846
+CBG-25902,both,,1,seed,seed,Cucurbita palmata,Cucurbita californica,CUCPAL,CUPA,Cucurbitaceae,forb,native,2020,0,NA,NA,25.06855127,347,33.64655,-115.84338,420,,25902,CBG,wild,,,,0.0363
+SFREC-15,both,y,1,floret,caryopsis,Cynosurus echinatus,,CYNECH,CYEC,Poaceae,grass,invasive,2021,NA,NA,NA,0.32,NA,39.25693242,-121.3115828,287,,,SFREC,wild,,,,0.4843
+GRIN-Ames-30658,,,,,,Daucus pusillus,,DAUPUS,DAPU3,Apiaceae,forb,native,2010,42,10,0.26,0.16,200,34.57833333,-113.3820833,753,,Ames 30658,GRIN,wild,,,,0.1062
+GRIN-Ames-30662,,,,,,Daucus pusillus,,DAUPUS,DAPU3,Apiaceae,forb,native,2010,70,64,0.8,0.3,200,32.06725,-110.65625,1075,,Ames 30662,GRIN,wild,,,,0.1531
+GRIN-Ames-30663,both,,1,mericarp,seed,Daucus pusillus,,DAUPUS,DAPU3,Apiaceae,forb,native,2010,74,47,0.8,0.48,200,32.33343333,-112.7886833,500,,Ames 30663,GRIN,wild,,,,0.0777
+CBG-19502,,,,,,Deinandra fasciculata,Hemizonia fasciculata,DEIFAS,HEFA,Asteraceae,forb,native,1996,NA,NA,NA,0.01849635,42,33.65378,-117.88856,20,,19502,CBG,wild,,,,0.1822
+CBG-22338,,,,,,Deinandra fasciculata,Hemizonia fasciculata,DEIFAS,HEFA,Asteraceae,forb,native,1996,59.2,NA,NA,0.228610036,254,34.12367,-118.3883,342,,22338,CBG,wild,,,,0.2168
+CBG-24538,both,,1,achene,achene,Deinandra fasciculata,Hemizonia fasciculata,DEIFAS,HEFA,Asteraceae,forb,native,2016,84.6,NA,NA,0.119086066,196,34.10444,-118.73132,323,,24538,CBG,wild,,,,0.2083
+SS-16,,,,,,Deinandra fasciculata,Hemizonia fasciculata,DEIFAS,HEFA,Asteraceae,forb,native,2018,82,NA,NA,0.3208,NA,NA,NA,NA,"collected from various locations in Riverside, San Diego, and Orange Counties",,SS,wild,,,,NA
+CBG-21098,both,,1,floret,floret,Deschampsia danthonioides,,DESDAN,DEDA,Poaceae,grass,native,2003,NA,NA,NA,0.169602642,1000,32.89794,-118.48631,480,,21098,CBG,wild,,,,0.1894
+CP-13,both,,1,seed,seed,Descurainia pinnata,,DESPIN,DEPI,Brassicaceae,forb,native,2020,NA,NA,NA,0.0959,NA,35.058155,-119.678276,NA,,,CP,wild,,,,0.2136
+CBG-24818,both,,1,seed,seed,Diplacus bigelovii,Mimulus bigelovii,DIPBIG,MIBI6,Phrymaceae,forb,native,2017,0,NA,NA,0.16129114,10700,33.5114,-116.2221,252,,24818,CBG,wild,,,,0.0486
+CBG-24475,,,,,,Draba cuneifolia,,DRACUN,DRCU,Brassicaceae,forb,native,2016,89.1,NA,NA,0.0775,1550,35.44455,-115.5445,1678,,24475,CBG,wild,,,,0.1094
+SD-3,both,,1,seed,seed,Draba cuneifolia,,DRACUN,DRCU,Brassicaceae,forb,native,2012,NA,NA,NA,0.16,NA,32.22343277,-111.0102093,725,collection location estimate (tumamoc hill),,SD,wild,,,,0.1157
+SD-4,,,,,,Draba cuneifolia,,DRACUN,DRCU,Brassicaceae,forb,native,2015,NA,NA,NA,NA,NA,32.22343277,-111.0102093,725,collection location estimate (tumamoc hill),,SD,wild,,,dont clean,0.1157
+GRIN-PI-612852,both,,1,seed,seed,Dysphania ambrosioides,,DYSAMB,DYAM,Chenopodiaceae,forb,invasive,1994,NA,NA,0.232,0.08,400,NA,NA,NA,,PI 612852,GRIN,cultivated,,,,NA
+GRIN-PI-612853,chem,,1,seed,seed,Dysphania ambrosioides,,DYSAMB,DYAM,Chenopodiaceae,forb,invasive,1994,NA,NA,0.232,0.08,400,NA,NA,NA,,PI 612853,GRIN,cultivated,,,,NA
+MCL-EE-19,,,,,,Elymus caput-medusae,Taeniatherum caput-medusae,ELYCAP,TACA8,Poaceae,grass,invasive,2016,NA,NA,NA,NA,NA,38.86075,-122.41166,NA,,,MCL-EE,wild,,,have another acc,0.5445
+SFREC-19,both,y,1,floret,caryopsis,Elymus caput-medusae,Taeniatherum caput-medusae,ELYCAP,TACA8,Poaceae,grass,invasive,2021,NA,NA,NA,0.41,NA,39.25693242,-121.3115828,287,,,SFREC,wild,x,,,0.4843
+CBG-24539,both,,1,seed,seed,Emmenanthe penduliflora,,EMMPEN,EMPE,Boraginaceae,forb,native,2016,98,NA,NA,0.287651248,600,34.1038,-118.7315,329,,24539,CBG,wild,,,,0.2083
+CBG-23928,both,,1,seed,seed,Emmenanthe penduliflora var. penduliflora,,EMMPENP,EMPEP,Boraginaceae,forb,native,2014,100,NA,NA,0.317994394,600,34.1905,-116.47905,1161,,23928,CBG,wild,,,,0.1192
+CBG-21768,both,,1,seed,seed,Epilobium brachycarpum,,EPIBRA,EPBR3,Onagraceae,forb,native,2005,97.9,NA,NA,0.1149,600,34.11246,-117.7147,413,,21768,CBG,wild,,,,0.2012
+MCL-EE-20,,,,,,Epilobium brachycarpum,,EPIBRA,EPBR3,Onagraceae,forb,native,2019,NA,NA,NA,NA,NA,38.87243,-122.42742,660,,,MCL-EE,wild,,,only need 200,0.5647
+CBG-20045,,,,,,Eremothera boothii,Camissonia boothii,EREBOO,CABO7,Onagraceae,forb,native,1998,NA,NA,NA,0.123499483,950,36.17271,-117.302,410,,20045,CBG,wild,,,,0.0291
+CBG-23457,both,,1,seed,seed,Eremothera boothii,Camissonia boothii,EREBOO,CABO7,Onagraceae,forb,native,2011,20.8,NA,NA,0.216,1200,34.27334,-116.46411,1128,,23457,CBG,wild,,,,0.1019
+SD-5,both,,1,seed,seed,Eriastrum diffusum,,ERIDIF,ERDI2,Polemoniaceae,forb,native,2015,NA,NA,NA,0.2783,NA,32.22343277,-111.0102093,725,collection location estimate (tumamoc hill),,SD,wild,,,,0.1157
+DW-09,both,,1,seed,seed,Eriastrum eremicum,,ERIERE,ERER2,Polemoniaceae,forb,native,2015,NA,NA,NA,0.0457,NA,33.23936,-116.391941,215,,,DW,wild,,,,0.0692
+CBG-20564,,,,,,Eriastrum sapphirinum,,ERISAP,ERSA,Polemoniaceae,forb,native,2000,94,NA,NA,0.097831526,600,33.75783,-117.03427,481,,20564,CBG,wild,,,,0.1382
+CBG-21164,both,,1,seed,seed,Eriastrum sapphirinum,,ERISAP,ERSA,Polemoniaceae,forb,native,2003,100,NA,NA,0.218978238,1200,34.10741,-117.7013,427,,21164,CBG,wild,,,,0.2018
+CP-14,both,,1,achene,achene,Eriogonum gracillimum,,ERIGRA,ERGR6,Polygonaceae,forb,native,2020,NA,NA,NA,0.0453,NA,35.08413456,-119.6747668,NA,,,CP,wild,,,,0.1853
+CBG-21262,both,,1,achene,achene,Eriogonum parishii,,ERIPAR,ERPA6,Polygonaceae,forb,native,2003,12,NA,NA,0.287496958,1250,34.17583,-116.87805,1890,,21262,CBG,wild,,,,0.399
+GRIN-W6-40753,both,,1,achene,achene,Eriogonum pharnaceoides,,ERIPHA,ERPH2,Polygonaceae,forb,native,2010,92,NA,NA,0.18,200,35.10580556,-111.538,2202,,W6 40753,GRIN,wild,,,NOT collected in an aridland; collected before 2010,0.3044
+SD-6,both,,1,achene + pappus,achene + pappus,Eriophyllum lanosum,Antheropeas lanosum,ERILAN,ANLA7,Asteraceae,forb,native,2015,NA,NA,NA,0.17,NA,32.22343277,-111.0102093,725,collection location estimate (tumamoc hill),,SD,wild,,,,0.1157
+CBG-20686,chem,,1,achene + pappus,achene + pappus,Eriophyllum wallacei,riophyllum aureum,ERIWAL,ANWA,Asteraceae,forb,native,2001,22,NA,NA,0.032235811,600,34.25205,-115.72051,699,,20686,CBG,wild,,,not enough of this species for phosphorus,0.0431
+CBG-21654,both,,1,achene + pappus,achene + pappus,Eriophyllum wallacei,riophyllum aureum,ERIWAL,ANWA,Asteraceae,forb,native,2005,40.8,NA,NA,0.029048013,121,34.46286,-117.8198,1158,,21654,CBG,wild,,,not enough of this species for phosphorus,0.164
+CBG-21669,chem,,1,achene + pappus,achene + pappus,Eriophyllum wallacei,riophyllum aureum,ERIWAL,ANWA,Asteraceae,forb,native,2005,8,NA,NA,0.0277,277,34.27913,-117.4759,885,,21669,CBG,wild,,,not enough of this species for phosphorus,0.1546
+SFREC-7,both,y,1,mericarp,seed,Erodium botrys,,EROBOT,ERBO,Geraniaceae,forb,invasive,2021,NA,NA,NA,0.63,NA,39.26820705,-121.3030999,417,,,SFREC,wild,x,,,0.5455
+DW-10,,,,,,Erodium cicutarium,,EROCIC,ERCI6,Geraniaceae,forb,invasive,2015,NA,NA,NA,NA,NA,33.239051,-116.393231,NA,,,DW,wild,,,don't need,0.0692
+MD-6,both,y,1,mericarp,seed,Erodium cicutarium,,EROCIC,ERCI6,Geraniaceae,forb,invasive,2021,NA,NA,NA,0.3,NA,34.01680584,-116.6278051,748,Mission creek,,MD,wild,,,,0.0909
+CBG-20688,,,,,,Erodium texanum,,EROTEX,ERTE13,Geraniaceae,forb,native,2001,NA,NA,NA,0.033206897,15,34.24113,-115.7197,NA,,20688,CBG,wild,,,,0.0463
+CBG-21626,,,,,,Erodium texanum,,EROTEX,ERTE13,Geraniaceae,forb,native,2005,16,NA,NA,0.143255814,22,33.79972,-114.5278,213,,21626,CBG,wild,,,,0.0342
+SD-7,both,y,1,mericarp,seed,Erodium texanum,,EROTEX,ERTE13,Geraniaceae,forb,native,2015,NA,NA,NA,0.36,NA,32.22343277,-111.0102093,725,collection location estimate (tumamoc hill),,SD,wild,,,,0.1157
+GRIN-PI-633236,both,,1,seed,seed,Erysimum repandum,,ERYREP,ERRE4,Brassicaceae,forb,invasive,1998,95,NA,0.26,0.1007,600,NA,NA,NA,No info,PI 633236,GRIN,wild,,,collected before 1998,NA
+CBG-21149,,,,,,Erythranthe guttata,Mimulus guttatus,ERYGUT,MIGU,Phrymaceae,forb,native,2003,88.4,NA,NA,0.003,600,36.32835,-120.57621,1437,,21149,CBG,wild,,,,0.5612
+CBG-22252,,,,,,Erythranthe guttata,Mimulus guttatus,ERYGUT,MIGU,Phrymaceae,forb,native,2007,90.5,NA,NA,0.00302563,600,34.93928,-120.18556,503,,22252,CBG,wild,,,,0.2979
+CBG-22361,,,,,,Erythranthe guttata,Mimulus guttatus,ERYGUT,MIGU,Phrymaceae,forb,native,1996,64,NA,NA,0.012,600,34.08472,-118.89028,375,,22361,CBG,wild,,,,0.2322
+CBG-22391,,,,,,Erythranthe guttata,Mimulus guttatus,ERYGUT,MIGU,Phrymaceae,forb,native,1998,93.8,NA,NA,0.017999693,600,34.12757,-118.86163,449,,22391,CBG,wild,,,,0.224
+CBG-22465,,,,,,Erythranthe guttata,Mimulus guttatus,ERYGUT,MIGU,Phrymaceae,forb,native,2001,58,NA,NA,0.012,600,34.09217,-118.65705,439,,22465,CBG,wild,,,,0.216
+MCL-EE-64,,,,,,Erythranthe guttata,Mimulus guttatus,ERYGUT,MIGU,Phrymaceae,forb,native,NA,NA,NA,NA,NA,NA,38.8696,-122.42782,NA,,,MCL-EE,wild,,,,0.5647
+MCL-ML-27,both,,1,seed,seed,Erythranthe guttata,Mimulus guttatus,ERYGUT,MIGU,Phrymaceae,forb,native,2015,NA,NA,NA,0.2238,NA,38.85872146,-122.4099015,636,location approximate,,MCL-ML,wild,,x,,0.5445
+SS-35,,,,,,Erythranthe guttata,Mimulus guttatus,ERYGUT,MIGU,Phrymaceae,forb,native,2020,80,NA,NA,NA,NA,NA,NA,NA,"collected from various locations in Riverside, San Diego, and Orange Counties",,SS,wild,,,dont bother cleaning,NA
+CBG-21071,morph,,1,seed,seed,Eschscholzia californica,,ESCCAL,ESCA2,Papaveraceae,forb,native,2003,4,NA,NA,0.414889885,600,33.63755,-117.07452,553,,21071,CBG,wild,,,,0.1516
+SS-17,chem,,1,seed,seed,Eschscholzia californica,,ESCCAL,ESCA2,Papaveraceae,forb,native,2020,90,NA,NA,NA,NA,34.31451204,-118.9662452,250,Rancho de los flores; cultivation site,,SS,cultivated,,,,0.2358
+CBG-20684,both,,1,seed,seed,Eschscholzia glyptosperma,,ESCGLY,ESGL,Papaveraceae,forb,native,2001,2,NA,NA,0.127809216,248,34.25205,-115.72051,699,,20684,CBG,wild,,,,0.0431
+CBG-23612,both,,1,seed,seed,Eschscholzia minutiflora,,ESCMIN,ESMI,Papaveraceae,forb,native,2013,0,NA,NA,0.353981142,600,34.36555,-114.28063,243,,23612,CBG,wild,,,,0.0462
+CBG-21069,both,,1,seed,seed,Eucrypta chrysanthemifolia,,EUCCHR,EUCH,Boraginaceae,forb,native,2003,0,NA,NA,0.1732,333,33.86277,-117.01,585,,21069,CBG,wild,,,,0.1362
+SD-8,,,,,,Eucrypta micrantha,,EUCMIC,EUMI2,Hydrophyllaceae,forb,native,2012,NA,NA,NA,NA,NA,32.22343277,-111.0102093,725,collection location estimate (tumamoc hill),,SD,wild,,,dont need,0.1157
+SD-9,both,,1,seed,seed,Eucrypta micrantha,,EUCMIC,EUMI2,Hydrophyllaceae,forb,native,2015,NA,NA,NA,0.19,NA,32.22343277,-111.0102093,725,collection location estimate (tumamoc hill),,SD,wild,,,,0.1157
+CBG-22353,both,,1,seed,seed,Eulobus californicus,Camissonia californica,EULCAL,CACA32,Onagraceae,forb,native,1996,79,NA,NA,0.137993997,600,34.0945,-118.64867,388,,22353,CBG,wild,,,,0.2261
+MCL-EE-22,chem,,1,seed,seed,Euphorbia crenulata,,EUPCRE,EUCR2,Euphorbiaceae,forb,native,2019,NA,NA,NA,NA,NA,38.86968,-122.42793,673,,,MCL-EE,wild,,,only 21 seeds total; cabinet,0.5647
+MCL-ML-34,both,,1,seed,seed,Euphorbia crenulata,,EUPCRE,EUCR2,Euphorbiaceae,forb,native,2021,NA,NA,NA,0.039,52,38.87058258,-122.4273523,673,,,MCL-ML,wild,,,,0.5647
+SD-10,both,,1,achene,achene,Evax multicaulis,Evax verna var. verna,EVAMUL,EVVEV,Asteraceae,forb,native,2016,NA,NA,NA,0.1169,NA,32.22343277,-111.0102093,725,collection location estimate (tumamoc hill),,SD,wild,,,,0.1157
+CBG-22004,,,1,floret,caryopsis,Festuca microstachys,Vulpia microstachys,FESMIC,VUMIM,Poaceae,grass,native,1997,67.5,NA,NA,0.075559809,84,34.1344,-118.75348,264,,22004,CBG,wild,,,,0.2062
+MCL-EE-65,,,1,floret,caryopsis,Festuca microstachys,Vulpia microstachys,FESMIC,VUMIM,Poaceae,grass,native,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,MCL-EE,wild,,,,NA
+MCL-ML-20,both,y,1,floret,caryopsis,Festuca microstachys,Vulpia microstachys,FESMIC,VUMIM,Poaceae,grass,native,2021,NA,NA,NA,0.23,NA,38.87244585,-122.4271412,662,S ridge watering Exp NS,,MCL-ML,wild,,,,0.5647
+SS-18,,,1,floret,caryopsis,Festuca microstachys,Vulpia microstachys,FESMIC,VUMIM,Poaceae,grass,native,2019,93,NA,NA,NA,NA,34.31451204,-118.9662452,250,Rancho de los flores; cultivation site,,SS,cultivated,,,,0.2358
+MCL-EE-66,,,1,floret,caryopsis,Festuca myuros,Vulpia myuros,FESMYU,VUMY,Poaceae,grass,invasive,NA,NA,NA,NA,NA,NA,38.87216,-122.42714,NA,,,MCL-EE,wild,,,,0.5647
+SAC-06,,,1,floret,caryopsis,Festuca myuros,Vulpia myuros,FESMYU,VUMY,Poaceae,grass,invasive,2021,NA,NA,NA,NA,NA,38.58871193,-121.4590923,NA,Sutter's landing,,SAC,wild,,,dont do this one unless it's needed,0.2569
+SFREC-8,both,y,1,floret,caryopsis,Festuca myuros,Vulpia myuros,FESMYU,VUMY,Poaceae,grass,invasive,2021,NA,NA,NA,0.21,NA,39.2473973,-121.3144869,216,location estimate,,SFREC,wild,,,,0.4725
+SS-19,,,,,,Festuca myuros,Vulpia myuros,FESMYU,VUMY,Poaceae,grass,invasive,2020,90,NA,NA,NA,NA,34.31451204,-118.9662452,250,Rancho de los flores; cultivation site,,SS,cultivated,,,,0.2358
+GRIN-W6-30756,,,,,,Festuca octoflora,Vulpia octoflora,FESOCT,VUOCO,Poaceae,grass,native,2005,NA,NA,0.413,0.0413,100,33.40222,-113.05028,377,,W6 30756,GRIN,wild,,,,0.0688
+GRIN-W6-39216,,,,,,Festuca octoflora,Vulpia octoflora,FESOCT,VUOCO,Poaceae,grass,native,2009,NA,NA,0.413,0.0413,100,33.52591667,-111.6534167,456,,W6 39216,GRIN,wild,,,,0.1124
+SD-11,both,y,1,floret,caryopsis,Festuca octoflora,Vulpia octoflora,FESOCT,VUOCO,Poaceae,grass,native,2015,NA,NA,NA,0.1484,NA,32.22343277,-111.0102093,725,collection location estimate (tumamoc hill),,SD,wild,,,,0.1157
+SS-20,,,,,,Festuca octoflora,Vulpia octoflora,FESOCT,VUOCO,Poaceae,grass,native,2016,84,NA,NA,NA,NA,34.31451204,-118.9662452,250,Rancho de los flores; cultivation site,,SS,cultivated,,,,0.2358
+MCL-EE-25,,,,,,Festuca perennis,Lolium multiflorum,FESPER,LOPEM2,Poaceae,grass,invasive,2019,NA,NA,NA,NA,NA,NA,NA,NA,,,MCL-EE,wild,,,have another acc,NA
+SFREC-9,both,y,1,floret,caryopsis,Festuca perennis,Lolium multiflorum,FESPER,LOPEM2,Poaceae,grass,invasive,2021,NA,NA,NA,0.4416,NA,39.24872381,-121.315312,193,,,SFREC,wild,,,,0.4725
+SS-28,,,,,,Festuca perennis,Lolium multiflorum,FESPER,LOPEM2,Poaceae,grass,invasive,2018,97,NA,NA,NA,NA,34.31451204,-118.9662452,250,Rancho de los flores; cultivation site,,SS,cultivated,x,,,0.2358
+MCL-EE-27,,,,,,Galium murale,,GALMUR,GAMU4,Rubiaceae,forb,invasive,2019,NA,NA,NA,NA,NA,38.87216,-122.42714,NA,,,MCL-EE,wild,,,have another acc,0.5647
+MCL-ML-33,both,,1,nutlet,nutlet,Galium murale,,GALMUR,GAMU4,Rubiaceae,forb,invasive,2021,NA,NA,NA,0.19,NA,38.86457044,-122.4285193,661,Tailings pond,,MCL-ML,wild,,,,0.5603
+MCL-ML-5,both,,1,floret,floret,Gastridium ventricosum,Gastridium phleoides,GASVEN,GAPH2,Poaceae,grass,invasive,2015,NA,NA,NA,0.2441,NA,38.86147984,-122.405158,652,location approximate,,MCL-ML,wild,,,,0.5527
+CBG-24794,both,,1,achene + pappus,achene + pappus,Geraea canescens,,GERCAN,GECA2,Asteraceae,forb,native,2017,22,NA,NA,0.8821,512.8,33.87157,-116.44117,394,,24794,CBG,wild,,,,0.0585
+DW-11,,,,,,Geraea canescens,,GERCAN,GECA2,Asteraceae,forb,native,2015,NA,NA,NA,NA,NA,33.300718,-116.335128,NA,,,DW,wild,,,,0.0583
+SAC-03,,,,,,Geranium dissectum,,GERDIS,GEDI,Geraniaceae,forb,invasive,2021,NA,NA,NA,NA,NA,38.55785121,-121.2583052,NA,Mather Lake,,SAC,wild,,,dont use this one,0.26695
+SFREC-13,both,,1,seed,seed,Geranium dissectum,,GERDIS,GEDI,Geraniaceae,forb,invasive,2021,NA,NA,NA,2.7086,NA,39.28585175,-121.2921956,493,,,SFREC,wild,,,,0.5684
+CBG-21065,both,,1,seed,seed,Gilia angelensis,,GILANG,GIAN,Polemoniaceae,forb,native,2003,79.6,NA,NA,0.168097151,600,33.86388,-117.00888,585,,21065,CBG,wild,,,,0.1362
+CBG-22421,,,,,,Gilia capitata,,GILCAP,GICA5,Polemoniaceae,forb,native,1997,6.1,NA,NA,0.073599459,148,34.12637,-118.86496,344,,22421,CBG,wild,,,,0.224
+MCL-EE-28,,,,,,Gilia capitata,,GILCAP,GICA5,Polemoniaceae,forb,native,2018,NA,NA,NA,NA,NA,NA,NA,NA,,,MCL-EE,wild,,,have another acc,NA
+MCL-ML-9,both,,1,seed,seed,Gilia capitata,,GILCAP,GICA5,Polemoniaceae,forb,native,2016,NA,NA,NA,0.2906,NA,38.87036085,-122.4277015,675,location approximate,,MCL-ML,wild,,,,0.5647
+SS-21,,,,,,Gilia capitata,,GILCAP,GICA5,Polemoniaceae,forb,native,2020,70,NA,NA,NA,NA,34.31451204,-118.9662452,250,Rancho de los flores; cultivation site,,SS,cultivated,,,,0.2358
+CBG-21612,both,,1,seed,seed,Gilia latiflora ssp. davyi,,GILLATD,GILAD,Polemoniaceae,forb,native,2004,0,NA,NA,0.181078031,900,34.6238,-117.82661,803,,21612,CBG,wild,,,,0.0646
+MCL-EE-29,morph,,1,seed,seed,Gilia tricolor,,GILTRI,GITR2,Polemoniaceae,forb,native,2016,NA,NA,NA,0.0722,NA,38.87149122,-122.4275575,657,location estimate,,MCL-EE,wild,,,check notes on bag for location estimate,0.5647
+SS-22,chem,,1,seed,seed,Gilia tricolor,,GILTRI,GITR2,Polemoniaceae,forb,native,2020,97,NA,NA,NA,NA,34.31451204,-118.9662452,250,Rancho de los flores; cultivation site,,SS,cultivated,x,,,0.2358
+GRIN-PI-641928,both,,1,seed,seed,Gossypium hirsutum,,GOSHIR,GOHI,Malvaceae,forb,invasive,2005,NA,NA,NA,4.07,50,NA,NA,NA,,PI 641928,GRIN,cultivated,,,,NA
+GRIN-PI-641929,morph,,1,seed,seed,Gossypium hirsutum,,GOSHIR,GOHI,Malvaceae,forb,invasive,2005,NA,NA,NA,4.49,50,NA,NA,NA,,PI 641929,GRIN,cultivated,,,,NA
+GRIN-PI-641930,morph,,1,seed,seed,Gossypium hirsutum,,GOSHIR,GOHI,Malvaceae,forb,invasive,2005,NA,NA,NA,3.9,50,NA,NA,NA,,PI 641930,GRIN,cultivated,,,,NA
+GRIN-W6-32543,,,,,,Hedeoma nana,,HEDNAN,HENA,Lamiaceae,forb,native,2007,NA,NA,0.2164,0.02164,100,34.17545,-112.16562,NA,,W6 32543,GRIN,wild,,,collected before 2007 APPARENTLY THIS ISN'T ANNUAL,0.1644
+GRIN-W6-35197,,,,,,Hedeoma nana ssp. macrocalyx,,HEDNANM,HENAM,Lamiaceae,forb,native,2009,NA,NA,NA,NA,100,33.96139,-111.85056,NA,,W6 35197,GRIN,wild,,,APPARENTLY THIS ISNT ANNUAL,0.2053
+SS-23,both,,1,achene,achene,Helianthus annuus,,HELANN,HEAN3,Asteraceae,forb,native,2018,52,NA,NA,1.62,NA,NA,NA,NA,"collected from various locations in Riverside, San Diego, and Orange Counties",,SS,wild,,,,NA
+GRIN-Ames-32934,,,,,,Helianthus deserticola,,HELDES,HEAN4,Asteraceae,forb,native,2015,NA,NA,NA,0.25,100,36.94794198,-111.597214,1312,,Ames 32934,GRIN,wild,,,,0.0884
+GRIN-Ames-32935,both,,1,achene,achene,Helianthus deserticola,,HELDES,HEAN4,Asteraceae,forb,native,2015,76,64,NA,0.29,100,36.89530296,-111.394378,1309,,Ames 32935,GRIN,wild,,,,0.0787
+GRIN-PI-650016,both,,1,achene + pappus,achene + pappus,Helianthus niveus,,HELNIV,HENI3,Asteraceae,forb,native,2005,78,38,2.9,0.56,200,32.3825,-114.4272222,122,,PI 650016,GRIN,wild,,,,0.0342
+GRIN-PI-649905,both,,1,achene,achene,Helianthus niveus ssp. canescens,,HELNIVC,HENIC,Asteraceae,forb,native,2005,92,60,1.4168,0.21,100,32.10138889,-113.4511111,213,,PI 649905,GRIN,wild,,,,0.0495
+GRIN-PI-664655,,,,,,Helianthus niveus ssp. canescens,,HELNIVC,HENIC,Asteraceae,forb,native,2005,97,61,1.4168,0.22,100,32.1325,-113.5677778,244,,PI 664655,GRIN,wild,,,,0.0492
+GRIN-PI-664656,,,,,,Helianthus niveus ssp. canescens,,HELNIVC,HENIC,Asteraceae,forb,native,2005,89,73,1.4168,0.21,100,32.1275,-113.5552778,238,,PI 664656,GRIN,wild,,,,0.0487
+GRIN-Ames-32936,,,,,,Helianthus petiolaris ssp. fallax,,HELPETF,HEPEF,Asteraceae,forb,native,2015,57,57,2.1,0.12,50,36.61690903,-110.979416,1842,,Ames 32936,GRIN,wild,,,,0.1164
+GRIN-PI-695660,both,,1,achene,achene,Helianthus petiolaris ssp. fallax,,HELPETF,HEPEF,Asteraceae,forb,native,2015,100,87,2.3,0.23,100,34.917,-111.9098,1445,,PI 695660,GRIN,wild,,,,0.2399
+GRIN-PI-695664,,,,,,Helianthus petiolaris ssp. fallax,,HELPETF,HEPEF,Asteraceae,forb,native,2015,89,33,1.7,0.17,100,NA,NA,NA,,PI 695664,GRIN,wild,,,accidentaly spillage! might be under 100,NA
+GRIN-W6-35203,both,,1,achene,achene,Heliomeris longifolia var. annua,,HELLONA,HELOA2,Asteraceae,forb,native,2007,47,NA,0.5268,0.10536,200,34.205,-112.10889,1070,,W6 35203,GRIN,wild,,,,0.1818
+MCL-EE-30,,,,,,Hemizonia congesta,,HEMCON,HECO7,Asteraceae,forb,native,NA,NA,NA,NA,NA,NA,38.8605,-122.41157,NA,,,MCL-EE,wild,,,have enough of another acc,0.5445
+MCL-ML-15,both,,1,achene,achene,Hemizonia congesta,,HEMCON,HECO7,Asteraceae,forb,native,2017,NA,NA,NA,0.34,NA,38.87122784,-122.4273322,664,Location estimate,,MCL-ML,wild,,x,,0.5647
+CP-15,both,,1,seed,seed,Herniaria hirsuta,,HERHIR,HEHI7,Brassicaceae,forb,invasive,2019,NA,NA,NA,0.0033,38,35.05878732,-119.6799643,NA,,,CP,wild,,,,0.2077
+CBG-23109,both,,1,achene,achene,Hesperocnide tenella,,HESTEN,HETE5,Urticaceae,forb,native,2010,92.3,NA,NA,0.237998097,1700,39.34613,-121.51446,42,,23109,CBG,wild,,,,0.3503
+CBG-20351,both,y,1,achene + pappus,achene,Heterotheca sessiliflora,,HETSES,HESE,Asteraceae,forb,native,1999,66,NA,NA,0.395984148,600,34.21967,-117.70925,1341,,20351,CBG,wild,,,,0.2765
+MCL-EE-31,,,,,,Holocarpha virgata,,HOLVIR,HOVI,Asteraceae,forb,native,2016,NA,NA,NA,NA,NA,38.85951,-122.4111,NA,,,MCL-EE,wild,,,have enough of another acc,0.5445
+MCL-ML-3a,both,,1,achene,achene,Holocarpha virgata,,HOLVIR,HOVI,Asteraceae,forb,native,2014,NA,NA,NA,0.4255,200,38.86101141,-122.4105245,635,location approximate,,MCL-ML,wild,,x,morph 1,0.5445
+MCL-ML-3b,both,,1,achene,achene,Holocarpha virgata,,HOLVIR,HOVI,Asteraceae,forb,native,2014,NA,NA,NA,0.22945,130,38.86101141,-122.4105245,635,location approximate,,MCL-ML,wild,,x,morph 2,0.5445
+SS-24,both,y,1,floret,caryopsis,Hordeum intercedens,,HORINT,HOIN2,Poaceae,grass,native,2020,93,NA,NA,0.69,NA,34.31451204,-118.9662452,250,Rancho de los flores; cultivation site,,SS,cultivated,,,,0.2358
+SAC-04,both,y,1,floret,caryopsis,Hordeum murinum,,HORMUR,HOMU,Poaceae,grass,invasive,2021,NA,NA,NA,1.48,NA,38.56483847,-121.4745267,8,R&27th,,SAC,wild,,,,0.2554
+MCL-EE-67,,,1,achene + pappus,achene,Hypochaeris glabra,,HYPGLA,HYGL2,Asteraceae,forb,invasive,2019,NA,NA,NA,NA,NA,38.87216,-122.42711,NA,,,MCL-EE,wild,,,,0.5647
+MCL-ML-26a,both,y,1,achene + pappus,achene,Hypochaeris glabra,,HYPGLA,HYGL2,Asteraceae,forb,invasive,2015,NA,NA,NA,0.22,NA,38.87216,-122.42711,656,location approximate,,MCL-ML,wild,,,long morph,0.5647
+MCL-ML-26b,both,y,1,achene + pappus,achene,Hypochaeris glabra,,HYPGLA,HYGL2,Asteraceae,forb,invasive,2015,NA,NA,NA,0.2,NA,38.87216,-122.42711,656,location approximate,,MCL-ML,wild,,,short morph,0.5647
+MCL-EE-33,,,,achene + pappus,,Lactuca serriola,,LACSER,LASE,Asteraceae,forb,invasive,2019,NA,NA,NA,NA,NA,NA,NA,NA,,,MCL-EE,wild,,,"not enough; only 217 seeds, elise needs 200 separated by MF; cabinet",NA
+CBG-22531,both,,1,achene,achene,Laennecia coulteri,,LAECOU,LACO13,Asteraceae,forb,native,1998,89.8,NA,NA,0.176077343,5750,34.10185,-118.70711,176,,22531,CBG,wild,,,,0.199
+MCL-EE-68,,,1,achene,achene,Lagophylla minor,,LAGMIN,LAMI,Asteraceae,forb,native,NA,NA,NA,NA,NA,NA,38.8724,-122.42754,NA,,,MCL-EE,wild,,,,0.5647
+MCL-ML-29,both,,1,achene,achene,Lagophylla minor,,LAGMIN,LAMI,Asteraceae,forb,native,2021,NA,NA,NA,0.2984,NA,38.86090722,-122.4137252,649,,,MCL-ML,wild,,,,0.5445
+CBG-20066,both,,1,seed,seed,Langloisia setosissima ssp. punctata,,LANSETP,LASEP,Polemoniaceae,forb,native,1998,20,NA,NA,0.165156951,600,35.59568,-115.55985,1474,,20066,CBG,wild,,,,0.0813
+CBG-19314,,,1,achene + pappus,achene + pappus,Lasthenia californica,,LASCAL,LACA7,Asteraceae,forb,native,1996,44,NA,NA,0.065,650,32.84944,-118.39416,287,,19314,CBG,wild,,,,0.1566
+CP-4,both,,1,achene + pappus,achene + pappus,Lasthenia californica,,LASCAL,LACA7,Asteraceae,forb,native,2020,NA,NA,NA,0.0635,NA,35.05878732,-119.6799643,NA,,,CP,wild,,,,0.2077
+GRIN-W6-35185,,,1,achene + pappus,achene + pappus,Lasthenia californica,,LASCAL,LACA7,Asteraceae,forb,native,2007,NA,NA,0.0804,0.00804,100,33.95806,-111.83667,1092,,W6 35185,GRIN,wild,,,,0.2089
+MCL-EE-34,,,1,achene + pappus,achene + pappus,Lasthenia californica,,LASCAL,LACA7,Asteraceae,forb,native,2016,NA,NA,NA,NA,NA,NA,NA,NA,,,MCL-EE,wild,,,have another acc,NA
+SS-25,,,1,achene + pappus,achene + pappus,Lasthenia californica,,LASCAL,LACA7,Asteraceae,forb,native,2018,83,NA,NA,0.29,NA,34.31451204,-118.9662452,250,Rancho de los flores; cultivation site,,SS,cultivated,,,terrible viability,0.2358
+UCD-1,both,,1,achene + pappus,achene + pappus,Lasthenia californica,,LASCAL,LACA7,Asteraceae,forb,native,2017,NA,NA,NA,0.32,NA,NA,NA,NA,UC Davis Orchard Park,,UCD,cultivated,,,maternal seed collected at McLaughlin,NA
+CBG-21066,both,,1,achene + pappus,achene + pappus,Lasthenia coronaria,,LASCOR,LACO7,Asteraceae,forb,native,2003,54.5,NA,NA,0.135001027,1500,33.86263,-117.00988,585,,21066,CBG,wild,,,,0.1362
+CP-16,both,,1,achene,achene,Lasthenia minor,,LASMIN,LAMI5,Asteraceae,forb,native,2020,NA,NA,NA,0.01,90,35.11418765,-119.7015289,NA,,,CP,wild,,,"90 without pappus, ~110 with pappus ",0.189
+CBG-21072,both,y,1,achene + pappus,achene,Layia glandulosa,,LAYGLA,LAGL5,Asteraceae,forb,native,2003,42,NA,NA,0.564459228,600,34.43333,-117.58666,1250,,21072,CBG,wild,,,,0.1846
+CBG-20482,,,,,,Layia platyglossa,,LAYPLA,LAPL,Asteraceae,forb,native,2000,64,NA,NA,0.097049715,193,33.74521,-117.034,459,,20482,CBG,wild,,,,0.1384
+CBG-21171,morph,,1,achene + pappus,,Layia platyglossa,,LAYPLA,LAPL,Asteraceae,forb,native,2003,95,NA,NA,0.098390433,155,32.89794,-118.4863,366,,21171,CBG,wild,,,,0.1894
+SS-26,chem,,1,,achene + pappus,Layia platyglossa,,LAYPLA,LAPL,Asteraceae,forb,native,2020,94,NA,NA,0.3674,NA,34.31451204,-118.9662452,250,Rancho de los flores; cultivation site,,SS,cultivated,,,,0.2358
+CP-5,both,,1,seed,seed,Lepidium dictyotum,,LEPDIC,LEDI2,Brassicaceae,forb,native,2020,NA,NA,NA,0.1558,NA,35.1137529,-119.7171164,NA,,,CP,wild,,,,0.1917
+DW-12,,,,,,Lepidium lasiocarpum,,LEPLAS,LELA,Brassicaceae,forb,native,2015,NA,NA,NA,NA,NA,33.260234,-116.348109,NA,,,DW,wild,,,dont use this one,0.0572
+SD-12,both,y,2,silicle,seed,Lepidium lasiocarpum,,LEPLAS,LELA,Brassicaceae,forb,native,2015,NA,NA,NA,0.2146,NA,32.22343277,-111.0102093,725,collection location estimate (tumamoc hill),,SD,wild,,,,0.1157
+CP-6,both,,1,seed,seed,Lepidium nitidum,,LEPNIT,LENI,Brassicaceae,forb,native,2020,NA,NA,NA,7.9,NA,35.08131172,-119.6595978,NA,,,CP,wild,,,,0.1874
+MCL-EE-35,,,,,,Lepidium nitidum,,LEPNIT,LENI,Brassicaceae,forb,native,2018,NA,NA,NA,NA,NA,NA,NA,NA,,,MCL-EE,wild,,,have another acc,NA
+MCL-ML-21,morph,,1,seed,seed,Lepidium nitidum,,LEPNIT,LENI,Brassicaceae,forb,native,2021,NA,NA,NA,0.0558,61,38.87150375,-122.4277193,718,bottom of hill S water,,MCL-ML,wild,,,only need 200,0.5647
+SS-27,both,,1,seed,seed,Lepidium nitidum,,LEPNIT,LENI,Brassicaceae,forb,native,2017,78,NA,NA,5.75,NA,NA,NA,NA,"collected from various locations in Riverside, San Diego, and Orange Counties",,SS,wild,x,x,,NA
+MCL-EE-36,,,,,,Leptosiphon bicolor,Linanthus bicolor,LEPBIC,LEBI8,Polemoniaceae,forb,native,2019,NA,NA,NA,NA,NA,38.87274024,-122.4271505,667,,,MCL-EE,wild,,,only one maternal family (and two seeds?),0.5647
+CBG-23198,both,,1,seed,seed,Leptosiphon montanus,,LEPMON,LEMO19,Polemoniaceae,forb,native,2010,100,NA,NA,0.454828121,355,36.45062,-118.8674,402,,23198,CBG,wild,,,,0.1883
+CBG-21659,both,,1,achene + pappus,achene + pappus,Leptosyne bigelovii,,LEPBIG,COBI,Asteraceae,forb,native,2005,NA,NA,NA,0.959352742,600,34.46286,-117.81985,1158,,21659,CBG,wild,,,,0.164
+SD-13,both,,1,seed,seed,Lesquerella gordonii,,LESGOR,LEGO,Brassicaceae,forb,native,2015,NA,NA,NA,0.83,NA,32.22343277,-111.0102093,725,collection location estimate (tumamoc hill),,SD,wild,,,,0.1157
+CBG-21670,both,,1,seed,seed,Linanthus bigelovii,,LINBIG,LIBI2,Polemoniaceae,forb,native,2005,91.7,NA,NA,0.195211653,1350,34.41231,-117.77356,1590,,21670,CBG,wild,,,,0.3429
+CBG-19965,both,,1,seed,seed,Linanthus dichotomus,,LINDIC,LIDI2,Polemoniaceae,forb,native,1998,95,NA,NA,0.184221549,3100,33.60372,-115.92266,240,,19965,CBG,wild,,,,0.0325
+MCL-EE-37,,,,,,Linanthus dichotomus,,LINDIC,LIDI2,Polemoniaceae,forb,native,2018,NA,NA,NA,NA,NA,NA,NA,NA,,,MCL-EE,wild,,,,NA
+MCL-ML-36,,,,,,Linanthus dichotomus,,LINDIC,LIDI2,Polemoniaceae,forb,native,2021,NA,NA,NA,0.0269,NA,38.87063921,-122.4276034,NA,,,MCL-ML,wild,,,,0.5647
+CBG-19951,both,,1,seed,seed,Loeseliastrum matthewsii,,LOEMAT,LOMA10,Polemoniaceae,forb,native,1998,0,NA,NA,0.236886116,600,33.65655,-115.80227,457,,19951,CBG,wild,,,,0.0374
+MCL-EE-38,,,,,,Logfia filaginoides,Filago californica,LOGFIL,LOCA19,Asteraceae,forb,native,2019,NA,NA,NA,NA,NA,38.86983,-122.42793,671,,,MCL-EE,wild,,,have another acc,0.5647
+MCL-ML-32,both,,1,achene,achene,Logfia filaginoides,Filago californica,LOGFIL,LOCA19,Asteraceae,forb,native,2021,NA,NA,NA,0.0424,NA,38.87207989,-122.4270872,654,,,MCL-ML,wild,,,"mixed morphs, not enough for phosphorus",0.5647
+SFREC-16,both,,1,achene,achene,Logfia gallica,Filago gallica,LOGGAL,LOGA2,Asteraceae,forb,invasive,2021,NA,NA,NA,0.0441,NA,39.25693242,-121.3115828,287,,,SFREC,wild,,,"only clean enough for c:n - 0.01 grams is fine, might be able to clean 2nd morph, otherwise this only contains one of the morphs",0.4843
+CBG-21064,both,,1,seed,seed,Lupinus bicolor,,LUPBIC,LUBI,Fabaceae,forb,native,2003,48,NA,NA,2.597863446,600,33.78216,-116.93819,506,,21064,CBG,wild,,,,0.1294
+SS-29,,,,,,Lupinus bicolor,,LUPBIC,LUBI,Fabaceae,forb,native,2018,85,NA,NA,NA,NA,34.31451204,-118.9662452,250,Rancho de los flores; cultivation site,,SS,cultivated,,,,0.2358
+CBG-21010,,,,,,Lupinus hirsutissimus,,LUPHIR,LUHI3,Fabaceae,forb,native,2003,0,NA,NA,1.283382178,51,32.89794,-118.48631,460,,21010,CBG,wild,,,,0.1894
+CBG-21081,,,,,,Lupinus hirsutissimus,,LUPHIR,LUHI3,Fabaceae,forb,native,2003,33.3,NA,NA,2.5331,82,33.78216,-116.93819,506,,21081,CBG,wild,,,,0.1294
+CBG-21105,,,,,,Lupinus hirsutissimus,,LUPHIR,LUHI3,Fabaceae,forb,native,2003,0,NA,NA,2.31731291,92,32.89794,-118.48631,380,,21105,CBG,wild,,,,0.1894
+CBG-21395,both,,1,seed,seed,Lupinus hirsutissimus,,LUPHIR,LUHI3,Fabaceae,forb,native,2004,16,NA,NA,4.319499479,192,34.2038,-117.67747,974,,21395,CBG,wild,,,,0.2309
+GRIN-W6-40813,both,,1,seed,seed,Lupinus kingii,,LUPKIN,LUKI,Fabaceae,forb,native,2011,84,NA,8.038,1.6076,200,35.14808333,-111.7383333,2247,,W6 40813,GRIN,wild,,,NOT collected in an aridland; collected before 2011,0.3202
+MCL-EE-39,,,,,,Lupinus microcarpus,,LUPMIC,LUSUS,Fabaceae,forb,native,2016,NA,NA,NA,NA,NA,NA,NA,NA,,,MCL-EE,wild,,,have anohter acc,NA
+MCL-ML-6,both,,1,seed,seed,Lupinus microcarpus,,LUPMIC,LUSUS,Fabaceae,forb,native,2015,NA,NA,NA,5.04,NA,38.87116748,-122.4201456,652,location approximate,,MCL-ML,wild,,,,0.5511
+SS-30,,,,,,Lupinus microcarpus,,LUPMIC,LUSUS,Fabaceae,forb,native,2019,74,NA,NA,NA,NA,34.31451204,-118.9662452,250,Rancho de los flores; cultivation site,,SS,cultivated,,,,0.2358
+CBG-23119,both,,1,seed,seed,Lupinus microcarpus var. horizontalis,,LUPMICH,LUHOH,Fabaceae,forb,native,2010,100,NA,NA,7.754623804,241,33.7476,-116.90593,528,,23119,CBG,wild,,,,0.131
+CBG-22336,,,,,,Lupinus microcarpus var. microcarpus,,LUPMICM,LUSUS,Fabaceae,forb,native,1996,6,NA,NA,1.655028037,64,34.32337,-118.71027,419,,22336,CBG,wild,,,,0.2062
+CBG-22559,,,,,,Lupinus microcarpus var. microcarpus,,LUPMICM,LUSUS,Fabaceae,forb,native,1997,48,NA,NA,2.323623888,79,34.10134,-118.69577,212,,22559,CBG,wild,,,,0.2016
+CBG-22561,,,,,,Lupinus microcarpus var. microcarpus,,LUPMICM,LUSUS,Fabaceae,forb,native,2000,100,NA,NA,1.366278481,48,34.10134,-118.69577,212,,22561,CBG,wild,,,,0.2016
+CBG-22614,both,,1,seed,seed,Lupinus microcarpus var. microcarpus,,LUPMICM,LUSUS,Fabaceae,forb,native,1999,96.7,NA,NA,3.685,113,34.10134,-118.69577,212,,22614,CBG,wild,,,,0.2016
+SS-31,,,,,,Lupinus microcarpus var. microcarpus,,LUPMICM,LUSUS,Fabaceae,forb,native,2017,53,NA,NA,6.87,NA,34.31451204,-118.9662452,250,Rancho de los flores; cultivation site,,SS,cultivated,,,avoid wrinkled seeds,0.2358
+CBG-21060,,,,,,Lupinus sparsiflorus,,LUPSPA,LUSP2,Fabaceae,forb,native,2003,20,NA,NA,0.861806301,172,33.78216,-116.93819,506,,21060,CBG,wild,,,,0.1294
+CBG-21651,morph,,1,seed,seed,Lupinus sparsiflorus,,LUPSPA,LUSP2,Fabaceae,forb,native,2005,18,NA,NA,1.362097662,219,34.45204,-117.9012,1248,,21651,CBG,wild,,,,0.1781
+SS-32,chem,,1,seed,seed,Lupinus sparsiflorus,,LUPSPA,LUSP2,Fabaceae,forb,native,2020,72,NA,NA,NA,NA,34.31451204,-118.9662452,250,Rancho de los flores; cultivation site,,SS,cultivated,,,,0.2358
+CBG-22376,both,,1,seed,seed,Lupinus succulentus,,LUPSUC,LUSU3,Fabaceae,forb,native,1997,4,NA,NA,3.911926786,600,34.31759,-118.72117,467,,22376,CBG,wild,,,,0.2085
+SS-33,,,,,,Lupinus succulentus,,LUPSUC,LUSU3,Fabaceae,forb,native,2019,66,NA,NA,NA,NA,34.31451204,-118.9662452,250,Rancho de los flores; cultivation site,,SS,cultivated,,,,0.2358
+GRIN-W6-30954,,,,,,Machaeranthera tagetina,,MACTAG,MATA,Asteraceae,forb,native,2005,61,NA,0.8608,0.08608,100,34.43389,-112.6875,1244,,W6 30954,GRIN,wild,,,,0.1803
+GRIN-W6-42278,chem,,1,achene,achene,Machaeranthera tagetina,,MACTAG,MATA,Asteraceae,forb,native,2011,94,NA,0.8608,0.08608,100,32.5938,-110.72925,1387,,W6 42278,GRIN,wild,,,"collected before 2011, pappus not intact",0.2313
+GRIN-W6-42279,morph,,1,achene + pappus,,Machaeranthera tagetina,,MACTAG,MATA,Asteraceae,forb,native,2011,90,NA,0.8608,0.08608,100,32.51528,-110.68028,1351,,W6 42279,GRIN,wild,,,"collected before 2011, pappus intact",0.2286
+CBG-19120,,,,,,Madia elegans,,MADELE,MAEL,Asteraceae,forb,native,1996,NA,NA,NA,0.119211073,87,34.71277,-118.63055,1650,,19120,CBG,wild,,,,0.2162
+CBG-22365,morph,,1,achene,achene,Madia elegans,,MADELE,MAEL,Asteraceae,forb,native,1996,72,NA,NA,0.210100671,105,34.0945,-118.64867,388,,22365,CBG,wild,,,,0.2261
+CBG-22387,,,,,,Madia elegans,,MADELE,MAEL,Asteraceae,forb,native,1998,80,NA,NA,0.012640449,9,34.12724,-118.85687,314,,22387,CBG,wild,,,,0.2197
+HED-2,chem,,1,achene,achene,Madia elegans,,MADELE,MAEL,Asteraceae,forb,native,2021,10,39,NA,0.1635,34,NA,NA,NA,,,HED,cultivated,x,,,NA
+SFREC-17a,both,y,1,achene + flower case,achene,Madia gracilis,,MADGRA,MAGR3,Asteraceae,forb,native,2021,NA,NA,NA,0.42,NA,39.25693242,-121.3115828,287,,,SFREC,wild,,,,0.4843
+SFREC-17b,both,,1,achene,achene,Madia gracilis,,MADGRA,MAGR4,Asteraceae,forb,native,2021,NA,NA,NA,0.43,NA,39.25693242,-121.3115828,287,,,SFREC,wild,,,,0.4843
+CP-17,both,y,1,achene + pappus,achene,Malacothrix coulteri,,MALCOU,MACO3,Asteraceae,forb,native,2020,NA,NA,NA,0.1842,NA,35.1137529,-119.7171164,NA,,,CP,wild,,,,0.1917
+GRIN-W6-42280,chem,,1,achene,achene,Malacothrix fendleri,,MALFEN,MAFE,Asteraceae,forb,native,2011,89,NA,NA,0.0824,200,31.77613,-110.55003,1443,,W6 42280,GRIN,wild,,,collected before 2011,0.19605
+GRIN-W6-42281,both,,1,achene,achene,Malacothrix fendleri,,MALFEN,MAFE,Asteraceae,forb,native,2011,91,NA,NA,0.0871,200,31.71567,-110.58987,1419,,W6 42281,GRIN,wild,,,collected before 2011,0.1934
+CBG-23454,morph,,1,achene + pappus,achene + pappus,Malacothrix glabrata,,MALGLA,MAGL3,Asteraceae,forb,native,2011,0,NA,NA,0.144001767,600,35.43507,-117.56618,1071,,23454,CBG,wild,,,,0.057
+SS-34,chem,,1,achene + pappus,achene + pappus,Malacothrix glabrata,,MALGLA,MAGL3,Asteraceae,forb,native,2019,34,NA,NA,0.2027,NA,NA,NA,NA,"collected from various locations in Riverside, San Diego, and Orange Counties",,SS,wild,,,,NA
+DW-13,both,y,1,mericarp,seed,Malva parviflora,,MALPAR,MAPA5,Malvaceae,forb,invasive,2015,NA,NA,NA,0.72,NA,33.260401,-116.348148,168,,,DW,wild,,,,0.0572
+SD-14,both,,1,seed,seed,Matthiola parviflora,,MATPAR,,Brassicaceae,forb,invasive,2015,NA,NA,NA,0.26,NA,32.22343277,-111.0102093,725,collection location estimate (tumamoc hill),,SD,wild,,,,0.1157
+MCL-EE-40,both,y,,,,Medicago polymorpha,,MEDPOL,MEPO3,Fabaceae,forb,invasive,2019,NA,NA,NA,NA,NA,38.86556193,-122.402132,679,,,MCL-EE,wild,,,do i need this?,0.5527
+MCL-ML-22,both,y,many,legume,seed,Medicago polymorpha,,MEDPOL,MEPO3,Fabaceae,forb,invasive,2021,NA,NA,NA,NA,NA,38.87234312,-122.4269182,657,location estimate,,MCL-ML,wild,,,"53 dispersules, may be more than one seed per dispersule",0.5647
+MCL-ML-43,both,y,many,legume,seed,Medicago polymorpha,,MEDPOL,MEPO3,Fabaceae,forb,invasive,2022,NA,NA,NA,NA,NA,38.839138,-122.344017,NA,,,MCL-ML,wild,,,,0.4884
+GRIN-PI-597643,,,1,seed,seed,Medicago sativa ssp. sativa,,MEDSATS,MESAS,Fabaceae,forb,invasive,1997,100,NA,1.6372,0.16372,100,NA,NA,NA,,PI 597643,GRIN,cultivated,,,collected before 1997; cannot order more; actually perennial? ,NA
+GRIN-PI-597644,,,,,,Medicago sativa ssp. sativa,,MEDSATS,MESAS,Fabaceae,forb,invasive,1997,NA,NA,1.6372,0.16372,100,NA,NA,NA,,PI 597644,GRIN,cultivated,,,collected before 1997; cannot order more,NA
+MD-7,both,,1,seed,seed,Melilotus indicus,,MELIND,MEIN2,Fabaceae,forb,invasive,2021,NA,NA,NA,0.527,NA,33.86799227,-116.5531477,205,palm springs tram view road,,MD,wild,,,,0.0605
+CBG-19203,,,,,,Mentzelia albicaulis,,MENALB,MEAL6,Loasaceae,forb,native,1996,NA,NA,NA,0.743995009,600,34.22345,-117.73761,1198,,19203,CBG,wild,,,,0.2689
+DW-14,both,,1,seed,seed,Mentzelia albicaulis,,MENALB,MEAL6,Loasaceae,forb,native,2015,NA,NA,NA,0.0366,107,33.300718,-116.335128,191,,,DW,wild,,,,0.0583
+CBG-19941,,,,,,Mentzelia involucrata,,MENINV,MEIN5,Loasaceae,forb,native,1998,NA,NA,NA,0.9953,425.3,33.96911,-116.65219,549,,19941,CBG,wild,,,,0.0869
+DW-15,both,,1,seed,seed,Mentzelia involucrata,,MENINV,MEIN5,Loasaceae,forb,native,2015,NA,NA,NA,0.46,NA,33.240023,-116.390608,292,,,DW,wild,,,,0.0652
+CBG-24806,both,,1,seed,seed,Mentzelia micrantha,,MENMIC,MEMI3,Loasaceae,forb,native,2017,28,NA,NA,0.428998482,600,34.27361,-117.46689,846,,24806,CBG,wild,,,,0.1473
+CBG-21968,chem,,1,seed,seed,Micropus californicus,,MICCAL,MICA,Asteraceae,forb,native,1998,89.1,NA,NA,0.0082,410,34.10189,-118.70531,186,,21968,CBG,wild,,,,0.199
+MCL-EE-69,,,2,achene + pappus,achene + pappus,Micropus californicus,,MICCAL,MICA,Asteraceae,forb,native,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,MCL-EE,wild,,,,NA
+SFREC-10,both,,1,achene + pappus,achene + pappus,Micropus californicus,,MICCAL,MICA,Asteraceae,forb,native,2021,NA,NA,NA,0.2,NA,39.242472,-121.311037,151,,,SFREC,wild,x,,,0.4725
+CP-7,both,y,1,achene + pappus,achene,Microseris douglasii,,MICDOU,MIDO,Asteraceae,forb,native,NA,NA,NA,NA,0.1795,NA,35.12594684,-119.7441782,NA,,,CP,wild,,,,0.1893
+MCL-EE-42,,,,,,Microseris douglasii,,MICDOU,MIDO,Asteraceae,forb,native,NA,NA,NA,NA,NA,NA,38.86082,-122.40721,NA,,,MCL-EE,wild,,,have another acc,0.5527
+MCL-ML-10,both,y,1,achene + pappus,achene,Microseris douglasii,,MICDOU,MIDO,Asteraceae,forb,native,2016,NA,NA,NA,0.46,NA,38.87111648,-122.4272331,718,location approximate,,MCL-ML,wild,,,,0.5647
+CBG-22377,,y,1,achene + pappus,achene,Microseris elegans,,MICELE,MIEL,Asteraceae,forb,native,1997,20,NA,NA,0.163293789,144,34.1344,-118.75348,264,,22377,CBG,wild,,,,0.2062
+CP-18,both,y,1,achene + pappus,achene,Microseris elegans,,MICELE,MIEL,Asteraceae,forb,native,2020,NA,NA,NA,0.1556,NA,35.07611266,-119.6701172,NA,,,CP,wild,,,,0.1901
+CBG-23090,both,,1,seed,seed,Microsteris gracilis,Phlox gracilis,MICGRA,MIGR,Polemoniaceae,forb,native,2010,4,NA,NA,0.077713407,82,33.66523,-116.83192,756,,23090,CBG,wild,,,,0.1598
+MCL-EE-43,,,,seed,seed,Microsteris gracilis,Phlox gracilis,MICGRA,MIGR,Polemoniaceae,forb,native,2019,NA,NA,NA,NA,NA,38.87142,-122.42754,658,,,MCL-EE,wild,,,only need 18; cabinet,0.5647
+CBG-19145,chem,,1,seed,seed,Minuartia douglasii,,MINDOU,MIDO3,Caryophyllaceae,forb,native,1996,NA,NA,NA,0.052492044,164,34.30845,-118.14186,832,,19145,CBG,wild,,,,0.1892
+MCL-ML-11,both,,1,seed,seed,Minuartia douglasii,,MINDOU,MIDO3,Caryophyllaceae,forb,native,2016,NA,NA,NA,0.0627,200,38.87136945,-122.4275538,718,location approximate,,MCL-ML,wild,,,,0.5647
+CBG-21640,,,,,,Mohavea confertiflora,,MOHCON,MOCO,Plantaginaceae,forb,native,2005,17.2,NA,NA,0.0929,386,33.80944,-114.81722,83,,21640,CBG,wild,,,,0.0356
+CBG-23445,both,,1,seed,seed,Mohavea confertiflora,,MOHCON,MOCO,Plantaginaceae,forb,native,2011,48,NA,NA,0.10996542,600,33.6167,-115.91857,274,,23445,CBG,wild,,,,0.0355
+GRIN-W6-48400,both,,1,nutlet,nutlet,Monarda citriodora var. austromontana,,MONCITA,MOCIA,Lamiaceae,forb,native,2013,98,NA,0.4116,0.1762,200,31.4968,-110.68072,1420,,W6 48400,GRIN,wild,,,,0.2192
+CBG-21261,both,,1,nutlet,nutlet,Monardella breweri ssp. lanceolata,Monardella lanceolata var. lanceolata,MONBREL,MOLAL,Lamiaceae,forb,native,2003,96,NA,NA,0.252007441,600,34.17583,-116.87805,1890,,21261,CBG,wild,,,,0.399
+CP-8a,both,,1,achene,achene,Monolopia lanceolata,,MONLAN,MOLA3,Asteraceae,forb,native,2020,NA,NA,NA,0.2452,NA,35.1137529,-119.7171164,NA,,,CP,wild,,,Ray,0.1917
+CP-8b,both,,1,achene,achene,Monolopia lanceolata,,MONLAN,MOLA3,Asteraceae,forb,native,2020,NA,NA,NA,0.177,NA,35.1137529,-119.7171164,NA,,,CP,wild,,,Disc,0.1917
+CBG-19953,,,,,,Monoptilon bellioides,,MONBEL,MOBE2,Asteraceae,forb,native,1998,88,NA,NA,0.0533,385,33.65655,-115.80227,457,,19953,CBG,wild,,,,0.0374
+CBG-20685,,,,,,Monoptilon bellioides,,MONBEL,MOBE2,Asteraceae,forb,native,2001,NA,NA,NA,0.0466,423.6,34.25205,-115.72051,699,,20685,CBG,wild,,,,0.0431
+SD-15,both,,1,achene + pappus,achene + pappus,Monoptilon bellioides,,MONBEL,MOBE2,Asteraceae,forb,native,2015,NA,NA,NA,0.1601,NA,32.22343277,-111.0102093,725,collection location estimate (tumamoc hill),,SD,wild,,,,0.1157
+CBG-20891,both,,1,floret,floret,Muhlenbergia microsperma,,MUHMIC,MUMI,Poaceae,grass,native,2001,48.8,NA,NA,0.0815,500,32.60843,-116.79552,623,,20891,CBG,wild,,,,0.2049
+CBG-21971,chem,,1,floret,floret,Muhlenbergia microsperma,,MUHMIC,MUMI,Poaceae,grass,native,1995,13.3,NA,NA,0.071997174,600,34.2293,-118.7115,546,,21971,CBG,wild,,,,0.2162
+CBG-21154,,,,,,Navarretia atractyloides,,NAVATR,NAAT,Polemoniaceae,forb,native,2003,98,NA,NA,0.1043529,600,33.63663,-117.04461,564,,21154,CBG,wild,,,,0.1606
+CBG-21722,both,,1,seed,seed,Navarretia atractyloides,,NAVATR,NAAT,Polemoniaceae,forb,native,2005,95,NA,NA,0.255003787,1500,34.11437,-117.71797,408,,21722,CBG,wild,,,,0.2034
+CBG-21176,both,,1,seed,seed,Navarretia hamata,,NAVHAM,NAHA2,Polemoniaceae,forb,native,2003,98,NA,NA,0.233692914,1900,33.44333,-117.14666,457,,21176,CBG,wild,,,,0.2041
+MCL-EE-44,,,,,,Navarretia jepsonii,,NAVJEP,NAJE,Polemoniaceae,forb,native,2019,NA,NA,NA,NA,NA,38.87078,-122.42722,NA,,,MCL-EE,wild,,,have another acc,0.5647
+CBG-22362,,,1,seed,seed,Navarretia pubescens,,NAVPUB,NAPU2,Polemoniaceae,forb,native,1996,69.4,NA,NA,0.075887245,59,34.12897,-118.81975,316,,22362,CBG,wild,,,,0.2147
+MCL-ML-12,both,,1,seed,seed,Navarretia pubescens,,NAVPUB,NAPU2,Polemoniaceae,forb,native,2016,NA,NA,NA,0.2528,NA,38.87077946,-122.4272234,672,location approximate,,MCL-ML,wild,,,,0.5647
+CBG-19943,both,,1,seed,seed,Nemacladus longiflorus var. breviflorus,,NEMLONB,NELOB,Campanulaceae,forb,native,1998,0,NA,NA,0.046,2300,33.96911,-116.65219,549,,19943,CBG,wild,,,not enough of this species for phosphorus,0.0869
+CBG-20049,morph,,1,seed,seed,Nemophila menziesii,,NEMMEN,NEME,Boraginaceae,forb,native,1998,5,NA,NA,0.127556541,136,34.3273,-117.27275,1067,,20049,CBG,wild,,,,0.1192
+CBG-20789,,,,,,Nemophila menziesii,,NEMMEN,NEME,Boraginaceae,forb,native,2001,6.1,NA,NA,0.101667897,82,33.78286,-117.37926,703,,20789,CBG,wild,,,,0.1985
+SS-36,chem,,1,seed,seed,Nemophila menziesii,,NEMMEN,NEME,Boraginaceae,forb,native,2020,92,NA,NA,NA,NA,34.31451204,-118.9662452,250,Rancho de los flores; cultivation site,,SS,cultivated,,x,,0.2358
+GRIN-W6-37497,,,,,,Nicotiana attenuata,,NICATT,NIAT,Solanaceae,forb,native,2009,80,NA,0.135,0.0135,100,33.90394444,-111.8188611,1010,,W6 37497,GRIN,wild,,,,0.2017
+CBG-19718,both,,1,achene + pappus,achene + pappus,Osmadenia tenella,,OSMTEN,OSTE,Asteraceae,forb,native,1997,NA,NA,NA,0.264004478,600,32.60803,-117.02069,91,,19718,CBG,wild,,,supposed to be heteromorphic,0.1576
+CBG-21161,both,,1,achene,achene,Oxytheca perfoliata,,OXYPER,OXPE2,Polygonaceae,forb,native,2003,48,NA,NA,0.1857,420,34.41666,-116.78333,293,,21161,CBG,wild,,,,0.0937
+DW-16,both,y,1,achene + pappus,achene,Palafoxia arida,,PALARI,PAAR8,Asteraceae,forb,native,2015,NA,NA,NA,0.0889,50,33.281305,-116.348812,181,use envelope 2,,DW,wild,,,"50 cleaned seeds + 70 dispersules, tot weight doesnt include the dispersules",0.0578
+CBG-23620,both,,1,achene,achene,Palafoxia arida var. arida,,PALARIA,PAARA2,Asteraceae,forb,native,2013,22,NA,NA,0.948731997,354,34.03047,-115.23333,396,,23620,CBG,wild,,,,0.0342
+GRIN-PI-662287,both,,1,caryopsis,caryopsis,Panicum hirticaule var. hirticaule,,PANHIRH,PAHIH,Poaceae,grass,native,2010,91,1,NA,0.36,400,31.91319,-110.9841,855,,PI 662287,GRIN,wild,,,,0.1409
+CBG-23524,both,,1,achene,achene,Pectis papposa var. papposa,,PECPAPP,PEPAP3,Asteraceae,forb,native,2012,12,NA,NA,0.164819277,600,34.093,-114.63977,347,,23524,CBG,wild,,,supposed to be heteromorphic,0.041
+SD-16a,both,,1,nutlet,nutlet,Pectocarya heterocarpa,,PECHET,PEHE,Boraginaceae,forb,native,2012,NA,NA,NA,0.17,NA,32.22343277,-111.0102093,725,collection location estimate (tumamoc hill); clean but needs to be separated into different morphs,,SD,wild,,,Winged morph,0.1157
+SD-16b,both,,1,nutlet,nutlet,Pectocarya heterocarpa,,PECHET,PEHE,Boraginaceae,forb,native,2012,NA,NA,NA,0.38,NA,32.22343277,-111.0102093,725,collection location estimate (tumamoc hill); clean but needs to be separated into different morphs,,SD,wild,,,Long morph,0.1157
+SD-17,,,,,,Pectocarya heterocarpa,,PECHET,PEHE,Boraginaceae,forb,native,2015,NA,NA,NA,NA,NA,32.22343277,-111.0102093,725,collection location estimate (tumamoc hill),,SD,wild,,,,0.1157
+CBG-21040,both,,1,nutlet,nutlet,Pectocarya penicillata,,PECPEN,PEPE26,Boraginaceae,forb,native,2003,98,NA,NA,0.263998451,600,34.43305,-117.58658,1250,,21040,CBG,wild,,,,0.1911
+CP-19,both,,1,nutlet,nutlet,Pectocarya penicillata,,PECPEN,PEPE26,Boraginaceae,forb,native,2020,NA,NA,NA,0.0478,138,35.06478603,-119.6931501,NA,,,CP,wild,,,,0.2142
+CBG-21068,,,,,,Pectocarya recurvata,,PECREC,PERE,Boraginaceae,forb,native,2003,54,NA,NA,0.095379899,159,33.86388,-117.00888,585,,21068,CBG,wild,,,,0.1362
+GRIN-W6-30073,,,,,,Pectocarya recurvata,,PECREC,PERE,Boraginaceae,forb,native,2004,94,NA,0.7892,0.07892,100,33.27222,-111.17611,733,,W6 30073,GRIN,wild,,,,0.1492
+GRIN-W6-48412,,,,,,Pectocarya recurvata,,PECREC,PERE,Boraginaceae,forb,native,2013,77,NA,0.7892,0.07892,100,33.393283,-111.3626803,709,,W6 48412,GRIN,wild,,,,0.1581
+SD-18,both,,1,nutlet,nutlet,Pectocarya recurvata,,PECREC,PERE,Boraginaceae,forb,native,2015,NA,NA,NA,0.1676,NA,32.22343277,-111.0102093,725,collection location estimate (tumamoc hill),,SD,wild,,,,0.1157
+CBG-19963,both,,1,achene,achene,Perityle emoryi,,PEREMO,PEEM,Asteraceae,forb,native,1998,27,NA,NA,0.126001628,600,33.60372,-115.92266,240,,19963,CBG,wild,,,supposed to be heteromorphic,0.0325
+CBG-19141,,,,,,Phacelia brachyloba,,PHABRA,PHBR,Boraginaceae,forb,native,1996,58,NA,NA,0.15399808,1400,33.33055,-116.75333,1387,,19141,CBG,wild,,,,0.2955
+CBG-24805,both,,1,seed,seed,Phacelia brachyloba,,PHABRA,PHBR,Boraginaceae,forb,native,2017,56,NA,NA,0.225,1800,34.30335,-117.2761,1067,,24805,CBG,wild,,,,0.1638
+CBG-24506,both,,1,seed,seed,Phacelia calthifolia,,PHACAL,PHCA2,Boraginaceae,forb,native,2016,0,NA,NA,0.176006273,1100,36.19411,-116.3606,606,,24506,CBG,wild,,,,0.035
+CBG-22586,morph,,1,seed,seed,Phacelia cicutaria,,PHACIC,PHCI,Boraginaceae,forb,native,1997,12,NA,NA,0.504015544,600,34.10134,-118.69577,212,,22586,CBG,wild,,,,0.2016
+SS-37,chem,,1,seed,seed,Phacelia cicutaria,,PHACIC,PHCI,Boraginaceae,forb,native,2018,70,NA,NA,NA,NA,34.31451204,-118.9662452,250,Rancho de los flores; cultivation site,,SS,cultivated,,,,0.2358
+CBG-22385,both,,1,seed,seed,Phacelia cicutaria var. hispida,,PHACICH,PHCIH2,Boraginaceae,forb,native,1998,2,NA,NA,0.2585,544.2,34.08093,-118.70414,145,,22385,CBG,wild,,,,0.2002
+CBG-24796,both,,1,seed,seed,Phacelia crenulata,,PHACRE,PHCR,Boraginaceae,forb,native,2017,NA,NA,NA,0.683968743,600,33.87157,-116.44117,394,,24796,CBG,wild,,,,0.0585
+CBG-21673,both,,1,seed,seed,Phacelia davidsonii,,PHADAV,PHDA3,Boraginaceae,forb,native,2005,0,NA,NA,0.120369584,600,34.41231,-117.77356,1590,,21673,CBG,wild,,,,0.3429
+CBG-19167,,,,,,Phacelia distans,,PHADIS,PHDI,Boraginaceae,forb,native,1996,27.3,NA,NA,0.491993844,600,33.31805,-116.74555,1265,,19167,CBG,wild,,,,0.2701
+DW-17,both,,1,seed,seed,Phacelia distans,,PHADIS,PHDI,Boraginaceae,forb,native,2015,NA,NA,NA,0.0488,67,33.23963,-116.391061,213,,,DW,wild,,,,0.0652
+SS-38,,,,,,Phacelia distans,,PHADIS,PHDI,Boraginaceae,forb,native,2019,95,NA,NA,NA,NA,34.31451204,-118.9662452,250,Rancho de los flores; cultivation site,,SS,cultivated,,,,0.2358
+CBG-20047,both,,1,seed,seed,Phacelia fremontii,,PHAFRE,PHFR2,Boraginaceae,forb,native,1998,38.5,NA,NA,0.15,600,34.46427,-117.88505,1158,,20047,CBG,wild,,,,0.1597
+CBG-22587,both,,1,seed,seed,Phacelia grandiflora,,PHAGRA,PHGR,Boraginaceae,forb,native,1997,16.7,NA,NA,0.207,2300,34.10134,-118.69577,212,,22587,CBG,wild,,,,0.2016
+CBG-19143,,,,,,Phacelia parryi,,PHAPAR,PHPA3,Boraginaceae,forb,native,1996,28.5,NA,NA,0.247911275,700,33.31805,-116.74555,1265,,19143,CBG,wild,,,,0.2701
+CBG-22489,both,,1,seed,seed,Phacelia parryi,,PHAPAR,PHPA3,Boraginaceae,forb,native,2004,36.6,NA,NA,0.179997475,1200,34.28021,-118.59596,398,,22489,CBG,wild,,,,0.1956
+CBG-22335,both,,1,seed,seed,Phacelia viscida,,PHAVIS,PHVI,Boraginaceae,forb,native,1996,38,NA,NA,0.238000233,1700,34.05897,-118.7409,382,,22335,CBG,wild,,,,0.2185
+GRIN-PI-638927,morph,,1,seed,seed,Phaseolus acutifolius,,PHAACU,PHAC,Fabaceae,forb,native,1990,100,NA,66.9,1.6725,25,NA,NA,NA,Location unknown,PI 638927,GRIN,wild,,,,NA
+GRIN-PI-638928,morph,,1,seed,seed,Phaseolus acutifolius,,PHAACU,PHAC,Fabaceae,forb,native,1990,99,NA,66.9,1.6725,25,32.20805556,-109.575,2290,,PI 638928,GRIN,wild,,,,0.26695
+GRIN-PI-640985,morph,,1,seed,seed,Phaseolus acutifolius,,PHAACU,PHAC,Fabaceae,forb,native,1998,100,NA,66.9,1.6725,0,31.41611111,-110.7561111,1692,,PI 640985,GRIN,wild,,,,0.278
+GRIN-PI-661895,morph,,1,seed,seed,Phaseolus acutifolius,,PHAACU,PHAC,Fabaceae,forb,native,2004,NA,NA,66.9,1.6725,25,31.96361111,-109.3163889,1765,,PI 661895,GRIN,wild,,,,0.2411
+GRIN-W6-26190,morph,,1,seed,seed,Phaseolus acutifolius,,PHAACU,PHAC,Fabaceae,forb,native,2004,NA,NA,66.9,1.6725,25,31.94444444,-109.3022222,1880,,W6 26190,GRIN,wild,,,,0.2505
+GRIN-W6-38693,morph,,1,seed,seed,Phaseolus acutifolius,,PHAACU,PHAC,Fabaceae,forb,native,2010,NA,NA,66.9,1.6725,25,31.55,-111.7333333,815,"culivated, so location might not be relevant",W6 38693,GRIN,cultivated,,,collected before 2010,0.143525
+GRIN-W6-38695,morph,,1,seed,seed,Phaseolus acutifolius,,PHAACU,PHAC,Fabaceae,forb,native,2010,NA,NA,66.9,1.6725,25,31.55,-111.7333333,815,"culivated, so location might not be relevant",W6 38695,GRIN,cultivated,,,collected before 2010,0.143525
+GRIN-W6-38696,both,,1,seed,seed,Phaseolus acutifolius,,PHAACU,PHAC,Fabaceae,forb,native,2010,NA,NA,66.9,1.6725,25,31.91666667,-111.8833333,723,"culivated, so location might not be relevant",W6 38696,GRIN,cultivated,,,collected before 2010,0.121675
+GRIN-PI-640986,both,,1,seed,seed,Phaseolus acutifolius var. acutifolius,,PHAACUA,PHACA2,Fabaceae,forb,native,2001,100,NA,NA,1.35,19,NA,NA,NA,,PI 640986,GRIN,wild,,,,NA
+GRIN-PI-640987,morph,,1,seed,seed,Phaseolus acutifolius var. acutifolius,,PHAACUA,PHACA2,Fabaceae,forb,native,1984,100,NA,NA,2.52,50,32.24388889,-111.1669444,868,"culivated, so location might not be relevant",PI 640987,GRIN,cultivated,,,,0.1315
+GRIN-PI-640989,morph,,1,seed,seed,Phaseolus acutifolius var. acutifolius,,PHAACUA,PHACA2,Fabaceae,forb,native,1990,100,NA,NA,1.11,50,31.41611111,-110.7561111,1692,,PI 640989,GRIN,wild,,,,0.278
+GRIN-PI-640993,morph,,1,seed,seed,Phaseolus acutifolius var. tenuifolius,,PHAACUT,PHACT,Fabaceae,forb,native,1989,100,NA,NA,1.12,50,32.75,-109.006,1299,"Pinaleno Mountains, Graham county arizona",PI 640993,GRIN,wild,,,Potentially not in an aridland; collected before 2001,NA
+GRIN-PI-653249,morph,,1,seed,seed,Phaseolus acutifolius var. tenuifolius,,PHAACUT,PHACT,Fabaceae,forb,native,2001,84,NA,NA,1,50,NA,NA,NA,,PI 653249,GRIN,wild,,,,NA
+GRIN-W6-24877,both,,1,seed,seed,Phaseolus acutifolius var. tenuifolius,,PHAACUT,PHACT,Fabaceae,forb,native,2003,99,NA,NA,0.95,50,31.71861111,-110.7591667,1206,,W6 24877,GRIN,wild,,,,0.247
+CBG-22411,both,,1,seed,seed,Pholistoma auritum,,PHOAUR,PHAU4,Boraginaceae,forb,native,1996,0,NA,NA,0.57305638,102,34.12637,-118.86496,344,,22411,CBG,wild,,,,0.224
+CBG-19929,both,,1,seed,seed,Physalis crassifolia,,PHYCRA,PHCR4,Solanaceae,forb,native,1998,87.9,NA,NA,0.449814073,350,33.93152,-116.64936,518,,19929,CBG,wild,,,,0.0782
+GRIN-W6-30748,,,,,,Plagiobothrys arizonicus,,PLAARI,PLAR,Boraginaceae,forb,native,2005,76,NA,1.835,0.1835,100,33.93028,-112.52861,838,,W6 30748,GRIN,wild,,,,0.1408
+GRIN-W6-35312,both,,1,nutlet,nutlet,Plagiobothrys arizonicus,,PLAARI,PLAR,Boraginaceae,forb,native,2008,79,NA,1.835,0.1835,100,34.23694,-112.04139,1125,,W6 35312,GRIN,wild,,,,0.1915
+SFREC-11,both,,1,nutlet,nutlet,Plagiobothrys nothofulvus,,PLANOT,PLNO,Boraginaceae,forb,native,2021,NA,NA,NA,1,NA,39.248528,-121.31305,208,,,SFREC,wild,x,,,0.4725
+CBG-19119,,,,,,Plantago erecta,,PLAERE,PLER3,Plantaginaceae,forb,native,1996,NA,NA,NA,0.180115652,130,34.6275,-118.71194,856,,19119,CBG,wild,,,,0.1928
+CBG-21070,,,,,,Plantago erecta,,PLAERE,PLER3,Plantaginaceae,forb,native,2003,96,NA,NA,0.043227139,34,33.86263,-117.00988,585,,21070,CBG,wild,,,,0.1362
+CBG-21099,,,,,,Plantago erecta,,PLAERE,PLER3,Plantaginaceae,forb,native,2003,NA,NA,NA,0.14204666,95,32.89794,-118.48631,244,,21099,CBG,wild,,,,0.1894
+CBG-22420,,,,,,Plantago erecta,,PLAERE,PLER3,Plantaginaceae,forb,native,1997,95.8,NA,NA,0.125979955,90,34.12637,-118.86496,344,,22420,CBG,wild,,,,0.224
+CBG-22429,,,,,,Plantago erecta,,PLAERE,PLER3,Plantaginaceae,forb,native,1997,87.8,NA,NA,0.210570022,224,34.1344,-118.75348,264,,22429,CBG,wild,,,,0.2062
+MCL-EE-70,,,,,,Plantago erecta,,PLAERE,PLER3,Plantaginaceae,forb,native,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,MCL-EE,wild,,,,NA
+MCL-ML-40,morph,,1,seed,seed,Plantago erecta,,PLAERE,PLER3,Plantaginaceae,forb,native,2016,NA,NA,NA,6.09,NA,38.87078449,-122.4271909,664,location estimate,,MCL-ML,wild,,x,serpentine,0.5647
+SS-39,chem,,1,seed,seed,Plantago erecta,,PLAERE,PLER3,Plantaginaceae,forb,native,2019,86,NA,NA,NA,NA,34.31451204,-118.9662452,250,Rancho de los flores; cultivation site,,SS,cultivated,x,,,0.2358
+CBG-19948,,,,,,Plantago ovata,,PLAOVA,PLOV,Plantaginaceae,forb,native,1998,64,NA,NA,0.4253,494.5,33.65655,-115.80227,457,,19948,CBG,wild,,,,0.0374
+DW-18,both,,1,seed,seed,Plantago ovata,,PLAOVA,PLOV,Plantaginaceae,forb,native,2015,NA,NA,NA,0.33,NA,33.300718,-116.335128,191,,,DW,wild,,,,0.0583
+SD-19,both,,1,seed,seed,Plantago ovata var. insularis,Plantago insularis,PLAOVAI,PLOV,Plantaginaceae,forb,native,2015,NA,NA,NA,0.8096,NA,32.22343277,-111.0102093,725,collection location estimate (tumamoc hill),,SD,wild,,,,0.1157
+SS-40,,,,,,Plantago ovata var. insularis,Plantago insularis,PLAOVAI,PLOV,Plantaginaceae,forb,native,2017,95,NA,NA,NA,NA,34.31451204,-118.9662452,250,Rancho de los flores; cultivation site,,SS,cultivated,,,,0.2358
+CBG-23435,,,,,,Plantago patagonica,,PLAPAT,PLPA2,Plantaginaceae,forb,native,2011,98,NA,NA,0.323,414.1,33.66545,-116.83133,760,,23435,CBG,wild,,,,0.1598
+SD-20,both,,1,seed,seed,Plantago patagonica,,PLAPAT,PLPA2,Plantaginaceae,forb,native,2015,NA,NA,NA,0.32,NA,32.22343277,-111.0102093,725,collection location estimate (tumamoc hill),,SD,wild,,,,0.1157
+CBG-21074,both,,1,nutlet,nutlet,Platystemon californicus,,PLACAL,PLCA5,Papaveraceae,forb,native,2003,2,NA,NA,0.212511783,600,33.63663,-117.04461,564,,21074,CBG,wild,,,,0.1606
+CP-20,both,y,1,floret,caryopsis,Poa secunda,,POASEC,POSE,Poaceae,grass,native,2019,NA,NA,NA,0.0971,NA,35.08251215,-119.669665,NA,,,CP,wild,,,THIS IS PERENNIAL BUT WE ARE DOING IT FOR LORALEE,0.1901
+MD-1,both,y,1,floret,caryopsis,Polypogon monspeliensis,,POLMON,POMO5,Poaceae,grass,invasive,2021,NA,NA,NA,0.21,NA,33.99762703,-116.6056899,613,Mission creek,,MD,wild,,,,0.075
+CBG-21067,both,,1,achene,achene,Pterostegia drymarioides,,PTEDRY,PTDR,Polygonaceae,forb,native,2003,52,NA,NA,0.15361,564.6,33.86263,-117.00988,585,,21067,CBG,wild,,,,0.1362
+CBG-24959,both,,1,achene + pappus,achene + pappus,Rafinesquia californica,,RAFCAL,RACA,Asteraceae,forb,native,2017,47.8,NA,NA,0.300091424,230,34.02532,-116.61025,893,,24959,CBG,wild,,,,0.099
+MCL-EE-46,,,,,,Rigiopappus leptocladus,,RIGLEP,RILE2,Asteraceae,forb,native,2019,NA,NA,NA,NA,NA,38.87154,-122.42751,NA,,,MCL-EE,wild,,,have another acc,0.5647
+MCL-ML-23,both,,1,achene + pappus,achene + pappus,Rigiopappus leptocladus,,RIGLEP,RILE2,Asteraceae,forb,native,2021,NA,NA,NA,0.19,NA,38.87135834,-122.4275268,659,,,MCL-ML,wild,,,,0.5647
+SS-41,both,,1,nutlet,nutlet,Salvia carduacea,,SALCAR,SACA8,Lamiaceae,forb,native,2019,93,NA,NA,0.86,NA,NA,NA,NA,"collected from various locations in Riverside, San Diego, and Orange Counties",,SS,wild,,,,NA
+CBG-19939,,,,,,Salvia columbariae,,SALCOL,SACO6,Lamiaceae,forb,native,1998,51.5,NA,NA,0.528004584,600,33.96911,-116.65219,549,,19939,CBG,wild,,,,0.0869
+DW-19,both,,1,nutlet,nutlet,Salvia columbariae,,SALCOL,SACO6,Lamiaceae,forb,native,2015,NA,NA,NA,0.37,NA,33.239771,-116.390937,213,,,DW,wild,,,,0.0652
+SS-42,,,,,,Salvia columbariae,,SALCOL,SACO6,Lamiaceae,forb,native,2020,82,NA,NA,NA,NA,NA,NA,NA,"collected from various locations in Riverside, San Diego, and Orange Counties",,SS,wild,,x,,NA
+DW-20,,,,,,Schismus barbatus,,SCHBAR,SCBA,Poaceae,grass,invasive,2015,NA,NA,NA,NA,NA,33.260299,-116.348083,NA,,,DW,wild,,,dont clean,0.0572
+SD-21,both,,1,caryopsis,caryopsis,Schismus barbatus,,SCHBAR,SCBA,Poaceae,grass,invasive,2015,NA,NA,NA,NA,NA,32.22343277,-111.0102093,725,collection location estimate (tumamoc hill),,SD,wild,,,,0.1157
+MD-8,,,,,,Schismus sp.,,SCHSP.,SCBA,Poaceae,grass,invasive,2021,NA,NA,NA,NA,NA,33.99061279,-116.6578569,681,Whitewater preserve,,MD,wild,,,arabicus or barbata? dont clean,0.0923
+SAC-05,both,y,1,achene + pappus,achene,Senecio vulgaris,,SENVUL,SEVU,Asteraceae,forb,invasive,2021,NA,NA,NA,0.17,NA,38.55086923,-121.460053,11,Oak Park,,SAC,wild,,,,0.2556
+CBG-21233,both,,1,seed,seed,Sesbania herbacea,,SESHER,SEHE8,Fabaceae,forb,native,2003,19.6,NA,NA,0.948911175,140,32.78338,-114.59923,43,,21233,CBG,wild,,,,0.0315
+MCL-EE-47,,,,,,Sidalcea diploscypha,,SIDDIP,SIDI,Malvaceae,forb,native,2019,NA,NA,NA,NA,NA,38.86556193,-122.402132,NA,,,MCL-EE,wild,,,have another acc,0.5527
+MCL-ML-30,both,,1,mericarp,mericarp,Sidalcea diploscypha,,SIDDIP,SIDI,Malvaceae,forb,native,2021,NA,NA,NA,1.0252,216,38.86023696,-122.4118546,646,,,MCL-ML,wild,,,,0.5445
+MCL-EE-48,both,,1,seed,seed,Silene gallica,,SILGAL,SIGA,Caryophyllaceae,forb,invasive,2019,NA,NA,NA,0.053,NA,38.87274024,-122.4271505,667,,,MCL-EE,wild,,,,0.5647
+MD-9,both,,1,seed,seed,Sisymbrium altissimum,,SISALT,SIAL2,Brassicaceae,forb,invasive,2021,NA,NA,NA,0.1543,NA,33.97741778,-116.1647915,1321,JOTR Juniper Flat,,MD,wild,,,,0.1233
+MD-10,both,,1,seed,seed,Sisymbrium irio,,SISIRI,SIIR,Brassicaceae,forb,invasive,2021,NA,NA,NA,0.2,NA,33.99061279,-116.6578569,681,Whitewater preserve and palm springs,,MD,wild,,,,0.0923
+MD-11,both,,1,seed,seed,Sisymbrium orientale,,SISORI,SIOR4,Brassicaceae,forb,invasive,2021,NA,NA,NA,0.1342,NA,33.99762703,-116.6056899,613,Mission creek,,MD,wild,,,,0.075
+CBG-19518,both,,1,seed,seed,Spergularia platensis,,SPEPLA,SPPL2,Caryophyllaceae,forb,invasive,1996,NA,NA,NA,0.021000413,600,33.87694,-117.11527,435,,19518,CBG,wild,,,,0.1386
+CBG-23446,both,,1,achene,achene,Stephanomeria exigua,,STEEXI,STEX,Asteraceae,forb,native,2011,28,NA,NA,0.161752002,337,34.2271,-115.72292,671,,23446,CBG,wild,,,,0.0439
+DW-21,,,,,,Stephanomeria exigua,,STEEXI,STEX,Asteraceae,forb,native,2015,NA,NA,NA,NA,NA,33.285516,-116.348755,NA,,,DW,wild,,,,0.0581
+MD-12,both,y,1,floret,caryopsis,Stipa capensis,Achnatherum capense,STICAP,ACCA34,Poaceae,grass,invasive,2021,NA,NA,NA,0.17,NA,33.85230388,-116.5606831,238,palm springs raquet club,,MD,wild,,,,0.0641
+DW-22,both,,1,seed,seed,Streptanthella longirostris,,STRLON,STLO4,Brassicaceae,forb,native,2015,NA,NA,NA,0.22,NA,33.301555,-116.337843,189,,,DW,wild,,,,0.0583
+CBG-22705,both,,1,seed,seed,Streptanthus insignis,,STRINS,STIN,Brassicaceae,forb,native,2008,4.2,NA,NA,0.271345646,600,36.584,-120.81637,389,,22705,CBG,wild,,,,0.1131
+CBG-21247,both,,1,seed,seed,Streptanthus polygaloides,,STRPOL,STPO2,Brassicaceae,forb,native,2003,84,NA,NA,0.287597765,1300,37.86489,-120.44448,372,,21247,CBG,wild,,,,0.3346
+SD-22,both,,1,achene,achene,Stylocline micropoides,,STYMIC,STMI2,Asteraceae,forb,native,2015,NA,NA,NA,0.13,NA,32.22343277,-111.0102093,725,collection location estimate (tumamoc hill),,SD,wild,,,,0.1157
+CBG-22608,both,y,1,silicle,seed,Thysanocarpus curvipes,,THYCUR,THCU,Brassicaceae,forb,native,1996,90,NA,NA,0.105419872,62,34.10134,-118.6958,212,,22608,CBG,wild,,,,0.2016
+CBG-22609,both,y,1,silicle,seed,Thysanocarpus curvipes,,THYCUR,THCU,Brassicaceae,forb,native,2002,84.2,NA,NA,0.016657143,11,34.10134,-118.6958,212,,22609,CBG,wild,,,,0.2016
+MCL-EE-49,,,,silicle,seed,Thysanocarpus curvipes,,THYCUR,THCU,Brassicaceae,forb,native,2019,NA,NA,NA,NA,NA,38.87078,-122.42722,672,,,MCL-EE,wild,,,elise only has 3 maternal families; cabinet,0.5647
+MCL-ML-24,both,,,,,Thysanocarpus curvipes,,THYCUR,THCU,Brassicaceae,forb,native,2021,NA,NA,NA,NA,NA,38.87150375,-122.4277193,NA,bottom of hill S water,,MCL-ML,wild,,,,0.5647
+CBG-24132,both,,1,seed,seed,Tidestromia suffruticosa var. oblongifolia,,TIDSUFO,TISUO,Amaranthaceae,forb,native,2015,88,NA,NA,0.19334,422.7,33.55202,-115.8058,404,,24132,CBG,wild,,,,0.0392
+CBG-19959,both,y,1,achene + pappus,achene,Trichoptilium incisum,,TRIINC,TRIN2,Asteraceae,forb,native,1998,32,NA,NA,0.3288,505.9,33.60372,-115.92266,240,,19959,CBG,wild,,,,0.0325
+CBG-24960,both,,1,nutlet,nutlet,Trichostema austromontanum ssp. austromontanum,,TRIAUSA,TRAUA2,Lamiaceae,forb,native,2017,60,NA,NA,0.1475,468.3,34.30043,-117.2254,1530,,24960,CBG,wild,,,,0.4158
+CBG-21779,both,,1,nutlet,nutlet,Trichostema lanceolatum,,TRILAN,TRLA4,Lamiaceae,forb,native,2005,10.2,NA,NA,0.509721078,600,34.02686,-117.32765,279,,21779,CBG,wild,,,,0.1444
+MCL-EE-50,both,,2-Jan,seed,seed,Trifolium albopurpureum,,TRIALB,TRAL5,Fabaceae,forb,native,2016,NA,NA,NA,0.152,68,38.87149122,-122.4275575,657,location estimate,,MCL-EE,wild,,,check notes on bag for location estimate,0.5647
+CP-21,both,,1,seed,seed,Trifolium depauperatum,,TRIDEP,TRDE,Fabaceae,forb,native,2020,NA,NA,NA,0.2429,NA,35.13267495,-119.7457026,NA,,,CP,wild,,,,0.1893
+MCL-EE-71,,,,,,Trifolium fucatum,,TRIFUC,TRFU,Fabaceae,forb,native,NA,NA,NA,NA,NA,NA,38.86973,-122.42798,NA,,,MCL-EE,wild,,,,0.5647
+MCL-ML-41,both,,4-Feb,seed,seed,Trifolium fucatum,,TRIFUC,TRFU,Fabaceae,forb,native,2015,NA,NA,NA,2.6665,NA,38.87018887,-122.4280029,664,location estimate,,MCL-ML,wild,,,,0.5647
+CP-9,both,,2-Jan,seed,seed,Trifolium gracilentum,,TRIGRA,TRGR2,Fabaceae,forb,native,2020,NA,NA,NA,0.99,NA,35.13267495,-119.7457026,NA,,,CP,wild,,,,0.1893
+MCL-EE-52,,,,,,Trifolium gracilentum,,TRIGRA,TRGR2,Fabaceae,forb,native,2016,NA,NA,NA,NA,NA,38.87248,-122.42748,NA,East of Line 5 Top of Hill,,MCL-EE,wild,,,,0.5647
+MCL-EE-53,,,,,,Trifolium hirtum,,TRIHIR,TRHI4,Fabaceae,forb,invasive,2017,NA,NA,NA,NA,NA,NA,NA,NA,,,MCL-EE,wild,,,have another acc,NA
+SFREC-12,both,y,1,flower,seed,Trifolium hirtum,,TRIHIR,TRHI4,Fabaceae,forb,invasive,2021,NA,NA,NA,0.6968,NA,39.3016394,-121.2929935,384,,,SFREC,wild,,,,0.54
+SS-43,,,,,,Trifolium hirtum,,TRIHIR,TRHI4,Fabaceae,forb,invasive,2020,94,NA,NA,NA,NA,34.31451204,-118.9662452,250,Rancho de los flores; cultivation site,,SS,cultivated,x,,"seed is coated, avoid using",0.2358
+CBG-22398,both,,2-Jan,seed,seed,Trifolium microcephalum,,TRIMIC,TRMI4,Fabaceae,forb,native,1998,14.3,NA,NA,0.163633947,196,34.12841,-118.85673,323,,22398,CBG,wild,,,,0.2197
+CBG-22397,,,,seed,seed,Trifolium willdenovii,Trifolium tridentatum,TRIWIL,TRWI3,Fabaceae,forb,native,1998,NA,NA,NA,0.018542636,13,34.13948,-118.85686,290,,22397,CBG,wild,,,,0.219
+MCL-EE-72,,,,,,Trifolium willdenovii,,TRIWIL,TRWI3,Fabaceae,forb,native,NA,NA,NA,NA,NA,NA,38.87248,-122.42748,NA,,,MCL-EE,wild,,,,0.5647
+MCL-ML-42,morph,,2-Jan,seed,seed,Trifolium willdenovii,Trifolium tridentatum,TRIWIL,TRWI3,Fabaceae,forb,native,2011,NA,NA,NA,3.02,NA,38.86398651,-122.4050322,655,location estimate,,MCL-ML,wild,,,,0.5527
+SS-44,chem,,2-Jan,seed,seed,Trifolium willdenovii,Trifolium tridentatum,TRIWIL,TRWI3,Fabaceae,forb,native,2020,86,NA,NA,NA,NA,34.31451204,-118.9662452,250,Rancho de los flores; cultivation site,,SS,cultivated,x,,,0.2358
+CP-10,both,,1,seed,seed,Tropidocarpum gracile,,TROGRA,TRGR5,Asteraceae,forb,native,2019,NA,NA,NA,0.1077,NA,35.06478603,-119.6931501,NA,,,CP,wild,,,,0.2142
+CBG-21039,,,,,,Uropappus lindleyi,Microseris lindleyi,UROLIN,MILI5,Asteraceae,forb,native,2003,0,NA,NA,1.199979075,600,34.43333,-117.58666,1250,,21039,CBG,wild,,,,0.1846
+CP-22,both,y,1,achene + pappus,achene,Uropappus lindleyi,Microseris lindleyi,UROLIN,MILI5,Asteraceae,forb,native,2020,NA,NA,NA,0.4048,NA,35.07611266,-119.6701172,NA,,,CP,wild,,,,0.1901
+MCL-EE-73,,,,,,Uropappus lindleyi,,UROLIN,MILI5,Asteraceae,forb,native,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,MCL-EE,wild,,,,NA
+MCL-ML-25,both,y,1,achene + pappus,achene,Uropappus lindleyi,Microseris lindleyi,UROLIN,MILI5,Asteraceae,forb,native,2015,NA,NA,NA,0.5,NA,38.86537177,-122.4029395,663,location approximate,,MCL-ML,wild,,,,0.5527
+MCL-EE-56,,,,,,Velezia rigida,,VELRIG,VERI,Caryophyllaceae,forb,invasive,2017,NA,NA,NA,NA,NA,NA,NA,NA,,,MCL-EE,wild,,,only one maternal family,NA
+MCL-EE-57,,,,,,Vicia villosa,,VICVIL,VIVI,Fabaceae,forb,invasive,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,MCL-EE,wild,,,have another acc,NA
+MCL-ML-31,both,,1,seed,seed,Vicia villosa,,VICVIL,VIVI,Fabaceae,forb,invasive,2021,NA,NA,NA,6.92,NA,38.87214352,-122.4276984,657,,,MCL-ML,wild,x,,,0.5647
+DW-23,both,y,1,achene + pappus,achene,Volutaria tubuliflora,,VOLTUB,,Asteraceae,forb,invasive,2015,NA,NA,NA,0.16,140,33.260428,-116.348116,165,,,DW,wild,,,,0.0572
+GRIN-W6-30964,morph,,1,achene + pappus,achene,Xanthisma gracile,Machaeranthera gracilis,XANGRA,MAGR10,Asteraceae,forb,native,2005,42,NA,NA,0.1356,200,33.41417,-112.37333,2133,,W6 30964,GRIN,wild,,,,0.0644
+GRIN-W6-43852,chem,,1,achene,achene,Xanthisma gracile,Machaeranthera gracilis,XANGRA,MAGR10,Asteraceae,forb,native,2012,77,NA,NA,0.125,200,34.5407,-111.82628,951,,W6 43852,GRIN,wild,,,collected before 2012,0.1599
+MCL-EE-58,,,,,,Zeltnera trichantha,Centaurium trichanthum,ZELTRI,CETR2,Gentianaceae,forb,native,2019,NA,NA,NA,NA,NA,38.87046,-122.42802,NA,,,MCL-EE,wild,,,have another acc,0.5647
+MCL-ML-13,both,,1,seed,seed,Zeltnera trichantha,Centaurium trichanthum,ZELTRI,CETR2,Gentianaceae,forb,native,2016,NA,NA,NA,0.1767,NA,38.86973285,-122.4279027,672,location approximate,,MCL-ML,wild,,x,,0.5647

@@ -95,7 +95,7 @@ r_df <- filter(r_df, !is.na(aridity_bin))
 r_df$aridity_bin <- factor(r_df$aridity_bin, levels = c("<0.03", "0.03-0.15", "0.15-0.2", "0.2–0.4", "0.4–0.5", "0.5–0.65", ">0.65"))
 
 # Add in sites
-meta <- read.csv("Data/Long-Term-Datasets/Datasets_metadata.csv")
+meta <- read.csv("Data/Datasets_metadata.csv")
 
 # Convert meta to sf
 sites_sf <- st_as_sf(meta, coords = c("Longitude", "Latitude"), crs = 4326)
@@ -117,7 +117,7 @@ map <- ggplot() +
     )
   ) +
   geom_sf(data = az_ca, fill = NA, color = "black", linewidth = 0.5) +
-  geom_sf(data = pts_sf, shape = 21, fill = "gold", color = "black", size = 2, stroke = 0.4) +
+  #geom_sf(data = pts_sf, shape = 21, fill = "gold", color = "black", size = 2, stroke = 0.4) +
   #geom_sf(data = sites_sf, shape = 24, color = "black", size = 3, fill = "magenta3", stroke = 0.7, alpha = 0.8) +  # stars
   coord_sf(xlim = c(-125, -107), ylim = c(30, 43), expand = FALSE) +
   theme_void() +
@@ -127,6 +127,6 @@ map <- ggplot() +
   ) #+
   #geom_sf_text(data = sites_sf, aes(label = Dataset), size = 5, nudge_y = 1)
 
-ggsave("Manuscript/Aridity/map-no-sites.png", map, width = 7, height = 5, units = "in")
+ggsave("Manuscript/Aridity/map-no-sites-no-dots.png", map, width = 7, height = 5, units = "in")
 
 
