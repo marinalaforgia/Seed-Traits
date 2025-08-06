@@ -9,7 +9,6 @@ Data/Carbon-Nitrogen/
 Data/Coat-Permeability/
 Data/Dispersal-Vector/
 Data/Dormancy/
-Data/Long-Term-Datasets/
 Data/Embryo-Morphology/
 Data/Height/
 Data/Herbarium-Occurrences/
@@ -22,5 +21,14 @@ Scans/
 Spatial-Data/
 Pilbara-Seed-Atlas/
 Photos/
-Scripts/HMMs/
-
+Scripts/Archive/
+Scripts/Species-Selection/
+Scripts/Trait-Cleaning/
+Scripts/HMMs/Archive/
+Scripts/HMMs/Carrizo-Plain/Archive/
+Scripts/HMMs/Jasper-Ridge/archive/
+Scripts/HMMs/McLaughlin/Archive/
+Scripts/HMMs/Portal/Archive/
+Scripts/HMMs/Sonoran-Desert/Archive/
+.DS_Store
+Scripts/HMMs/**/Archive/
